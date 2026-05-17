@@ -2,12 +2,12 @@
   "id": "art",
   "name": "Art",
   "description": "Brushstrokes, sculptures, scandalous patrons, and the masters behind them.",
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "art-1-1",
       "difficulty": 1,
-      "question": "What is a fundamental element of the Gothic style of architecture?",
+      "question": "A fundamental element of the Gothic style of architecture.",
       "answer": "pointed arch"
     },
     {
@@ -19,215 +19,185 @@
     {
       "id": "art-1-3",
       "difficulty": 1,
-      "question": "Who painted the Sistine Chapel?",
+      "question": "The painter of the Sistine Chapel.",
       "answer": "Michelangelo"
     },
     {
       "id": "art-1-4",
       "difficulty": 1,
-      "question": "Who painted the Mona Lisa?",
+      "question": "The painter of the Mona Lisa.",
       "answer": "Leonardo da Vinci"
     },
     {
       "id": "art-1-5",
       "difficulty": 1,
-      "question": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
+      "question": "The painter of \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\".",
       "answer": "Salvador Dali"
     },
     {
       "id": "art-1-6",
       "difficulty": 1,
-      "question": "Who painted The Starry Night?",
+      "question": "The painter of The Starry Night.",
       "answer": "Vincent van Gogh"
     },
     {
       "id": "art-1-7",
       "difficulty": 1,
-      "question": "What color is produced by mixing black and white?",
+      "question": "The color produced by mixing black and white.",
       "answer": "Grey"
     },
     {
       "id": "art-1-8",
       "difficulty": 1,
-      "question": "Who sculpted the statue of David?",
+      "question": "The sculptor of the statue of David.",
       "answer": "Michelangelo"
     },
     {
       "id": "art-1-9",
       "difficulty": 1,
-      "question": "Who painted the Mona Lisa?",
+      "question": "The painter of the Mona Lisa.",
       "answer": "Leonardo da Vinci"
     },
     {
       "id": "art-1-10",
       "difficulty": 1,
-      "question": "What is the world's oldest known piece of fiction?",
+      "question": "The world's oldest known piece of fiction.",
       "answer": "Epic of Gilgamesh"
     },
     {
       "id": "art-1-11",
       "difficulty": 1,
-      "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
-      "answer": "False"
-    },
-    {
-      "id": "art-1-12",
-      "difficulty": 1,
-      "question": "Which artist painted the late 15th century mural 'The Last Supper'?",
+      "question": "The artist who painted the late 15th century mural 'The Last Supper'.",
       "answer": "Leonardo da Vinci"
     },
     {
       "id": "art-2-1",
       "difficulty": 2,
-      "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+      "question": "The Japanese art of folding paper into decorative shapes and figures.",
       "answer": "Origami"
     },
     {
       "id": "art-2-2",
       "difficulty": 2,
-      "question": "Who painted \"The Starry Night\"?",
+      "question": "The painter of \"The Starry Night\".",
       "answer": "Vincent van Gogh"
     },
     {
       "id": "art-2-3",
       "difficulty": 2,
-      "question": "Who painted the biblical fresco The Creation of Adam?",
+      "question": "The artist who painted the biblical fresco 'The Creation of Adam'.",
       "answer": "Michelangelo"
     },
     {
       "id": "art-2-4",
       "difficulty": 2,
-      "question": "Which artist is famous for cutting off his ear?",
+      "question": "The artist famous for cutting off his ear.",
       "answer": "Vincent van Gogh"
     },
     {
       "id": "art-2-5",
       "difficulty": 2,
-      "question": "Leonardo da Vinci's Mona Lisa does not have eyebrows.",
-      "answer": "True"
+      "question": "The Van Gogh painting depicting the view from his asylum in Saint-Rémy-de-Provence in southern France.",
+      "answer": "The Starry Night"
     },
     {
       "id": "art-2-6",
       "difficulty": 2,
-      "question": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
-      "answer": "The Starry Night"
-    },
-    {
-      "id": "art-2-7",
-      "difficulty": 2,
-      "question": "What is another name for La Gioconda / La Joconde?",
+      "question": "Another name for La Gioconda / La Joconde.",
       "answer": "The Mona Lisa"
     },
     {
       "id": "art-3-1",
       "difficulty": 3,
-      "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
-      "answer": "False"
+      "question": "The painter of the epic mural Guernica.",
+      "answer": "Pablo Picasso"
     },
     {
       "id": "art-3-2",
       "difficulty": 3,
-      "question": "Pablo Picasso is one of the founding fathers of \"Cubism.\"",
-      "answer": "True"
+      "question": "The nationality of surrealist painter Salvador Dali.",
+      "answer": "Spanish"
     },
     {
       "id": "art-3-3",
       "difficulty": 3,
-      "question": "Who painted the epic mural Guernica?",
-      "answer": "Pablo Picasso"
+      "question": "The two colors of the robes worn by Jesus in Leonardo Da Vinci's \"Last Supper\".",
+      "answer": "Red and Blue"
     },
     {
       "id": "art-3-4",
       "difficulty": 3,
-      "question": "What nationality was the surrealist painter Salvador Dali?",
-      "answer": "Spanish"
+      "question": "What Marcel Duchamp's readymades were.",
+      "answer": "utilitarian objects elevated to the status of art"
     },
     {
       "id": "art-3-5",
       "difficulty": 3,
-      "question": "In \"Last Supper\" by Leonardo Da Vinci, what two colors were the robes worn by Jesus?",
-      "answer": "Red and Blue"
+      "question": "The artist who painted 'The Treachery of Images,' a painting of a pipe with the description 'this is not a pipe'.",
+      "answer": "Magritte"
     },
     {
       "id": "art-3-6",
       "difficulty": 3,
-      "question": "What were Marcel Duchamp's readymades?",
-      "answer": "utilitarian objects elevated to the status of art"
+      "question": "The artist whose studio was known as 'The Factory'.",
+      "answer": "Andy Warhol"
     },
     {
       "id": "art-3-7",
       "difficulty": 3,
-      "question": "Which artist painted “The Treachery of Images,” a painting of a pipe with the description \"this is not a pipe\"?",
-      "answer": "Magritte"
+      "question": "A famous marker brand.",
+      "answer": "Copic"
     },
     {
       "id": "art-3-8",
       "difficulty": 3,
-      "question": "Which artist’s studio was known as 'The Factory'?",
-      "answer": "Andy Warhol"
-    },
-    {
-      "id": "art-3-9",
-      "difficulty": 3,
-      "question": "Which of these are the name of a famous marker brand?",
-      "answer": "Copic"
-    },
-    {
-      "id": "art-3-10",
-      "difficulty": 3,
-      "question": "Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?",
+      "question": "The Greek sculptor who designed the Athena Parthenos statue inside the Parthenon.",
       "answer": "Phidias"
     },
     {
-      "id": "art-3-11",
-      "difficulty": 3,
-      "question": "Vincent van Gogh cut off one of his ears.",
-      "answer": "True"
-    },
-    {
-      "id": "art-3-12",
+      "id": "art-3-9",
       "difficulty": 3,
       "question": "Which one of these paintings is not by Caspar David Friedrich?",
       "answer": "The Black Sea"
     },
     {
-      "id": "art-3-13",
+      "id": "art-3-10",
       "difficulty": 3,
-      "question": "Who designed the Chupa Chups logo?",
+      "question": "The designer of the Chupa Chups logo.",
       "answer": "Salvador Dali"
     },
     {
-      "id": "art-3-14",
+      "id": "art-3-11",
       "difficulty": 3,
-      "question": "Who painted the painting \"Nighthawks\"?",
+      "question": "The painter of \"Nighthawks\".",
       "answer": "Edward Hopper"
     },
     {
-      "id": "art-3-15",
+      "id": "art-3-12",
       "difficulty": 3,
       "question": "Which of these paintings did Johannes Vermeer not paint?",
       "answer": "Bacchus"
     },
     {
-      "id": "art-3-16",
+      "id": "art-3-13",
       "difficulty": 3,
-      "question": "Which artist's style was to use small different colored dots to create a picture?",
+      "question": "The artist whose style was to use small different colored dots to create a picture.",
       "answer": "Georges Seurat"
     },
     {
-      "id": "art-3-17",
+      "id": "art-3-14",
       "difficulty": 3,
-      "question": "Who painted \"The Scream\"?",
+      "question": "The painter of \"The Scream\".",
       "answer": "Edvard Munch"
     },
     {
-      "id": "art-3-18",
+      "id": "art-3-15",
       "difficulty": 3,
-      "question": "Which time signature is commonly known as “Cut Time?”",
+      "question": "The time signature commonly known as \"Cut Time.\"",
       "answer": "2/2"
     },
     {
-      "id": "art-3-19",
+      "id": "art-3-16",
       "difficulty": 3,
       "question": "Which one of these colors are not featured in Mondrian's Broadway Boogie-Woogie?",
       "answer": "Green"
@@ -235,127 +205,103 @@
     {
       "id": "art-4-1",
       "difficulty": 4,
-      "question": "What nationality was the famous artist Van Gogh?",
+      "question": "The nationality of the famous artist Van Gogh.",
       "answer": "Dutch"
     },
     {
       "id": "art-4-2",
       "difficulty": 4,
-      "question": "What year did Albrecht Dürer create the painting \"The Young Hare\"?",
+      "question": "The year Albrecht Dürer created the painting 'The Young Hare'.",
       "answer": "1502"
     },
     {
       "id": "art-4-3",
       "difficulty": 4,
-      "question": "Paul Gauguin moved to which country in 1895?",
+      "question": "The country Paul Gauguin moved to in 1895.",
       "answer": "Tahiti"
     },
     {
       "id": "art-4-4",
       "difficulty": 4,
-      "question": "The name \"Impressionsim\" was first given to that art movement by a critic's satirical review of a Monet painting.",
-      "answer": "True"
+      "question": "The art movement Pablo Picasso is known for co-founding.",
+      "answer": "Cubism"
     },
     {
       "id": "art-4-5",
       "difficulty": 4,
-      "question": "Which art movement was Pablo Picasso known for co-founding?",
-      "answer": "Cubism"
-    },
-    {
-      "id": "art-4-6",
-      "difficulty": 4,
-      "question": "When was Salvador Dali's painting, \"The Persistence of Memory,\" completed?",
+      "question": "The year Salvador Dali completed his painting 'The Persistence of Memory'.",
       "answer": "1931"
     },
     {
-      "id": "art-4-7",
+      "id": "art-4-6",
       "difficulty": 4,
       "question": "Which of these is not an additional variation of the color purple?",
       "answer": "Kobicha"
     },
     {
-      "id": "art-4-8",
+      "id": "art-4-7",
       "difficulty": 4,
-      "question": "The Statue of Liberty's official name is “Liberty Enlightening the World”.",
-      "answer": "True"
-    },
-    {
-      "id": "art-4-9",
-      "difficulty": 4,
-      "question": "What year was the Mona Lisa finished?",
+      "question": "The year the Mona Lisa was finished.",
       "answer": "1504"
     },
     {
-      "id": "art-4-10",
+      "id": "art-4-8",
       "difficulty": 4,
-      "question": "What was the major distinction between the English and French Gothic styles of architecture?",
+      "question": "The major distinction between the English and French Gothic styles of architecture.",
       "answer": "Fan vaulting"
     },
     {
       "id": "art-5-1",
       "difficulty": 5,
-      "question": "The painting \"The Starry Night\" by Vincent van Gogh was part of which art movement?",
+      "question": "The art movement that included Vincent van Gogh's painting 'The Starry Night'.",
       "answer": "Post-Impressionism"
     },
     {
       "id": "art-5-2",
       "difficulty": 5,
-      "question": "How many paint and pastel versions of \"The Scream\" is Norwegian painter Edvard Munch believed to have produced?",
+      "question": "The number of paint and pastel versions of \"The Scream\" Norwegian painter Edvard Munch is believed to have produced.",
       "answer": "4"
     },
     {
       "id": "art-5-3",
       "difficulty": 5,
-      "question": "The painting \"Guernica\" by Pablo Picasso expressed emotions of dread in response to which war?",
+      "question": "The war whose dread Pablo Picasso expressed in his painting 'Guernica'.",
       "answer": "Spanish Civil War"
     },
     {
       "id": "art-5-4",
       "difficulty": 5,
-      "question": "What nationality was the famous artist Pablo Picasso?",
+      "question": "The nationality of the famous artist Pablo Picasso.",
       "answer": "Spanish"
     },
     {
       "id": "art-5-5",
       "difficulty": 5,
-      "question": "Albrecht Dürer's birthplace and place of death were in...",
+      "question": "Albrecht Dürer's birthplace and place of death.",
       "answer": "Nürnberg"
     },
     {
       "id": "art-5-6",
       "difficulty": 5,
-      "question": "A typical trait of the Expressionist art movement is to distort the world radically for emotional effect.",
-      "answer": "True"
+      "question": "The art movement that Piet Mondrian (1872-1944) was a part of.",
+      "answer": "Neoplasticism"
     },
     {
       "id": "art-5-7",
       "difficulty": 5,
-      "question": "Ancient Greek and Roman sculptors often colored their statues.",
-      "answer": "True"
+      "question": "The first successful and commercially viable photographic technique.",
+      "answer": "The Daguerreotype"
     },
     {
       "id": "art-5-8",
       "difficulty": 5,
-      "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
-      "answer": "Neoplasticism"
+      "question": "The French sculptor who designed the Statue of Liberty.",
+      "answer": "Frédéric Auguste Bartholdi"
     },
     {
       "id": "art-5-9",
       "difficulty": 5,
-      "question": "What was the first successful and commercially viable photographic technique?",
-      "answer": "The Daguerreotype"
-    },
-    {
-      "id": "art-5-10",
-      "difficulty": 5,
-      "question": "What French sculptor designed the Statue of Liberty?",
-      "answer": "Frédéric Auguste Bartholdi"
-    },
-    {
-      "id": "art-5-11",
-      "difficulty": 5,
-      "question": "Who painted \"American Gothic\"?",
+      "question": "The painter of \"American Gothic\".",
       "answer": "Grant Wood"
     }
   ],
@@ -366,11 +312,12 @@
     "fetchedAt": "2026-05-15T21:15:05.812Z",
     "totalAvailable": 59,
     "distribution": {
-      "1": 12,
-      "2": 7,
-      "3": 19,
-      "4": 10,
-      "5": 11
-    }
+      "1": 11,
+      "2": 6,
+      "3": 16,
+      "4": 8,
+      "5": 9
+    },
+    "trueFalseStrippedAt": "2026-05-17T16:04:30.487Z"
   }
 }

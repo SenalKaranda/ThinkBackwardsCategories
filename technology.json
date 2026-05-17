@@ -2,214 +2,148 @@
   "id": "technology",
   "name": "Technology",
   "description": "Computers, code, gadgets, and the machines reshaping how we live.",
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "technology-1-1",
       "difficulty": 1,
-      "question": "What programming language was GitHub written in?",
+      "question": "The programming language GitHub was written in.",
       "answer": "Ruby"
     },
     {
       "id": "technology-1-2",
       "difficulty": 1,
-      "question": "A Mac is not a PC",
-      "answer": "False"
+      "question": "In computing, what MIDI stands for.",
+      "answer": "Musical Instrument Digital Interface"
     },
     {
       "id": "technology-1-3",
       "difficulty": 1,
-      "question": "The first IBM PC was released in 1981.",
-      "answer": "True"
+      "question": "The SQL keyword used to fetch data from a database.",
+      "answer": "SELECT"
     },
     {
       "id": "technology-1-4",
       "difficulty": 1,
-      "question": "The programming language \"Python\" is based off a modified version of \"JavaScript\".",
-      "answer": "False"
+      "question": "On Twitter, the original character limit for a Tweet.",
+      "answer": "140"
     },
     {
       "id": "technology-1-5",
       "difficulty": 1,
-      "question": "Time on Computers is measured via the EPOX System.",
-      "answer": "False"
+      "question": "On a standard American QWERTY keyboard, the symbol entered by holding shift and pressing 1.",
+      "answer": "Exclamation Mark"
     },
     {
       "id": "technology-1-6",
       "difficulty": 1,
-      "question": "RAM stands for Random Access Memory.",
-      "answer": "True"
+      "question": "The more common name for the numbering system with a radix of 16.",
+      "answer": "Hexidecimal"
     },
     {
       "id": "technology-1-7",
       "difficulty": 1,
-      "question": "In computing, what does MIDI stand for?",
-      "answer": "Musical Instrument Digital Interface"
+      "question": "The company established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne.",
+      "answer": "Apple"
     },
     {
       "id": "technology-1-8",
       "difficulty": 1,
-      "question": "Which SQL keyword is used to fetch data from a database?",
-      "answer": "SELECT"
+      "question": "In computing, what 'LAN' stands for.",
+      "answer": "Local Area Network"
     },
     {
       "id": "technology-1-9",
       "difficulty": 1,
-      "question": "On Twitter, what was the original character limit for a Tweet?",
-      "answer": "140"
-    },
-    {
-      "id": "technology-1-10",
-      "difficulty": 1,
-      "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
-      "answer": "Exclamation Mark"
-    },
-    {
-      "id": "technology-1-11",
-      "difficulty": 1,
-      "question": "The Windows 7 operating system has six main editions.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-1-12",
-      "difficulty": 1,
-      "question": "\"HTML\" stands for Hypertext Markup Language.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-1-13",
-      "difficulty": 1,
-      "question": "The numbering system with a radix of 16 is more commonly referred to as",
-      "answer": "Hexidecimal"
-    },
-    {
-      "id": "technology-1-14",
-      "difficulty": 1,
-      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-      "answer": "Apple"
-    },
-    {
-      "id": "technology-1-15",
-      "difficulty": 1,
-      "question": "In computing, what does LAN stand for?",
-      "answer": "Local Area Network"
-    },
-    {
-      "id": "technology-1-16",
-      "difficulty": 1,
-      "question": "HTML is what type of language?",
+      "question": "The type of language that HTML is.",
       "answer": "Markup Language"
     },
     {
-      "id": "technology-1-17",
-      "difficulty": 1,
-      "question": "The logo for Snapchat is a Bell.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-1-18",
-      "difficulty": 1,
-      "question": "Linus Torvalds created Linux and Git.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-1-19",
+      "id": "technology-1-10",
       "difficulty": 1,
       "question": "If you were to code software in this language you'd only be able to type 0's and 1's.",
       "answer": "Binary"
     },
     {
+      "id": "technology-1-11",
+      "difficulty": 1,
+      "question": "The language used by Node.js.",
+      "answer": "JavaScript"
+    },
+    {
+      "id": "technology-1-12",
+      "difficulty": 1,
+      "question": "The kind of memory used in memory cache.",
+      "answer": "SRAM"
+    },
+    {
+      "id": "technology-1-13",
+      "difficulty": 1,
+      "question": "The programming language 'Swift' was created to replace this other programming language.",
+      "answer": "Objective-C"
+    },
+    {
+      "id": "technology-1-14",
+      "difficulty": 1,
+      "question": "What the Prt Sc button does.",
+      "answer": "Captures what's on the screen and copies it to your clipboard"
+    },
+    {
+      "id": "technology-1-15",
+      "difficulty": 1,
+      "question": "According to the International System of Units, the number of bytes in a kilobyte of RAM.",
+      "answer": "1000"
+    },
+    {
+      "id": "technology-1-16",
+      "difficulty": 1,
+      "question": "The most preferred image format used for logos in the Wikimedia database.",
+      "answer": ".svg"
+    },
+    {
+      "id": "technology-1-17",
+      "difficulty": 1,
+      "question": "In web design, what 'CSS' stands for.",
+      "answer": "Cascading Style Sheet"
+    },
+    {
+      "id": "technology-1-18",
+      "difficulty": 1,
+      "question": "The amount of storage Gmail provided for your email when it first launched.",
+      "answer": "1GB"
+    },
+    {
+      "id": "technology-1-19",
+      "difficulty": 1,
+      "question": "In any programming language, the most common way to iterate through an array.",
+      "answer": "'For' loops"
+    },
+    {
       "id": "technology-1-20",
       "difficulty": 1,
-      "question": "What language does Node.js use?",
-      "answer": "JavaScript"
+      "question": "The company that developed the Windows OS.",
+      "answer": "Microsoft"
     },
     {
       "id": "technology-1-21",
       "difficulty": 1,
-      "question": "What kind of memory is used on memory cache?",
-      "answer": "SRAM"
+      "question": "The name of Layer 7 of the OSI model.",
+      "answer": "Application"
     },
     {
       "id": "technology-1-22",
       "difficulty": 1,
-      "question": "In most programming languages, the operator ++ is equivalent to the statement \"+= 1\".",
-      "answer": "True"
+      "question": "What 'SSD' stands for.",
+      "answer": "Solid State Drive"
     },
     {
       "id": "technology-1-23",
       "difficulty": 1,
-      "question": "The programming language 'Swift' was created to replace what other programming language?",
-      "answer": "Objective-C"
-    },
-    {
-      "id": "technology-1-24",
-      "difficulty": 1,
-      "question": "What does the Prt Sc button do?",
-      "answer": "Captures what's on the screen and copies it to your clipboard"
-    },
-    {
-      "id": "technology-1-25",
-      "difficulty": 1,
-      "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-1-26",
-      "difficulty": 1,
-      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
-      "answer": "1000"
-    },
-    {
-      "id": "technology-1-27",
-      "difficulty": 1,
-      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
-      "answer": ".svg"
-    },
-    {
-      "id": "technology-1-28",
-      "difficulty": 1,
-      "question": "In web design, what does CSS stand for?",
-      "answer": "Cascading Style Sheet"
-    },
-    {
-      "id": "technology-1-29",
-      "difficulty": 1,
-      "question": "When Gmail first launched, how much storage did it provide for your email?",
-      "answer": "1GB"
-    },
-    {
-      "id": "technology-1-30",
-      "difficulty": 1,
-      "question": "In any programming language, what is the most common way to iterate through an array?",
-      "answer": "'For' loops"
-    },
-    {
-      "id": "technology-1-31",
-      "difficulty": 1,
-      "question": "The Windows OS was delevoped by which company?",
-      "answer": "Microsoft"
-    },
-    {
-      "id": "technology-1-32",
-      "difficulty": 1,
-      "question": "What is the name of Layer 7 of the OSI model?",
-      "answer": "Application"
-    },
-    {
-      "id": "technology-1-33",
-      "difficulty": 1,
-      "question": "What does SSD stand for?",
-      "answer": "Solid State Drive"
-    },
-    {
-      "id": "technology-1-34",
-      "difficulty": 1,
-      "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+      "question": "In hexadecimal, the color displayed from the color code '#00FF00'.",
       "answer": "Green"
     },
     {
-      "id": "technology-1-35",
+      "id": "technology-1-24",
       "difficulty": 1,
       "question": "This mobile OS held the largest market share in 2012.",
       "answer": "iOS"
@@ -217,853 +151,673 @@
     {
       "id": "technology-2-1",
       "difficulty": 2,
-      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+      "question": "In Java, the keyword placed on a variable to ensure it doesn't get modified.",
       "answer": "Final"
     },
     {
       "id": "technology-2-2",
       "difficulty": 2,
-      "question": "The name of the programming language AWK is abbreviated from the names of the developers – Aho, Weinberger, and Kernighan.",
-      "answer": "True"
+      "question": "In networking, the term abbreviated as OSPF.",
+      "answer": "Open Shortest Path First"
     },
     {
       "id": "technology-2-3",
       "difficulty": 2,
-      "question": "In networking, what does OSPF stand for?",
-      "answer": "Open Shortest Path First"
+      "question": "The number of bits commonly in a single byte.",
+      "answer": "Eight bits"
     },
     {
       "id": "technology-2-4",
       "difficulty": 2,
-      "question": "Ada Lovelace is often considered the first computer programmer.",
-      "answer": "True"
+      "question": "The code name for the mobile operating system Android 7.0.",
+      "answer": "Nougat"
     },
     {
       "id": "technology-2-5",
       "difficulty": 2,
-      "question": "The Windows ME operating system was released in the year 2000.",
-      "answer": "True"
+      "question": "The number of kilobytes in one gigabyte, in decimal.",
+      "answer": "1000000"
     },
     {
       "id": "technology-2-6",
       "difficulty": 2,
-      "question": "How many bits are commonly in a single byte?",
-      "answer": "Eight bits"
+      "question": "The computing term abbreviated as 'CPU'.",
+      "answer": "Central Processing Unit"
     },
     {
       "id": "technology-2-7",
       "difficulty": 2,
-      "question": "What is the code name for the mobile operating system Android 7.0?",
-      "answer": "Nougat"
+      "question": "The term abbreviated as 'USB'.",
+      "answer": "Universal Serial Bus"
     },
     {
       "id": "technology-2-8",
       "difficulty": 2,
-      "question": "How many kilobytes in one gigabyte (in decimal)?",
-      "answer": "1000000"
+      "question": "What 'GHz' stands for.",
+      "answer": "Gigahertz"
     },
     {
       "id": "technology-2-9",
       "difficulty": 2,
-      "question": "What does CPU stand for?",
-      "answer": "Central Processing Unit"
+      "question": "The number of values a single byte can represent.",
+      "answer": "256"
     },
     {
       "id": "technology-2-10",
       "difficulty": 2,
-      "question": "What does the term USB stand for?",
-      "answer": "Universal Serial Bus"
+      "question": "The commonly used keyboard shortcut for the 'Copy' function on Windows OS.",
+      "answer": "Ctrl + C"
     },
     {
       "id": "technology-2-11",
       "difficulty": 2,
-      "question": "What does GHz stand for?",
-      "answer": "Gigahertz"
+      "question": "The computer software acronym 'JVM' stands for this.",
+      "answer": "Java Virtual Machine"
     },
     {
       "id": "technology-2-12",
       "difficulty": 2,
-      "question": "JavaScript derives from a later version of Java",
-      "answer": "False"
+      "question": "The programming language that shares its name with an island in Indonesia.",
+      "answer": "Java"
     },
     {
       "id": "technology-2-13",
       "difficulty": 2,
-      "question": "How many values can a single byte represent?",
-      "answer": "256"
+      "question": "The colors that the letters in the CMYK color model stand for.",
+      "answer": "Cyan, Magenta, Yellow, and Black"
     },
     {
       "id": "technology-2-14",
       "difficulty": 2,
-      "question": "What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?",
-      "answer": "Ctrl + C"
+      "question": "The series of the Intel HD graphics generation succeeding the 5000 and 6000 series (Broadwell).",
+      "answer": "HD Graphics 500"
     },
     {
       "id": "technology-2-15",
       "difficulty": 2,
-      "question": "What does the computer software acronym JVM stand for?",
-      "answer": "Java Virtual Machine"
+      "question": "The number of bits that commonly equals one byte.",
+      "answer": "8"
     },
     {
       "id": "technology-2-16",
       "difficulty": 2,
-      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
-      "answer": "False"
+      "question": "The computer language associated with the Django framework.",
+      "answer": "Python"
     },
     {
       "id": "technology-2-17",
       "difficulty": 2,
-      "question": "Which programming language shares its name with an island in Indonesia?",
-      "answer": "Java"
+      "question": "In the software market, what 'LTS' stands for.",
+      "answer": "Long Term Support"
     },
     {
       "id": "technology-2-18",
       "difficulty": 2,
-      "question": "Color model CMYK stands for?",
-      "answer": "Cyan, Magenta, Yellow, and Black"
+      "question": "The domain name for the country Tuvalu.",
+      "answer": ".tv"
     },
     {
       "id": "technology-2-19",
       "difficulty": 2,
-      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
-      "answer": "HD Graphics 500"
+      "question": "The computer hardware device that provides an interface for all other connected devices to communicate.",
+      "answer": "Motherboard"
     },
     {
       "id": "technology-2-20",
       "difficulty": 2,
-      "question": "What amount of bits commonly equals one byte?",
-      "answer": "8"
+      "question": "The company that released the Electron computer in Britain during 1983 for the home computing market.",
+      "answer": "Acorn Computers"
     },
     {
       "id": "technology-2-21",
       "difficulty": 2,
-      "question": "Which computer language would you associate Django framework with?",
-      "answer": "Python"
+      "question": "In computing, the number of bits in a nibble.",
+      "answer": "4"
     },
     {
       "id": "technology-2-22",
       "difficulty": 2,
-      "question": "What does LTS stand for in the software market?",
-      "answer": "Long Term Support"
-    },
-    {
-      "id": "technology-2-23",
-      "difficulty": 2,
-      "question": "Linux was first created as an alternative to Windows XP.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-2-24",
-      "difficulty": 2,
-      "question": "The Python programming language gets its name from the British comedy group \"Monty Python.\"",
-      "answer": "True"
-    },
-    {
-      "id": "technology-2-25",
-      "difficulty": 2,
-      "question": "What is the domain name for the country Tuvalu?",
-      "answer": ".tv"
-    },
-    {
-      "id": "technology-2-26",
-      "difficulty": 2,
-      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
-      "answer": "Motherboard"
-    },
-    {
-      "id": "technology-2-27",
-      "difficulty": 2,
-      "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company?",
-      "answer": "Acorn Computers"
-    },
-    {
-      "id": "technology-2-28",
-      "difficulty": 2,
-      "question": "In computing, how many bits are in a nibble?",
-      "answer": "4"
-    },
-    {
-      "id": "technology-2-29",
-      "difficulty": 2,
-      "question": "How long is an IPv6 address?",
+      "question": "The length of an IPv6 address.",
       "answer": "128 bits"
     },
     {
-      "id": "technology-2-30",
+      "id": "technology-2-23",
       "difficulty": 2,
       "question": "The C programming language was created by this American computer scientist.",
       "answer": "Dennis Ritchie"
     },
     {
-      "id": "technology-2-31",
+      "id": "technology-2-24",
       "difficulty": 2,
-      "question": "What does the \"MP\" stand for in MP3?",
+      "question": "What the \"MP\" stands for in MP3.",
       "answer": "Moving Picture"
     },
     {
       "id": "technology-3-1",
       "difficulty": 3,
-      "question": "How many cores does the Intel i7-6950X have?",
+      "question": "The number of cores in the Intel i7-6950X.",
       "answer": "10"
     },
     {
       "id": "technology-3-2",
       "difficulty": 3,
-      "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
-      "answer": "True"
+      "question": "Generally, the computer component that draws the most power.",
+      "answer": "Video Card"
     },
     {
       "id": "technology-3-3",
       "difficulty": 3,
-      "question": "The open source program Redis is a relational database server.",
-      "answer": "False"
+      "question": "Bitcoin's block size limit in 2010.",
+      "answer": "1 MB"
     },
     {
       "id": "technology-3-4",
       "difficulty": 3,
-      "question": "Generally, which component of a computer draws the most power?",
-      "answer": "Video Card"
+      "question": "In HTML, the non-standard tag that used to be used to make elements scroll across the viewport.",
+      "answer": "<marquee></marquee>"
     },
     {
       "id": "technology-3-5",
       "difficulty": 3,
-      "question": "What was Bitcoin's block size limit in 2010?",
-      "answer": "1 MB"
+      "question": "Originally used in PCM adapters, this is the standard sampling frequency for audio in the Compact Disc Digital Audio format.",
+      "answer": "44.1 kHz"
     },
     {
       "id": "technology-3-6",
       "difficulty": 3,
-      "question": "A Boolean value of \"0\" represents which of these words?",
-      "answer": "False"
+      "question": "The failed key escrow device introduced by the National Security Agency in 1993.",
+      "answer": "Clipper Chip"
     },
     {
       "id": "technology-3-7",
       "difficulty": 3,
-      "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
-      "answer": "False"
+      "question": "The operating system kernel created by Linus Torvalds.",
+      "answer": "Linux"
     },
     {
       "id": "technology-3-8",
       "difficulty": 3,
-      "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
-      "answer": "<marquee></marquee>"
+      "question": "The cryptographer whose surname provides the 'S' in the RSA encryption algorithm.",
+      "answer": "Shamir"
     },
     {
       "id": "technology-3-9",
       "difficulty": 3,
-      "question": "The HTML5 standard was published in 2014.",
-      "answer": "True"
+      "question": "The moment Unix Time counts seconds elapsed from.",
+      "answer": "Midnight, January 1, 1970"
     },
     {
       "id": "technology-3-10",
       "difficulty": 3,
-      "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
-      "answer": "44.1 kHz"
+      "question": "What the technology company name 'HP' stands for.",
+      "answer": "Hewlett-Packard"
     },
     {
       "id": "technology-3-11",
       "difficulty": 3,
-      "question": "MacOS is based on Linux.",
-      "answer": "False"
+      "question": "The name of the teapot often seen in many 3D modeling applications.",
+      "answer": "Utah Teapot"
     },
     {
       "id": "technology-3-12",
       "difficulty": 3,
-      "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
-      "answer": "Clipper Chip"
+      "question": "Largely considered the precursor to the USB format.",
+      "answer": "PS/2"
     },
     {
       "id": "technology-3-13",
       "difficulty": 3,
-      "question": "Linus Torvalds created which of these?",
-      "answer": "Linux"
+      "question": "In computing terms, what 'CLI' typically stands for.",
+      "answer": "Command Line Interface"
     },
     {
       "id": "technology-3-14",
       "difficulty": 3,
-      "question": "What does the 'S' in the RSA encryption algorithm stand for?",
-      "answer": "Shamir"
+      "question": "What \"LCD\" stands for.",
+      "answer": "Liquid Crystal Display"
     },
     {
       "id": "technology-3-15",
       "difficulty": 3,
-      "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
-      "answer": "Midnight, January 1, 1970"
+      "question": "What the name of the Tor Anonymity Network originally stood for.",
+      "answer": "The Onion Router"
     },
     {
       "id": "technology-3-16",
       "difficulty": 3,
-      "question": "The name of technology company HP stands for what?",
-      "answer": "Hewlett-Packard"
+      "question": "This personal computer was made by the Japanese company Fujitsu.",
+      "answer": "FM-7"
     },
     {
       "id": "technology-3-17",
       "difficulty": 3,
-      "question": "The teapot often seen in many 3D modeling applications is called what?",
-      "answer": "Utah Teapot"
+      "question": "In Microsoft's first operating system, MS-DOS, this is what the DOS stands for.",
+      "answer": "Disk Operating System"
     },
     {
       "id": "technology-3-18",
       "difficulty": 3,
-      "question": "What is largely considered the precursor to the USB format?",
-      "answer": "PS/2"
+      "question": "The country with the top-level domain .at.",
+      "answer": "Austria"
     },
     {
       "id": "technology-3-19",
       "difficulty": 3,
-      "question": "In computing terms, typically what does CLI stand for?",
-      "answer": "Command Line Interface"
+      "question": "The day the World Wide Web went online.",
+      "answer": "December 20, 1990"
     },
     {
       "id": "technology-3-20",
       "difficulty": 3,
-      "question": "What does \"LCD\" stand for?",
-      "answer": "Liquid Crystal Display"
+      "question": "In networking, what the acronym CDN stands for.",
+      "answer": "Content Delivery Network"
     },
     {
       "id": "technology-3-21",
       "difficulty": 3,
-      "question": "What did the name of the Tor Anonymity Network orignially stand for?",
-      "answer": "The Onion Router"
+      "question": "This five-letter word is the motto of the IBM Computer company.",
+      "answer": "Think"
     },
     {
       "id": "technology-3-22",
       "difficulty": 3,
-      "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
-      "answer": "FM-7"
+      "question": "The interval at which Moore's law originally stated the number of transistors on a microprocessor chip would double.",
+      "answer": "Year"
     },
     {
       "id": "technology-3-23",
       "difficulty": 3,
-      "question": "What does the DOS in Microsoft's first operating system \"MS-DOS\" stand for?",
-      "answer": "Disk Operating System"
+      "question": "The low-level programming language used to write instructions close to machine code.",
+      "answer": "Assembly"
     },
     {
       "id": "technology-3-24",
       "difficulty": 3,
-      "question": ".at is the top-level domain for what country?",
-      "answer": "Austria"
+      "question": "In programming, the symbol or symbols that most often define the ternary operator.",
+      "answer": "?:"
     },
     {
       "id": "technology-3-25",
       "difficulty": 3,
-      "question": "Android versions are named in alphabetical order.",
-      "answer": "True"
+      "question": "The theoretical speed of USB 3.1 Gen 2.",
+      "answer": "10 Gb/s"
     },
     {
       "id": "technology-3-26",
       "difficulty": 3,
-      "question": "On which day did the World Wide Web go online?",
-      "answer": "December 20, 1990"
+      "question": "While Apple was formed in California, the western state where Microsoft was founded.",
+      "answer": "New Mexico"
     },
     {
       "id": "technology-3-27",
       "difficulty": 3,
-      "question": "\"Windows NT\" is a monolithic kernel.",
-      "answer": "False"
+      "question": "In programming, the term for functions with the same name but different implementations.",
+      "answer": "Overloading"
     },
     {
       "id": "technology-3-28",
       "difficulty": 3,
-      "question": "What does the acronym CDN stand for in terms of networking?",
-      "answer": "Content Delivery Network"
+      "question": "The number of keys on a standard Windows keyboard.",
+      "answer": "104"
     },
     {
       "id": "technology-3-29",
       "difficulty": 3,
-      "question": "What five letter word is the motto of the IBM Computer company?",
-      "answer": "Think"
+      "question": "The first Android version specifically optimized for tablets.",
+      "answer": "Honeycomb"
     },
     {
       "id": "technology-3-30",
       "difficulty": 3,
-      "question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
-      "answer": "Year"
+      "question": "The country with the top-level domain .rs.",
+      "answer": "Serbia"
     },
     {
       "id": "technology-3-31",
       "difficulty": 3,
-      "question": "The common software-programming acronym \"I18N\" comes from the term \"Interlocalization\".",
-      "answer": "False"
+      "question": "The hardware component abbreviated as 'GPU'.",
+      "answer": "Graphics Processing Unit"
     },
     {
       "id": "technology-3-32",
       "difficulty": 3,
-      "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-33",
-      "difficulty": 3,
-      "question": "Which of these programming languages is a low-level language?",
-      "answer": "Assembly"
-    },
-    {
-      "id": "technology-3-34",
-      "difficulty": 3,
-      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
-      "answer": "?:"
-    },
-    {
-      "id": "technology-3-35",
-      "difficulty": 3,
-      "question": "How fast is USB 3.1 Gen 2 theoretically?",
-      "answer": "10 Gb/s"
-    },
-    {
-      "id": "technology-3-36",
-      "difficulty": 3,
-      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
-      "answer": "New Mexico"
-    },
-    {
-      "id": "technology-3-37",
-      "difficulty": 3,
-      "question": "In programming, what do you call functions with the same name but different implementations?",
-      "answer": "Overloading"
-    },
-    {
-      "id": "technology-3-38",
-      "difficulty": 3,
-      "question": "What is the number of keys on a standard Windows Keyboard?",
-      "answer": "104"
-    },
-    {
-      "id": "technology-3-39",
-      "difficulty": 3,
-      "question": "What was the first Android version specifically optimized for tablets?",
-      "answer": "Honeycomb"
-    },
-    {
-      "id": "technology-3-40",
-      "difficulty": 3,
-      "question": ".rs is the top-level domain for what country?",
-      "answer": "Serbia"
-    },
-    {
-      "id": "technology-3-41",
-      "difficulty": 3,
-      "question": "What does the term GPU stand for?",
-      "answer": "Graphics Processing Unit"
-    },
-    {
-      "id": "technology-3-42",
-      "difficulty": 3,
-      "question": "What does RAID stand for?",
+      "question": "What 'RAID' stands for.",
       "answer": "Redundant Array of Independent Disks"
     },
     {
-      "id": "technology-3-43",
+      "id": "technology-3-33",
       "difficulty": 3,
       "question": "Which of these people was NOT a founder of Apple Inc?",
       "answer": "Jonathan Ive"
     },
     {
-      "id": "technology-3-44",
+      "id": "technology-3-34",
       "difficulty": 3,
-      "question": "In the server hosting industry IaaS stands for...",
+      "question": "In the server hosting industry, what 'IaaS' stands for.",
       "answer": "Infrastructure as a Service"
     },
     {
-      "id": "technology-3-45",
+      "id": "technology-3-35",
       "difficulty": 3,
-      "question": "The very first recorded computer \"bug\" was a moth found inside a Harvard Mark II computer.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-3-46",
-      "difficulty": 3,
-      "question": "What does the term MIME stand for, in regards to computing?",
+      "question": "In computing, what the term MIME stands for.",
       "answer": "Multipurpose Internet Mail Extensions"
     },
     {
-      "id": "technology-3-47",
+      "id": "technology-3-36",
       "difficulty": 3,
-      "question": "When was the programming language \"C#\" released?",
+      "question": "The year the programming language \"C#\" was released.",
       "answer": "2000"
     },
     {
-      "id": "technology-3-48",
+      "id": "technology-3-37",
       "difficulty": 3,
       "question": "Whistler was the codename of this Microsoft Operating System.",
       "answer": "Windows XP"
     },
     {
-      "id": "technology-3-49",
+      "id": "technology-3-38",
       "difficulty": 3,
-      "question": "What was the first commerically available computer processor?",
+      "question": "The first commercially available computer processor.",
       "answer": "Intel 4004"
     },
     {
-      "id": "technology-3-50",
-      "difficulty": 3,
-      "question": "The 'Raspberry Pi' series of single-board computers were created in the United States.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-51",
+      "id": "technology-3-39",
       "difficulty": 3,
       "question": "Which one of these is not an official development name for a Ubuntu release?",
       "answer": "Mystic Mansion"
     },
     {
-      "id": "technology-3-52",
+      "id": "technology-3-40",
       "difficulty": 3,
-      "question": "On which computer hardware device is the BIOS chip located?",
+      "question": "The computer hardware device where the BIOS chip is located.",
       "answer": "Motherboard"
     },
     {
-      "id": "technology-3-53",
+      "id": "technology-3-41",
       "difficulty": 3,
-      "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+      "question": "The Silicon Valley city where Nvidia's headquarters are based.",
       "answer": "Santa Clara"
     },
     {
-      "id": "technology-3-54",
+      "id": "technology-3-42",
       "difficulty": 3,
-      "question": "How many bytes are in a single Kibibyte?",
+      "question": "The number of bytes in a single Kibibyte.",
       "answer": "1024"
     },
     {
-      "id": "technology-3-55",
-      "difficulty": 3,
-      "question": "There is only 1 root name server, among 13 in total, that is currently located in Asia.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-3-56",
-      "difficulty": 3,
-      "question": "FLAC stands for \"Free Lossless Audio Condenser\"'",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-57",
+      "id": "technology-3-43",
       "difficulty": 3,
       "question": "In the programming language \"Python\", which of these statements would display the string \"Hello World\" correctly?",
       "answer": "print(\"Hello World\")"
     },
     {
-      "id": "technology-3-58",
+      "id": "technology-3-44",
       "difficulty": 3,
-      "question": "It's not possible to format a write-protected DVD-R Hard Disk.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-3-59",
-      "difficulty": 3,
-      "question": "Approximately how many Apple I personal computers were created?",
+      "question": "The approximate number of Apple I personal computers created.",
       "answer": "200"
     },
     {
-      "id": "technology-3-60",
+      "id": "technology-3-45",
       "difficulty": 3,
-      "question": "When did the online streaming service \"Mixer\" launch?",
+      "question": "The year the online streaming service 'Mixer' launched.",
       "answer": "2016"
     },
     {
-      "id": "technology-3-61",
+      "id": "technology-3-46",
       "difficulty": 3,
-      "question": "What is the name of the default theme that is installed with Windows XP?",
+      "question": "The name of the default theme installed with Windows XP.",
       "answer": "Luna"
     },
     {
-      "id": "technology-3-62",
+      "id": "technology-3-47",
       "difficulty": 3,
       "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
       "answer": "Inkscape"
     },
     {
-      "id": "technology-3-63",
+      "id": "technology-3-48",
       "difficulty": 3,
       "question": "Which operating system was released first?",
       "answer": "Mac OS"
     },
     {
-      "id": "technology-3-64",
+      "id": "technology-3-49",
       "difficulty": 3,
-      "question": "The ARM computer chip was originally developed by Acorn Computers.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-3-65",
-      "difficulty": 3,
-      "question": "What does AD stand for in relation to Windows Operating Systems?",
+      "question": "In Windows operating systems, what 'AD' stands for.",
       "answer": "Active Directory"
     },
     {
-      "id": "technology-3-66",
+      "id": "technology-3-50",
       "difficulty": 3,
-      "question": "The first computer bug was formed by faulty wires.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-67",
-      "difficulty": 3,
-      "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+      "question": "The internet company that began life as an online bookstore called 'Cadabra'.",
       "answer": "Amazon"
     },
     {
-      "id": "technology-3-68",
+      "id": "technology-3-51",
       "difficulty": 3,
-      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "question": "The country where computer OEM manufacturer Clevo, known for its Sager notebook line, is based.",
       "answer": "Taiwan"
     },
     {
-      "id": "technology-3-69",
+      "id": "technology-3-52",
       "difficulty": 3,
-      "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "question": "The language used as a scripting language in the Unity 3D game engine.",
       "answer": "C#"
     },
     {
-      "id": "technology-3-70",
+      "id": "technology-3-53",
       "difficulty": 3,
-      "question": "What was the name given to Android 4.3?",
+      "question": "The name given to Android 4.3.",
       "answer": "Jelly Bean"
     },
     {
-      "id": "technology-3-71",
+      "id": "technology-3-54",
       "difficulty": 3,
-      "question": "Which programming language was developed by Sun Microsystems in 1995?",
+      "question": "The programming language developed by Sun Microsystems in 1995.",
       "answer": "Java"
     },
     {
-      "id": "technology-3-72",
+      "id": "technology-3-55",
       "difficulty": 3,
-      "question": "How many bits make up the significand portion of a single precision floating point number?",
+      "question": "The number of bits that make up the significand portion of a single precision floating point number.",
       "answer": "23"
     },
     {
-      "id": "technology-3-73",
+      "id": "technology-3-56",
       "difficulty": 3,
-      "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "question": "The #1 programming language by usage on GitHub in 2015.",
       "answer": "JavaScript"
     },
     {
-      "id": "technology-3-74",
+      "id": "technology-3-57",
       "difficulty": 3,
-      "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "question": "The term for the metal object in between the CPU and the CPU fan within a computer system.",
       "answer": "Heat Sink"
     },
     {
-      "id": "technology-3-75",
+      "id": "technology-3-58",
       "difficulty": 3,
-      "question": "What is known as \"the brain\" of the Computer?",
+      "question": "Known as \"the brain\" of the computer.",
       "answer": "Central Processing Unit"
     },
     {
-      "id": "technology-3-76",
+      "id": "technology-3-59",
       "difficulty": 3,
-      "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "question": "The type of printer exemplified by both laserjet and inkjet printers.",
       "answer": "Non-impact printer"
     },
     {
-      "id": "technology-3-77",
+      "id": "technology-3-60",
       "difficulty": 3,
-      "question": "The first dual-core CPU was the Intel Pentium D.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-78",
-      "difficulty": 3,
-      "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "question": "The main CPU in the Sega Mega Drive / Sega Genesis.",
       "answer": "Motorola 68000"
     },
     {
-      "id": "technology-3-79",
+      "id": "technology-3-61",
       "difficulty": 3,
-      "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-3-80",
-      "difficulty": 3,
-      "question": "AMD created the first consumer 64-bit processor.",
-      "answer": "True"
-    },
-    {
-      "id": "technology-3-81",
-      "difficulty": 3,
-      "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+      "question": "The name of the image that features as the default background wallpaper for Windows XP.",
       "answer": "Bliss"
     },
     {
-      "id": "technology-3-82",
+      "id": "technology-3-62",
       "difficulty": 3,
       "question": "In CSS, which of these values CANNOT be used with the \"position\" property?",
       "answer": "center"
     },
     {
-      "id": "technology-3-83",
-      "difficulty": 3,
-      "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form.",
-      "answer": "True"
-    },
-    {
       "id": "technology-4-1",
       "difficulty": 4,
-      "question": "What internet protocol was documented in RFC 1459?",
+      "question": "The internet protocol documented in RFC 1459.",
       "answer": "IRC"
     },
     {
       "id": "technology-4-2",
       "difficulty": 4,
-      "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
-      "answer": "False"
+      "question": "The vulnerability ranked #1 on the OWASP Top 10 in 2013.",
+      "answer": "Injection"
     },
     {
       "id": "technology-4-3",
       "difficulty": 4,
-      "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
-      "answer": "Injection"
+      "question": "The type of sound chip found in the Super Nintendo Entertainment System (SNES).",
+      "answer": "ADPCM Sampler"
     },
     {
       "id": "technology-4-4",
       "difficulty": 4,
-      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
-      "answer": "ADPCM Sampler"
+      "question": "The founder of Palantir.",
+      "answer": "Peter Thiel"
     },
     {
       "id": "technology-4-5",
       "difficulty": 4,
-      "question": "Who is the founder of Palantir?",
-      "answer": "Peter Thiel"
+      "question": "The networking acronym \"RIP\" stands for this.",
+      "answer": "Routing Information Protocol"
     },
     {
       "id": "technology-4-6",
       "difficulty": 4,
-      "question": "The acronym \"RIP\" stands for which of these?",
-      "answer": "Routing Information Protocol"
+      "question": "The process that sends one qubit of information using two bits of classical information.",
+      "answer": "Quantum Teleportation"
     },
     {
       "id": "technology-4-7",
       "difficulty": 4,
-      "question": "DHCP stands for Dynamic Host Configuration Port.",
-      "answer": "False"
-    },
-    {
-      "id": "technology-4-8",
-      "difficulty": 4,
-      "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
-      "answer": "Quantum Teleportation"
-    },
-    {
-      "id": "technology-4-9",
-      "difficulty": 4,
-      "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "question": "The game development engine created by Dutch computer scientist Mark Overmars.",
       "answer": "Game Maker"
     },
     {
-      "id": "technology-4-10",
+      "id": "technology-4-8",
       "difficulty": 4,
       "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
       "answer": "Secret sharing scheme"
     },
     {
+      "id": "technology-4-9",
+      "difficulty": 4,
+      "question": "The maximum value of a 32-bit signed binary integer.",
+      "answer": "2,147,483,647"
+    },
+    {
+      "id": "technology-4-10",
+      "difficulty": 4,
+      "question": "The name of a bug found in April 2014 in the publicly available OpenSSL cryptography library.",
+      "answer": "Heartbleed"
+    },
+    {
       "id": "technology-4-11",
       "difficulty": 4,
-      "question": "What is the maximum value of a 32-bit signed binary integer?",
-      "answer": "2,147,483,647"
+      "question": "The physical topology used with Ethernet networks.",
+      "answer": "Star"
     },
     {
       "id": "technology-4-12",
       "difficulty": 4,
-      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
-      "answer": "Heartbleed"
-    },
-    {
-      "id": "technology-4-13",
-      "difficulty": 4,
-      "question": "Which of the following physical typologies are used with Ethernet Networks?",
-      "answer": "Star"
-    },
-    {
-      "id": "technology-4-14",
-      "difficulty": 4,
-      "question": "What was the name of the first Bulgarian personal computer?",
+      "question": "The name of the first Bulgarian personal computer.",
       "answer": "IMKO-1"
     },
     {
-      "id": "technology-4-15",
+      "id": "technology-4-13",
       "difficulty": 4,
       "question": "Which of these is not a key value of Agile software development?",
       "answer": "Comprehensive documentation"
     },
     {
+      "id": "technology-4-14",
+      "difficulty": 4,
+      "question": "The name of the security vulnerability found in Bash in 2014.",
+      "answer": "Shellshock"
+    },
+    {
+      "id": "technology-4-15",
+      "difficulty": 4,
+      "question": "The additional bus added by the Harvard architecture for micro-controllers.",
+      "answer": "Instruction"
+    },
+    {
       "id": "technology-4-16",
       "difficulty": 4,
-      "question": "What was the name of the security vulnerability found in Bash in 2014?",
-      "answer": "Shellshock"
+      "question": "The first company to use the term \"Golden Master\".",
+      "answer": "Apple"
     },
     {
       "id": "technology-4-17",
       "difficulty": 4,
-      "question": "The Harvard architecture for micro-controllers added which additional bus?",
-      "answer": "Instruction"
+      "question": "The ITU Region containing Australia, Japan, and Southeast Asia.",
+      "answer": "Region 3"
     },
     {
       "id": "technology-4-18",
       "difficulty": 4,
-      "question": "What was the first company to use the term \"Golden Master\"?",
-      "answer": "Apple"
+      "question": "The inventor of the \"Spanning Tree Protocol\".",
+      "answer": "Radia Perlman"
     },
     {
       "id": "technology-4-19",
       "difficulty": 4,
-      "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
-      "answer": "Region 3"
+      "question": "The number of Hz supported by the video standard PAL.",
+      "answer": "50"
     },
     {
       "id": "technology-4-20",
       "difficulty": 4,
-      "question": "Who invented the \"Spanning Tree Protocol\"?",
-      "answer": "Radia Perlman"
+      "question": "This computer component can be built using only NAND gates.",
+      "answer": "ALU"
     },
     {
       "id": "technology-4-21",
       "difficulty": 4,
-      "question": "How many Hz does the video standard PAL support?",
-      "answer": "50"
+      "question": "The original author of the realtime physics engine called PhysX.",
+      "answer": "NovodeX"
     },
     {
       "id": "technology-4-22",
       "difficulty": 4,
-      "question": "Which of the following computer components can be built using only NAND gates?",
-      "answer": "ALU"
+      "question": "The codename of the eighth generation Intel Core micro-architecture launched in October 2017.",
+      "answer": "Coffee Lake"
     },
     {
       "id": "technology-4-23",
       "difficulty": 4,
-      "question": "Who is the original author of the realtime physics engine called PhysX?",
-      "answer": "NovodeX"
-    },
-    {
-      "id": "technology-4-24",
-      "difficulty": 4,
-      "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
-      "answer": "Coffee Lake"
-    },
-    {
-      "id": "technology-4-25",
-      "difficulty": 4,
-      "question": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "question": "The year Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets.",
       "answer": "2005"
     },
     {
       "id": "technology-5-1",
       "difficulty": 5,
-      "question": "CMOS is tech used for constructing integrated circuits. What does CMOS stand for?",
+      "question": "The technology used for constructing integrated circuits, abbreviated CMOS.",
       "answer": "Complementary metal–oxide–semiconductor"
     },
     {
       "id": "technology-5-2",
       "difficulty": 5,
-      "question": "Which RAID array type is associated with data mirroring?",
+      "question": "The RAID array type associated with data mirroring.",
       "answer": "RAID 1"
     },
     {
       "id": "technology-5-3",
       "difficulty": 5,
-      "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "question": "The Pacific Ocean island nation whose country-code top-level domain is .fm.",
       "answer": "Micronesia"
     },
     {
@@ -1081,37 +835,37 @@
     {
       "id": "technology-5-6",
       "difficulty": 5,
-      "question": "America Online (AOL) started out as which of these online service providers?",
+      "question": "The online service provider that America Online (AOL) started out as.",
       "answer": "Quantum Link"
     },
     {
       "id": "technology-5-7",
       "difficulty": 5,
-      "question": "What does the International System of Quantities refer 1024 bytes as?",
+      "question": "The International System of Quantities' term for 1024 bytes.",
       "answer": "Kibibyte"
     },
     {
       "id": "technology-5-8",
       "difficulty": 5,
-      "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "question": "The name given to layer 4 of the Open Systems Interconnection (ISO) model.",
       "answer": "Transport"
     },
     {
       "id": "technology-5-9",
       "difficulty": 5,
-      "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+      "question": "The Cherry MX mechanical keyboard switch that is both tactile and clicky.",
       "answer": "Cherry MX Blue"
     },
     {
       "id": "technology-5-10",
       "difficulty": 5,
-      "question": "Which data structure does FILO apply to?",
+      "question": "The data structure to which FILO applies.",
       "answer": "Stack"
     },
     {
       "id": "technology-5-11",
       "difficulty": 5,
-      "question": "According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+      "question": "According to DeMorgan's Theorem, the Boolean expression equivalent to (AB)'.",
       "answer": "A' + B'"
     },
     {
@@ -1123,35 +877,23 @@
     {
       "id": "technology-5-13",
       "difficulty": 5,
-      "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
-      "answer": "True"
+      "question": "The port HTTP runs on.",
+      "answer": "80"
     },
     {
       "id": "technology-5-14",
       "difficulty": 5,
-      "question": "Apple was on the verge of bankruptcy in 1997 and was saved by Microsoft",
-      "answer": "True"
+      "question": "The animal code name given to the first edition of Apple's Mac OS X (version 10.0), released in 2001.",
+      "answer": "Cheetah"
     },
     {
       "id": "technology-5-15",
       "difficulty": 5,
-      "question": "What port does HTTP run on?",
-      "answer": "80"
-    },
-    {
-      "id": "technology-5-16",
-      "difficulty": 5,
-      "question": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
-      "answer": "Cheetah"
-    },
-    {
-      "id": "technology-5-17",
-      "difficulty": 5,
-      "question": "What major programming language does Unreal Engine 4 use?",
+      "question": "The major programming language used by Unreal Engine 4.",
       "answer": "C++"
     },
     {
-      "id": "technology-5-18",
+      "id": "technology-5-16",
       "difficulty": 5,
       "question": "Which of these is not a layer in the OSI model for data communications?",
       "answer": "Connection Layer"
@@ -1164,11 +906,12 @@
     "fetchedAt": "2026-05-15T21:11:47.513Z",
     "totalAvailable": 192,
     "distribution": {
-      "1": 35,
-      "2": 31,
-      "3": 83,
-      "4": 25,
-      "5": 18
-    }
+      "1": 24,
+      "2": 24,
+      "3": 62,
+      "4": 23,
+      "5": 16
+    },
+    "trueFalseStrippedAt": "2026-05-17T16:04:30.496Z"
   }
 }

@@ -2,1590 +2,1308 @@
   "id": "science",
   "name": "Science",
   "description": "Atoms, ecosystems, equations — the rules the universe runs on.",
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "science-1-1",
       "difficulty": 1,
-      "question": "How many chromosomes are in your body cells?",
+      "question": "The number of chromosomes in your body cells.",
       "answer": "23"
     },
     {
       "id": "science-1-2",
       "difficulty": 1,
-      "question": "What is the atomic mass of Carbon?",
+      "question": "The atomic mass of Carbon.",
       "answer": "12"
     },
     {
       "id": "science-1-3",
       "difficulty": 1,
-      "question": "About what percentage of the Earth's surface is water?",
+      "question": "The approximate percentage of the Earth's surface covered by water.",
       "answer": "70%"
     },
     {
       "id": "science-1-4",
       "difficulty": 1,
-      "question": "What is the standard SI unit for distance?",
+      "question": "The standard SI unit for distance.",
       "answer": "Metre"
     },
     {
       "id": "science-1-5",
       "difficulty": 1,
-      "question": "How many planets are in our Solar System?",
+      "question": "The number of planets in our Solar System.",
       "answer": "Eight"
     },
     {
       "id": "science-1-6",
       "difficulty": 1,
-      "question": "What is the first element on the periodic table?",
+      "question": "The first element on the periodic table.",
       "answer": "Hydrogen"
     },
     {
       "id": "science-1-7",
       "difficulty": 1,
-      "question": "What is the hottest planet in the solar system",
+      "question": "The hottest planet in the solar system.",
       "answer": "Venus"
     },
     {
       "id": "science-1-8",
       "difficulty": 1,
-      "question": "What is the primary addictive substance found in tobacco?",
+      "question": "The primary addictive substance found in tobacco.",
       "answer": "Nicotine"
     },
     {
       "id": "science-1-9",
       "difficulty": 1,
-      "question": "Alzheimer's disease primarily affects which part of the human body?",
+      "question": "The part of the human body primarily affected by Alzheimer's disease.",
       "answer": "Brain"
     },
     {
       "id": "science-1-10",
       "difficulty": 1,
-      "question": "An average human can go two weeks without water.",
-      "answer": "False"
+      "question": "The first artificial Earth satellite, launched by the Soviet Union in 1957.",
+      "answer": "Sputnik 1"
     },
     {
       "id": "science-1-11",
       "difficulty": 1,
-      "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
-      "answer": "Sputnik 1"
+      "question": "The discoverer of the Law of Gravity.",
+      "answer": "Sir Isaac Newton"
     },
     {
       "id": "science-1-12",
       "difficulty": 1,
-      "question": "Upwelling in the ocean provides colder nutrient rich water for plants and decomposers.",
-      "answer": "True"
+      "question": "The element with the chemical symbol 'Fe'.",
+      "answer": "Iron"
     },
     {
       "id": "science-1-13",
       "difficulty": 1,
-      "question": "Who discovered the Law of Gravity?",
-      "answer": "Sir Isaac Newton"
+      "question": "The \"powerhouse\" of the eukaryotic animal cell.",
+      "answer": "Mitochondria"
     },
     {
       "id": "science-1-14",
       "difficulty": 1,
-      "question": "Which element has the chemical symbol 'Fe'?",
-      "answer": "Iron"
+      "question": "The chemical element Curium is named after this husband-and-wife pair.",
+      "answer": "Marie & Pierre Curie"
     },
     {
       "id": "science-1-15",
       "difficulty": 1,
-      "question": "What is the \"powerhouse\" of the Eukaryotic animal cell?",
-      "answer": "Mitochondria"
+      "question": "The substance that produces the green colour of most plant leaves.",
+      "answer": "Chlorophyll"
     },
     {
       "id": "science-1-16",
       "difficulty": 1,
-      "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
-      "answer": "False"
+      "question": "The number of moons Pluto has.",
+      "answer": "Five"
     },
     {
       "id": "science-1-17",
       "difficulty": 1,
-      "question": "Who is the chemical element Curium named after?",
-      "answer": "Marie & Pierre Curie"
+      "question": "The number of planets that make up our Solar System.",
+      "answer": "8"
     },
     {
       "id": "science-1-18",
       "difficulty": 1,
-      "question": "What produces the green colour of most plant leaves?",
-      "answer": "Chlorophyll"
+      "question": "The chemical makeup of water.",
+      "answer": "H20"
     },
     {
       "id": "science-1-19",
       "difficulty": 1,
-      "question": "How many moons does Pluto have?",
-      "answer": "Five"
+      "question": "The official name of the star located closest to the North Celestial Pole.",
+      "answer": "Polaris"
     },
     {
       "id": "science-1-20",
       "difficulty": 1,
-      "question": "How many planets make up our Solar System?",
-      "answer": "8"
+      "question": "In 'NASA', what the letter 'S' stands for.",
+      "answer": "Space"
     },
     {
       "id": "science-1-21",
       "difficulty": 1,
-      "question": "What is the chemical makeup of water?",
-      "answer": "H20"
+      "question": "The thin, outermost layer of the Earth.",
+      "answer": "Crust"
     },
     {
       "id": "science-1-22",
       "difficulty": 1,
-      "question": "What is the official name of the star located closest to the North Celestial Pole?",
-      "answer": "Polaris"
+      "question": "The hardest bone in the human body to break.",
+      "answer": "Femur"
     },
     {
       "id": "science-1-23",
       "difficulty": 1,
-      "question": "What does the letter 'S' stand for in 'NASA'?",
-      "answer": "Space"
+      "question": "The number of planets in the Solar System.",
+      "answer": "8"
     },
     {
       "id": "science-1-24",
       "difficulty": 1,
-      "question": "An atom contains a nucleus.",
-      "answer": "True"
+      "question": "What Gregory Mendel used to test genetic crossovers.",
+      "answer": "Peas"
     },
     {
       "id": "science-1-25",
       "difficulty": 1,
-      "question": "What is the thin, outermost layer of the Earth?",
-      "answer": "Crust"
+      "question": "What the abbreviation 'DNA' stands for.",
+      "answer": "Deoxyribonucleic Acid"
     },
     {
       "id": "science-1-26",
       "difficulty": 1,
-      "question": "Which of these bones is hardest to break?",
-      "answer": "Femur"
+      "question": "The powerhouse of the cell.",
+      "answer": "Mitochondria"
     },
     {
       "id": "science-1-27",
       "difficulty": 1,
-      "question": "Water always boils at 100°C, 212°F, 373.15K, no matter where you are.",
-      "answer": "False"
+      "question": "The number of laws of thermodynamics.",
+      "answer": "Four"
     },
     {
       "id": "science-1-28",
       "difficulty": 1,
-      "question": "How many planets are there in the Solar System?",
-      "answer": "8"
-    },
-    {
-      "id": "science-1-29",
-      "difficulty": 1,
-      "question": "What did Gregory Mendel use to test genetic crossovers?",
-      "answer": "Peas"
-    },
-    {
-      "id": "science-1-30",
-      "difficulty": 1,
-      "question": "What does DNA stand for?",
-      "answer": "Deoxyribonucleic Acid"
-    },
-    {
-      "id": "science-1-31",
-      "difficulty": 1,
-      "question": "The Earth revolves around the Sun in one year.",
-      "answer": "True"
-    },
-    {
-      "id": "science-1-32",
-      "difficulty": 1,
-      "question": "What is the powerhouse of the cell?",
-      "answer": "Mitochondria"
-    },
-    {
-      "id": "science-1-33",
-      "difficulty": 1,
-      "question": "How many laws of thermodynamics are there?",
-      "answer": "Four"
-    },
-    {
-      "id": "science-1-34",
-      "difficulty": 1,
-      "question": "What is the unit of electrical resistance?",
+      "question": "The unit of electrical resistance.",
       "answer": "Ohm"
     },
     {
-      "id": "science-1-35",
+      "id": "science-1-29",
       "difficulty": 1,
       "question": "Which of these Elements is a metalloid?",
       "answer": "Antimony"
     },
     {
-      "id": "science-1-36",
+      "id": "science-1-30",
       "difficulty": 1,
-      "question": "What is the largest planet in the Solar System?",
+      "question": "The largest planet in the Solar System.",
       "answer": "Jupiter"
     },
     {
-      "id": "science-1-37",
+      "id": "science-1-31",
       "difficulty": 1,
-      "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+      "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell.",
       "answer": "The presence or absence of a nucleus"
     },
     {
-      "id": "science-1-38",
+      "id": "science-1-32",
       "difficulty": 1,
-      "question": "Which of the following blood vessels carries deoxygenated blood?",
+      "question": "The blood vessel that carries deoxygenated blood from the heart to the lungs.",
       "answer": "Pulmonary Artery"
     },
     {
-      "id": "science-1-39",
+      "id": "science-1-33",
       "difficulty": 1,
       "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
       "answer": "Carbon"
     },
     {
-      "id": "science-1-40",
+      "id": "science-1-34",
       "difficulty": 1,
-      "question": "The asteroid belt is located between which two planets?",
+      "question": "The two planets between which the asteroid belt is located.",
       "answer": "Mars and Jupiter"
     },
     {
-      "id": "science-1-41",
+      "id": "science-1-35",
       "difficulty": 1,
-      "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
-      "answer": "False"
-    },
-    {
-      "id": "science-1-42",
-      "difficulty": 1,
-      "question": "How many moons does the Earth have?",
+      "question": "The number of moons the Earth has.",
       "answer": "1"
     },
     {
-      "id": "science-1-43",
+      "id": "science-1-36",
       "difficulty": 1,
-      "question": "What is the standard SI unit for temperature?",
+      "question": "The standard SI unit for temperature.",
       "answer": "Kelvin"
     },
     {
-      "id": "science-1-44",
+      "id": "science-1-37",
       "difficulty": 1,
-      "question": "Which noble gas has the lowest atomic number?",
+      "question": "The noble gas with the lowest atomic number.",
       "answer": "Helium"
     },
     {
       "id": "science-2-1",
       "difficulty": 2,
-      "question": "What is the largest animal currently on Earth?",
+      "question": "The largest animal currently on Earth.",
       "answer": "Blue Whale"
     },
     {
       "id": "science-2-2",
       "difficulty": 2,
-      "question": "Which type of rock is created by intense heat AND pressure?",
+      "question": "The type of rock created by intense heat and pressure.",
       "answer": "Metamorphic"
     },
     {
       "id": "science-2-3",
       "difficulty": 2,
-      "question": "The shape of the Earth is a perfect sphere.",
-      "answer": "False"
+      "question": "The number of bones in the human body.",
+      "answer": "206"
     },
     {
       "id": "science-2-4",
       "difficulty": 2,
-      "question": "How many bones are in the human body?",
-      "answer": "206"
+      "question": "The elemental symbol for mercury.",
+      "answer": "Hg"
     },
     {
       "id": "science-2-5",
       "difficulty": 2,
-      "question": "What is the elemental symbol for mercury?",
-      "answer": "Hg"
+      "question": "The longest bone in the human body.",
+      "answer": "Femur"
     },
     {
       "id": "science-2-6",
       "difficulty": 2,
-      "question": "The Sun is considered a star.",
-      "answer": "True"
+      "question": "The most abundant element in the universe.",
+      "answer": "Hydrogen"
     },
     {
       "id": "science-2-7",
       "difficulty": 2,
-      "question": "Which is the longest bone in the human body?",
-      "answer": "Femur"
+      "question": "The part of the human body operated on in a rhinoplasty.",
+      "answer": "Nose"
     },
     {
       "id": "science-2-8",
       "difficulty": 2,
-      "question": "An Astronomical Unit is the distance between Earth and the Moon.",
-      "answer": "False"
+      "question": "The element involved in making human blood red.",
+      "answer": "Iron"
     },
     {
       "id": "science-2-9",
       "difficulty": 2,
-      "question": "Which is the most abundant element in the universe?",
-      "answer": "Hydrogen"
+      "question": "The chemical symbol for Helium.",
+      "answer": "He"
     },
     {
       "id": "science-2-10",
       "difficulty": 2,
-      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
-      "answer": "Nose"
+      "question": "The medical term for the belly button.",
+      "answer": "Umbilicus"
     },
     {
       "id": "science-2-11",
       "difficulty": 2,
-      "question": "All planets in the Solar System orbit the Sun.",
-      "answer": "True"
+      "question": "The common name of the chemical compound 'dihydrogen monoxide'.",
+      "answer": "Water"
     },
     {
       "id": "science-2-12",
       "difficulty": 2,
-      "question": "The element involved in making human blood red is which of the following?",
-      "answer": "Iron"
+      "question": "The organelle that aids in synthesis of DNA in cells.",
+      "answer": "Ribosomes"
     },
     {
       "id": "science-2-13",
       "difficulty": 2,
-      "question": "Psychology is the science of behavior and mind.",
-      "answer": "True"
+      "question": "The gas, besides hydrogen, that stars consist mainly of.",
+      "answer": "Helium"
     },
     {
       "id": "science-2-14",
       "difficulty": 2,
-      "question": "What is the chemical symbol for Helium?",
-      "answer": "He"
+      "question": "The standard atomic weight of a Plutonium nucleus.",
+      "answer": "244"
     },
     {
       "id": "science-2-15",
       "difficulty": 2,
-      "question": "The medical term for the belly button is which of the following?",
-      "answer": "Umbilicus"
-    },
-    {
-      "id": "science-2-16",
-      "difficulty": 2,
-      "question": "What is the common name of the chemical compound \"dihydrogen monoxide\"?",
-      "answer": "Water"
-    },
-    {
-      "id": "science-2-17",
-      "difficulty": 2,
-      "question": "What organelle aids in synthesis of DNA in cells?",
-      "answer": "Ribosomes"
-    },
-    {
-      "id": "science-2-18",
-      "difficulty": 2,
-      "question": "A plant that has a life cycle for more than a year is known as an annual.",
-      "answer": "False"
-    },
-    {
-      "id": "science-2-19",
-      "difficulty": 2,
-      "question": "Stars consist mainly of hydrogen and which other gas?",
-      "answer": "Helium"
-    },
-    {
-      "id": "science-2-20",
-      "difficulty": 2,
-      "question": "What is the standard atomic weight of a Plutonium nucleus?",
-      "answer": "244"
-    },
-    {
-      "id": "science-2-21",
-      "difficulty": 2,
-      "question": "Dry ice is the solid form of what substance?",
+      "question": "The substance whose solid form is known as dry ice.",
       "answer": "Carbon dioxide"
     },
     {
-      "id": "science-2-22",
+      "id": "science-2-16",
       "difficulty": 2,
       "question": "What is an example of a bacterial pathogen?",
       "answer": "Cholera"
     },
     {
-      "id": "science-2-23",
+      "id": "science-2-17",
       "difficulty": 2,
-      "question": "What does LASER stand for?",
+      "question": "What 'LASER' stands for as an acronym.",
       "answer": "Light amplification by stimulated emission of radiation"
     },
     {
-      "id": "science-2-24",
+      "id": "science-2-18",
       "difficulty": 2,
-      "question": "Naturally occuring uranium primarily consists of which isotope?",
+      "question": "The isotope that makes up most naturally occurring uranium.",
       "answer": "238"
     },
     {
-      "id": "science-2-25",
+      "id": "science-2-19",
       "difficulty": 2,
-      "question": "The human heart has how many chambers?",
+      "question": "The number of chambers in the human heart.",
       "answer": "4"
     },
     {
-      "id": "science-2-26",
+      "id": "science-2-20",
       "difficulty": 2,
-      "question": "Salt is 100% composed of Sodium.",
-      "answer": "False"
-    },
-    {
-      "id": "science-2-27",
-      "difficulty": 2,
-      "question": "What is the hottest planet in the Solar System?",
+      "question": "The hottest planet in the Solar System.",
       "answer": "Venus"
     },
     {
-      "id": "science-2-28",
+      "id": "science-2-21",
       "difficulty": 2,
       "question": "Which of the following bones is not in the leg?",
       "answer": "Radius"
     },
     {
-      "id": "science-2-29",
+      "id": "science-2-22",
       "difficulty": 2,
-      "question": "The Earth and the Moon roughly have the same mass.",
-      "answer": "False"
-    },
-    {
-      "id": "science-2-30",
-      "difficulty": 2,
-      "question": "Which element has the highest melting point?",
+      "question": "The element with the highest melting point.",
       "answer": "Carbon"
     },
     {
-      "id": "science-2-31",
+      "id": "science-2-23",
       "difficulty": 2,
-      "question": "Igneous rocks are formed by excessive heat and pressure.",
-      "answer": "False"
-    },
-    {
-      "id": "science-2-32",
-      "difficulty": 2,
-      "question": "Which Apollo mission was the first one to land on the Moon?",
+      "question": "The first Apollo mission to land on the Moon.",
       "answer": "Apollo 11"
     },
     {
-      "id": "science-2-33",
+      "id": "science-2-24",
       "difficulty": 2,
-      "question": "What animal takes part in Schrödinger's most famous thought experiment?",
+      "question": "The animal that takes part in Schrödinger's most famous thought experiment.",
       "answer": "Cat"
     },
     {
-      "id": "science-2-34",
+      "id": "science-2-25",
       "difficulty": 2,
-      "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
-      "answer": "True"
-    },
-    {
-      "id": "science-2-35",
-      "difficulty": 2,
-      "question": "What is the speed of light in a vacuum?",
+      "question": "The speed of light in a vacuum.",
       "answer": "299,792,458 m/s"
     },
     {
-      "id": "science-2-36",
+      "id": "science-2-26",
       "difficulty": 2,
-      "question": "What lies at the center of our galaxy?",
+      "question": "What lies at the center of our galaxy.",
       "answer": "A black hole"
     },
     {
-      "id": "science-2-37",
+      "id": "science-2-27",
       "difficulty": 2,
-      "question": "Human cells typically have how many copies of each gene?",
+      "question": "The number of copies of each gene typically found in human cells.",
       "answer": "2"
     },
     {
-      "id": "science-2-38",
+      "id": "science-2-28",
       "difficulty": 2,
-      "question": "What is the standard SI unit for mass?",
+      "question": "The standard SI unit for mass.",
       "answer": "Kilogram"
     },
     {
-      "id": "science-2-39",
+      "id": "science-2-29",
       "difficulty": 2,
       "question": "Which of the following is not one of the groups on the periodic table?",
       "answer": "Fluorines"
     },
     {
-      "id": "science-2-40",
+      "id": "science-2-30",
       "difficulty": 2,
-      "question": "Which gas forms about 78% of the Earth’s atmosphere?",
+      "question": "The gas that forms about 78% of the Earth's atmosphere.",
       "answer": "Nitrogen"
     },
     {
-      "id": "science-2-41",
+      "id": "science-2-31",
       "difficulty": 2,
-      "question": "What name is given to all baby marsupials?",
+      "question": "The name given to all baby marsupials.",
       "answer": "Joey"
     },
     {
-      "id": "science-2-42",
+      "id": "science-2-32",
       "difficulty": 2,
-      "question": "Great Whites sometimes perform the bump-and-bite attack (a test bite) on victims.",
-      "answer": "True"
-    },
-    {
-      "id": "science-2-43",
-      "difficulty": 2,
-      "question": "What is the standard SI unit for time?",
+      "question": "The standard SI unit for time.",
       "answer": "Second"
     },
     {
-      "id": "science-2-44",
+      "id": "science-2-33",
       "difficulty": 2,
-      "question": "71% of the Earth's surface is made up of",
+      "question": "The substance that makes up 71% of the Earth's surface.",
       "answer": "Water"
     },
     {
       "id": "science-3-1",
       "difficulty": 3,
-      "question": "The planet Mars has two moons orbiting it.",
-      "answer": "True"
+      "question": "The NASA Space Shuttle that broke apart during atmospheric re-entry on February 1, 2003.",
+      "answer": "Columbia"
     },
     {
       "id": "science-3-2",
       "difficulty": 3,
-      "question": "Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003?",
-      "answer": "Columbia"
+      "question": "The only desert in the world where the 'Saguaro' cactus grows indigenously.",
+      "answer": "The Sonoran Desert"
     },
     {
       "id": "science-3-3",
       "difficulty": 3,
-      "question": "Which desert is the only desert in the world where the \"Saguaro\" cactus grows indigenously?",
-      "answer": "The Sonoran Desert"
+      "question": "The planet orbited by the moons Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "answer": "Uranus"
     },
     {
       "id": "science-3-4",
       "difficulty": 3,
-      "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
-      "answer": "Uranus"
+      "question": "What you study if you are studying entomology.",
+      "answer": "Insects"
     },
     {
       "id": "science-3-5",
       "difficulty": 3,
-      "question": "What do you study if you are studying entomology?",
-      "answer": "Insects"
+      "question": "An organism described as \"heliotropic\" has a tendency to move toward this.",
+      "answer": "Light"
     },
     {
       "id": "science-3-6",
       "difficulty": 3,
-      "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
-      "answer": "True"
+      "question": "What causes Lyme disease.",
+      "answer": "A bacteria"
     },
     {
       "id": "science-3-7",
       "difficulty": 3,
-      "question": "An organism described as \"heliotropic\" has a tendancy to move towards which of these things?",
-      "answer": "Light"
+      "question": "To the nearest minute, the time it takes for light to travel from the Sun to the Earth.",
+      "answer": "8 Minutes"
     },
     {
       "id": "science-3-8",
       "difficulty": 3,
-      "question": "What causes Lyme disease?",
-      "answer": "A bacteria"
+      "question": "The cell organelle known as \"the powerhouse of the cell.\"",
+      "answer": "Mitochondria"
     },
     {
       "id": "science-3-9",
       "difficulty": 3,
-      "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
-      "answer": "8 Minutes"
+      "question": "The continent sweet potatoes originally come from.",
+      "answer": "South America"
     },
     {
       "id": "science-3-10",
       "difficulty": 3,
-      "question": "What cell organelle is known as \"the powerhouse of the cell?\"",
-      "answer": "Mitochondria"
-    },
-    {
-      "id": "science-3-11",
-      "difficulty": 3,
-      "question": "Which continent do sweet potatoes originally come from?",
-      "answer": "South America"
-    },
-    {
-      "id": "science-3-12",
-      "difficulty": 3,
-      "question": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+      "question": "The supermassive black hole at the centre of the Milky Way.",
       "answer": "Sagittarius A*"
     },
     {
-      "id": "science-3-13",
+      "id": "science-3-11",
       "difficulty": 3,
       "question": "Which of these choices is not one of the phases of mitosis?",
       "answer": "Diplophase"
     },
     {
+      "id": "science-3-12",
+      "difficulty": 3,
+      "question": "The part of the body where the 'Tibia' is found.",
+      "answer": "Leg"
+    },
+    {
+      "id": "science-3-13",
+      "difficulty": 3,
+      "question": "The male pollen-producing reproductive part of a flower.",
+      "answer": "Stamen"
+    },
+    {
       "id": "science-3-14",
       "difficulty": 3,
-      "question": "The \"Tibia\" is found in which part of the body?",
-      "answer": "Leg"
+      "question": "The part of the body that produces insulin.",
+      "answer": "Pancreas"
     },
     {
       "id": "science-3-15",
       "difficulty": 3,
-      "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
-      "answer": "Stamen"
+      "question": "The approximate age of the universe.",
+      "answer": "13.8 Billion Years"
     },
     {
       "id": "science-3-16",
       "difficulty": 3,
-      "question": "Shrimp can swim backwards.",
-      "answer": "True"
+      "question": "The study of the cells and tissues of plants and animals.",
+      "answer": "Histology"
     },
     {
       "id": "science-3-17",
       "difficulty": 3,
-      "question": "What part of the body produces insulin?",
-      "answer": "Pancreas"
+      "question": "The atomic number of the element Strontium.",
+      "answer": "38"
     },
     {
       "id": "science-3-18",
       "difficulty": 3,
-      "question": "In the periodic table, Potassium's symbol is the letter K.",
-      "answer": "True"
+      "question": "The number of teeth in the average adult mouth, including wisdom teeth.",
+      "answer": "32"
     },
     {
       "id": "science-3-19",
       "difficulty": 3,
-      "question": "Polaris is the brightest star in the northern hemisphere night sky.",
-      "answer": "False"
+      "question": "The Danish city after which the 72nd element on the periodic table is named.",
+      "answer": "Copenhagen"
     },
     {
       "id": "science-3-20",
       "difficulty": 3,
-      "question": "How old is the universe?",
-      "answer": "13.8 Billion Years"
+      "question": "The developer of the first successful polio vaccine in the 1950s.",
+      "answer": "Jonas Salk"
     },
     {
       "id": "science-3-21",
       "difficulty": 3,
-      "question": "What is the study of the cells and tissues of plants and animals?",
-      "answer": "Histology"
+      "question": "An alternative name for multiple personality disorder.",
+      "answer": "Dissociative identity disorder"
     },
     {
       "id": "science-3-22",
       "difficulty": 3,
-      "question": "What is the atomic number of the element Strontium?",
-      "answer": "38"
-    },
-    {
-      "id": "science-3-23",
-      "difficulty": 3,
-      "question": "The most frequent subconscious activity repeated by the human body is blinking.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-24",
-      "difficulty": 3,
-      "question": "How many teeth does the average adult mouth have (except for wisdom teeth)?",
-      "answer": "32"
-    },
-    {
-      "id": "science-3-25",
-      "difficulty": 3,
-      "question": "Type 1 diabetes is a result of the liver working improperly.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-26",
-      "difficulty": 3,
-      "question": "After which Danish city is the 72th element on the periodic table named?",
-      "answer": "Copenhagen"
-    },
-    {
-      "id": "science-3-27",
-      "difficulty": 3,
-      "question": "Who developed the first successful polio vaccine in the 1950s?",
-      "answer": "Jonas Salk"
-    },
-    {
-      "id": "science-3-28",
-      "difficulty": 3,
-      "question": "What is an alternative name for multiple personality disorder?",
-      "answer": "Dissociative identity disorder"
-    },
-    {
-      "id": "science-3-29",
-      "difficulty": 3,
-      "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+      "question": "The number of officially recognized dwarf planets in the solar system named after Polynesian deities.",
       "answer": "2"
     },
     {
-      "id": "science-3-30",
+      "id": "science-3-23",
       "difficulty": 3,
       "question": "Which of these is NOT a bone found in the human arm?",
       "answer": "Tibia"
     },
     {
-      "id": "science-3-31",
+      "id": "science-3-24",
       "difficulty": 3,
-      "question": "What is the standard SI unit for electric current?",
+      "question": "The standard SI unit for electric current.",
       "answer": "Ampere"
     },
     {
-      "id": "science-3-32",
+      "id": "science-3-25",
       "difficulty": 3,
-      "question": "Which planet did the \"Viking 1\" spacecraft send surface images of, starting in 1976?",
+      "question": "The planet that 'Viking 1' sent surface images of, starting in 1976.",
       "answer": "Mars"
     },
     {
-      "id": "science-3-33",
+      "id": "science-3-26",
       "difficulty": 3,
-      "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+      "question": "In aeronautics, what flaps and slats are used to control on an aircraft.",
       "answer": "Lift"
     },
     {
-      "id": "science-3-34",
+      "id": "science-3-27",
       "difficulty": 3,
-      "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+      "question": "Per the Axiom of Preventive Medicine, the risk level of people who should be screened, paired with the proportion of those people we should treat.",
       "answer": "low, all"
     },
     {
-      "id": "science-3-35",
+      "id": "science-3-28",
       "difficulty": 3,
       "question": "Which of the following men does not have a chemical element named after him?",
       "answer": "Sir Isaac Newton"
     },
     {
-      "id": "science-3-36",
+      "id": "science-3-29",
       "difficulty": 3,
       "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
       "answer": "Beryllium"
     },
     {
+      "id": "science-3-30",
+      "difficulty": 3,
+      "question": "The Fahrenheit equivalent of 100 degrees Celsius.",
+      "answer": "212"
+    },
+    {
+      "id": "science-3-31",
+      "difficulty": 3,
+      "question": "The part of the brain that takes its name from the Greek for seahorse.",
+      "answer": "Hippocampus"
+    },
+    {
+      "id": "science-3-32",
+      "difficulty": 3,
+      "question": "A type of stretch or deep tendon reflex elicited at the ankle.",
+      "answer": "Ankle jerk reflex"
+    },
+    {
+      "id": "science-3-33",
+      "difficulty": 3,
+      "question": "The chemical element originally known as Alabamine.",
+      "answer": "Astatine"
+    },
+    {
+      "id": "science-3-34",
+      "difficulty": 3,
+      "question": "The two elements that make up most of the Sun.",
+      "answer": "Hydrogen & Helium"
+    },
+    {
+      "id": "science-3-35",
+      "difficulty": 3,
+      "question": "The first living creatures sent to space.",
+      "answer": "Fruit Flies"
+    },
+    {
+      "id": "science-3-36",
+      "difficulty": 3,
+      "question": "The element represented by 'Au' on the Periodic Table.",
+      "answer": "Gold"
+    },
+    {
       "id": "science-3-37",
       "difficulty": 3,
-      "question": "How many degrees Fahrenheit is 100 degrees Celsius?",
-      "answer": "212"
+      "question": "Deionized water is water with this metal removed.",
+      "answer": "Iron"
     },
     {
       "id": "science-3-38",
       "difficulty": 3,
-      "question": "What part of the brain takes its name from the Greek for seahorse?",
-      "answer": "Hippocampus"
+      "question": "The part of the body affected by glaucoma.",
+      "answer": "Eyes"
     },
     {
       "id": "science-3-39",
       "difficulty": 3,
-      "question": "Which of these is a type of stretch/deep tendon reflex?",
-      "answer": "Ankle jerk reflex"
+      "question": "The element with atomic number 7.",
+      "answer": "Nitrogen"
     },
     {
       "id": "science-3-40",
       "difficulty": 3,
-      "question": "Which chemical element was originally known as Alabamine?",
-      "answer": "Astatine"
+      "question": "The unit in which radiation is measured.",
+      "answer": "Gray"
     },
     {
       "id": "science-3-41",
       "difficulty": 3,
-      "question": "The Sun consists of mostly which two elements?",
-      "answer": "Hydrogen & Helium"
+      "question": "What the yellow diamond on the NFPA 704 fire diamond represents.",
+      "answer": "Reactivity"
     },
     {
       "id": "science-3-42",
       "difficulty": 3,
-      "question": "What was the first living creature in space?",
-      "answer": "Fruit Flies"
+      "question": "The protein that human nails are made of.",
+      "answer": "Keratin"
     },
     {
       "id": "science-3-43",
       "difficulty": 3,
-      "question": "Au on the Periodic Table refers to which element?",
-      "answer": "Gold"
+      "question": "In human biology, the approximate number of hours in a circadian rhythm's period.",
+      "answer": "24"
     },
     {
       "id": "science-3-44",
       "difficulty": 3,
-      "question": "Deionized water is water with which of the following removed?",
-      "answer": "Iron"
+      "question": "The term best associated with Sigmund Freud.",
+      "answer": "Psychoanalysis"
     },
     {
       "id": "science-3-45",
       "difficulty": 3,
-      "question": "Which part of the body does glaucoma affect?",
-      "answer": "Eyes"
+      "question": "The colour of unoxidized blood.",
+      "answer": "Red"
     },
     {
       "id": "science-3-46",
       "difficulty": 3,
-      "question": "Enthalpy is a measure of the energy that is not available for work during a thermodynamic process.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-47",
-      "difficulty": 3,
-      "question": "The Doppler effect applies to light.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-48",
-      "difficulty": 3,
-      "question": "Which element has the atomic number of 7?",
-      "answer": "Nitrogen"
-    },
-    {
-      "id": "science-3-49",
-      "difficulty": 3,
-      "question": "If you dip a dry towel into a tub full of water, water will climb up the towel by a phenomenon called \"Cartillary Action\"",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-50",
-      "difficulty": 3,
-      "question": "What is radiation measured in?",
-      "answer": "Gray"
-    },
-    {
-      "id": "science-3-51",
-      "difficulty": 3,
-      "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
-      "answer": "Reactivity"
-    },
-    {
-      "id": "science-3-52",
-      "difficulty": 3,
-      "question": "What are human nails made of?",
-      "answer": "Keratin"
-    },
-    {
-      "id": "science-3-53",
-      "difficulty": 3,
-      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
-      "answer": "24"
-    },
-    {
-      "id": "science-3-54",
-      "difficulty": 3,
-      "question": "What term is best associated with Sigmund Freud?",
-      "answer": "Psychoanalysis"
-    },
-    {
-      "id": "science-3-55",
-      "difficulty": 3,
-      "question": "What is the colour of unoxidized blood?",
-      "answer": "Red"
-    },
-    {
-      "id": "science-3-56",
-      "difficulty": 3,
-      "question": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+      "question": "The Swiss psychologist synonymous with the concepts of introvert and extrovert personalities.",
       "answer": "Carl Jung"
     },
     {
-      "id": "science-3-57",
+      "id": "science-3-47",
       "difficulty": 3,
       "question": "Which of these stars is the largest?",
       "answer": "UY Scuti"
     },
     {
-      "id": "science-3-58",
+      "id": "science-3-48",
       "difficulty": 3,
-      "question": "What is the chemical symbol for lead?",
+      "question": "The chemical symbol for lead.",
       "answer": "Pb"
     },
     {
-      "id": "science-3-59",
+      "id": "science-3-49",
       "difficulty": 3,
-      "question": "Who made the discovery of X-rays?",
+      "question": "The discoverer of X-rays.",
       "answer": "Wilhelm Conrad Röntgen"
     },
     {
-      "id": "science-3-60",
+      "id": "science-3-50",
       "difficulty": 3,
-      "question": "Myopia is the scientific term for which condition?",
+      "question": "The condition for which 'myopia' is the scientific term.",
       "answer": "Shortsightedness"
     },
     {
-      "id": "science-3-61",
+      "id": "science-3-51",
       "difficulty": 3,
-      "question": "What is the medical term for low blood sugar?",
+      "question": "The medical term for low blood sugar.",
       "answer": "Hypoglycemia"
     },
     {
-      "id": "science-3-62",
+      "id": "science-3-52",
       "difficulty": 3,
-      "question": "What is the lowest layer of the Earth's atmosphere named?",
+      "question": "The name of the lowest layer of the Earth's atmosphere.",
       "answer": "Troposphere"
     },
     {
-      "id": "science-3-63",
+      "id": "science-3-53",
       "difficulty": 3,
-      "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+      "question": "This Periodic Table element is a Noble Gas.",
       "answer": "Neon"
     },
     {
-      "id": "science-3-64",
+      "id": "science-3-54",
       "difficulty": 3,
-      "question": "Where did the Great Storm of 1987 make landfall at, first?",
+      "question": "The English county where the Great Storm of 1987 first made landfall.",
       "answer": "Cornwall"
     },
     {
-      "id": "science-3-65",
+      "id": "science-3-55",
       "difficulty": 3,
-      "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+      "question": "Down Syndrome is usually caused by an extra copy of this chromosome.",
       "answer": "21"
     },
     {
-      "id": "science-3-66",
+      "id": "science-3-56",
       "difficulty": 3,
       "question": "Which of these is NOT a part of the structure of a typical neuron?",
       "answer": "Islets of Langerhans"
     },
     {
+      "id": "science-3-57",
+      "difficulty": 3,
+      "question": "The joint formed by the humerus, paired radius, and ulna.",
+      "answer": "Elbow"
+    },
+    {
+      "id": "science-3-58",
+      "difficulty": 3,
+      "question": "The temperature at which water boils.",
+      "answer": "212°F"
+    },
+    {
+      "id": "science-3-59",
+      "difficulty": 3,
+      "question": "The number of hearts an octopus has.",
+      "answer": "Three"
+    },
+    {
+      "id": "science-3-60",
+      "difficulty": 3,
+      "question": "The chemical formula for ammonia.",
+      "answer": "NH3"
+    },
+    {
+      "id": "science-3-61",
+      "difficulty": 3,
+      "question": "The category of 2005's Hurricane Katrina on the Saffir-Simpson hurricane wind scale.",
+      "answer": "Category 5"
+    },
+    {
+      "id": "science-3-62",
+      "difficulty": 3,
+      "question": "The portion of the Marijuana plant that produces the psychoactive substance known as THC.",
+      "answer": "Female Flower"
+    },
+    {
+      "id": "science-3-63",
+      "difficulty": 3,
+      "question": "The mathematical formula of Ohm's law.",
+      "answer": "V = I*R"
+    },
+    {
+      "id": "science-3-64",
+      "difficulty": 3,
+      "question": "Tetsuya Fujita was a scientist who developed the scale for this natural disaster.",
+      "answer": "Tornadoes"
+    },
+    {
+      "id": "science-3-65",
+      "difficulty": 3,
+      "question": "On the Falcon Heavy's test flight, this was the only part of the operation that failed.",
+      "answer": "Center Core Landing"
+    },
+    {
+      "id": "science-3-66",
+      "difficulty": 3,
+      "question": "The depth at which you should make a decompression stop, or safety stop, on a typical scuba dive.",
+      "answer": "15 Feet / 5 Meters"
+    },
+    {
       "id": "science-3-67",
       "difficulty": 3,
-      "question": "The humerus, paired radius, and ulna come together to form what joint?",
-      "answer": "Elbow"
+      "question": "The polymer used to make CDs, safety goggles and riot shields.",
+      "answer": "Polycarbonate"
     },
     {
       "id": "science-3-68",
       "difficulty": 3,
-      "question": "At what temperature does water boil?",
-      "answer": "212°F"
+      "question": "The atomic number of Uranium.",
+      "answer": "92"
     },
     {
       "id": "science-3-69",
       "difficulty": 3,
-      "question": "Sound can travel through a vacuum.",
-      "answer": "False"
+      "question": "The mission on which the Space Shuttle Columbia broke up upon re-entry.",
+      "answer": "STS-107"
     },
     {
       "id": "science-3-70",
       "difficulty": 3,
-      "question": "How many hearts does an octopus have?",
-      "answer": "Three"
+      "question": "The stage of development in which the majority of eukaryotic cells remain for most of their life.",
+      "answer": "Interphase"
     },
     {
       "id": "science-3-71",
       "difficulty": 3,
-      "question": "What is the chemical formula for ammonia?",
-      "answer": "NH3"
+      "question": "In Chemistry, the number of isomers of Butanol (C4H9OH).",
+      "answer": "4"
     },
     {
       "id": "science-3-72",
       "difficulty": 3,
-      "question": "What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?",
-      "answer": "Category 5"
+      "question": "The unit of electrical capacitance.",
+      "answer": "Farad"
     },
     {
       "id": "science-3-73",
       "difficulty": 3,
-      "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
-      "answer": "Female Flower"
-    },
-    {
-      "id": "science-3-74",
-      "difficulty": 3,
-      "question": "What is the mathematical formula of Ohm's law?",
-      "answer": "V = I*R"
-    },
-    {
-      "id": "science-3-75",
-      "difficulty": 3,
-      "question": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
-      "answer": "Tornadoes"
-    },
-    {
-      "id": "science-3-76",
-      "difficulty": 3,
-      "question": "When the Falcon Heavy was launched on it's test flight, what was the only part of the operation that failed?",
-      "answer": "Center Core Landing"
-    },
-    {
-      "id": "science-3-77",
-      "difficulty": 3,
-      "question": "Sugar contains fat.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-78",
-      "difficulty": 3,
-      "question": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
-      "answer": "15 Feet / 5 Meters"
-    },
-    {
-      "id": "science-3-79",
-      "difficulty": 3,
-      "question": "\"Tachycardia\" or \"Tachyarrhythmia\" refers to a resting heart-rate near or over 100 BPM.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-80",
-      "difficulty": 3,
-      "question": "Male pandas do handstands while urinating on trees.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-81",
-      "difficulty": 3,
-      "question": "What polymer is used to make CDs, safety goggles and riot shields?",
-      "answer": "Polycarbonate"
-    },
-    {
-      "id": "science-3-82",
-      "difficulty": 3,
-      "question": "What is the atomic number of Uranium",
-      "answer": "92"
-    },
-    {
-      "id": "science-3-83",
-      "difficulty": 3,
-      "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
-      "answer": "STS-107"
-    },
-    {
-      "id": "science-3-84",
-      "difficulty": 3,
-      "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
-      "answer": "Interphase"
-    },
-    {
-      "id": "science-3-85",
-      "difficulty": 3,
-      "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
-      "answer": "4"
-    },
-    {
-      "id": "science-3-86",
-      "difficulty": 3,
-      "question": "What is the unit of electrical capacitance?",
-      "answer": "Farad"
-    },
-    {
-      "id": "science-3-87",
-      "difficulty": 3,
-      "question": "What medication was once commonly used as rat poison?",
+      "question": "The medication once commonly used as rat poison.",
       "answer": "Coumadin"
     },
     {
-      "id": "science-3-88",
+      "id": "science-3-74",
       "difficulty": 3,
       "question": "Which of the following is NOT a passive electrical component?",
       "answer": "Transistor"
     },
     {
-      "id": "science-3-89",
+      "id": "science-3-75",
       "difficulty": 3,
-      "question": "The medical condition osteoporosis affects which part of the body?",
+      "question": "The part of the body affected by the medical condition osteoporosis.",
       "answer": "Bones"
     },
     {
-      "id": "science-3-90",
+      "id": "science-3-76",
       "difficulty": 3,
-      "question": "Steel is an alloy of Iron and Carbon.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-91",
-      "difficulty": 3,
-      "question": "About how old is Earth?",
+      "question": "The approximate age of Earth.",
       "answer": "4.5 Billion Years"
     },
     {
-      "id": "science-3-92",
+      "id": "science-3-77",
       "difficulty": 3,
-      "question": "Which planet in the Solar System is the closest to the Sun?",
+      "question": "The planet in the Solar System closest to the Sun.",
       "answer": "Mercury"
     },
     {
-      "id": "science-3-93",
+      "id": "science-3-78",
       "difficulty": 3,
-      "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+      "question": "Along with oxygen, the element primarily responsible for the sky appearing blue.",
       "answer": "Nitrogen"
     },
     {
-      "id": "science-3-94",
+      "id": "science-3-79",
       "difficulty": 3,
-      "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-95",
-      "difficulty": 3,
-      "question": "What mineral has the lowest number on the Mohs scale?",
+      "question": "The mineral with the lowest number on the Mohs scale.",
       "answer": "Talc"
     },
     {
-      "id": "science-3-96",
+      "id": "science-3-80",
       "difficulty": 3,
-      "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-97",
-      "difficulty": 3,
-      "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+      "question": "The scientist who conducted the Gold Foil Experiment, concluding that atoms are mostly empty space.",
       "answer": "Ernest Rutherford"
     },
     {
-      "id": "science-3-98",
+      "id": "science-3-81",
       "difficulty": 3,
-      "question": "Scientists accidentally killed the once known world's oldest living creature, a mollusc, known to be aged as 507 years old.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-99",
-      "difficulty": 3,
-      "question": "Approximately what percentage of Earth's atmosphere is Oxygen?",
+      "question": "The approximate percentage of Earth's atmosphere made up of oxygen.",
       "answer": "21%"
     },
     {
-      "id": "science-3-100",
+      "id": "science-3-82",
       "difficulty": 3,
-      "question": "The \"Gympie Stinger\" is the deadliest plant in the world.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-101",
-      "difficulty": 3,
-      "question": "What is Hypernatremia?",
+      "question": "Hypernatremia is defined as this condition involving blood sodium.",
       "answer": "Increase in blood sodium"
     },
     {
-      "id": "science-3-102",
+      "id": "science-3-83",
       "difficulty": 3,
-      "question": "What is the Linnean name of the domestic apple tree?",
+      "question": "The Linnean name of the domestic apple tree.",
       "answer": "Malus pumila"
     },
     {
-      "id": "science-3-103",
+      "id": "science-3-84",
       "difficulty": 3,
-      "question": "Where did the dog breed \"Chihuahua\" originate?",
+      "question": "The country where the dog breed 'Chihuahua' originated.",
       "answer": "Mexico"
     },
     {
-      "id": "science-3-104",
+      "id": "science-3-85",
       "difficulty": 3,
-      "question": "Deuterium is an isotope of which element?",
+      "question": "The element of which deuterium is an isotope.",
       "answer": "Hydrogen"
     },
     {
-      "id": "science-3-105",
+      "id": "science-3-86",
       "difficulty": 3,
-      "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+      "question": "The cognitive bias wherein a person with low ability in a particular skill mistakes themselves as being superior.",
       "answer": "Dunning-Kruger effect"
     },
     {
-      "id": "science-3-106",
+      "id": "science-3-87",
       "difficulty": 3,
       "question": "Which of the following spacecraft never touched the moon?",
       "answer": "Mariner 4"
     },
     {
-      "id": "science-3-107",
+      "id": "science-3-88",
       "difficulty": 3,
-      "question": "What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?",
+      "question": "The emergency procedure abbreviated 'CPR', used to assist someone in cardiac arrest.",
       "answer": "Cardiopulmonary resuscitation"
     },
     {
-      "id": "science-3-108",
+      "id": "science-3-89",
       "difficulty": 3,
-      "question": "What is the scientific term for 'taste'?",
+      "question": "The scientific term for 'taste'.",
       "answer": "Gustatory Perception"
     },
     {
-      "id": "science-3-109",
+      "id": "science-3-90",
       "difficulty": 3,
-      "question": "Centripetal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-110",
-      "difficulty": 3,
-      "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+      "question": "The molecular formula of capsaicin, the active component of chili peppers.",
       "answer": "C18H27NO3"
     },
     {
-      "id": "science-3-111",
+      "id": "science-3-91",
       "difficulty": 3,
-      "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-112",
-      "difficulty": 3,
-      "question": "The human right lung has how many lobes?",
+      "question": "The number of lobes in the human right lung.",
       "answer": "3"
     },
     {
-      "id": "science-3-113",
+      "id": "science-3-92",
       "difficulty": 3,
-      "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+      "question": "The color that cannot be produced in roses, even through genetic alteration.",
       "answer": "Blue"
     },
     {
-      "id": "science-3-114",
+      "id": "science-3-93",
       "difficulty": 3,
-      "question": "What are the smallest blood vessels in the human body?",
+      "question": "The smallest blood vessels in the human body.",
       "answer": "Capillaries"
     },
     {
-      "id": "science-3-115",
+      "id": "science-3-94",
       "difficulty": 3,
-      "question": "In Psychology, which need appears highest in the \"Maslow's hierarchy of needs\" pyramid?",
+      "question": "In Psychology, the need that appears highest in the \"Maslow's hierarchy of needs\" pyramid.",
       "answer": "Esteem"
     },
     {
-      "id": "science-3-116",
+      "id": "science-3-95",
       "difficulty": 3,
-      "question": "El Niño pushes warm water to the coasts of the Western Pacific during winter.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-117",
-      "difficulty": 3,
-      "question": "Which chemical element has the lowest boiling point?",
+      "question": "The chemical element with the lowest boiling point.",
       "answer": "Helium"
     },
     {
-      "id": "science-3-118",
+      "id": "science-3-96",
       "difficulty": 3,
-      "question": "The French scientists Louis Pasteur and Émile Roux developed the first rabies vaccination in 1885.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-119",
-      "difficulty": 3,
-      "question": "Which of these two plates are best know for forming earthquakes and tsunami's?",
+      "question": "These plate boundaries involving oceanic crust are best known for forming earthquakes and tsunamis.",
       "answer": "Convergent Plate Boundaries/Oceanic Crust"
     },
     {
-      "id": "science-3-120",
+      "id": "science-3-97",
       "difficulty": 3,
-      "question": "What is the half-life of Uranium-235?",
+      "question": "The half-life of Uranium-235.",
       "answer": "703,800,000 years"
     },
     {
-      "id": "science-3-121",
+      "id": "science-3-98",
       "difficulty": 3,
-      "question": "On the periodic table of elements, what is the symbol for Tin?",
+      "question": "On the periodic table of elements, the symbol for Tin.",
       "answer": "Sn"
     },
     {
-      "id": "science-3-122",
+      "id": "science-3-99",
       "difficulty": 3,
-      "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "question": "The psychological term referring to the stress of holding contrasting beliefs.",
       "answer": "Cognitive Dissonance"
     },
     {
-      "id": "science-3-123",
+      "id": "science-3-100",
       "difficulty": 3,
-      "question": "A person can get sunburned on a cloudy day.",
-      "answer": "True"
-    },
-    {
-      "id": "science-3-124",
-      "difficulty": 3,
-      "question": "Approximately how long is a year on Uranus?",
+      "question": "The approximate length of a year on Uranus.",
       "answer": "84 Earth years"
     },
     {
-      "id": "science-3-125",
+      "id": "science-3-101",
       "difficulty": 3,
-      "question": "What is the largest living organism currently known to man?",
+      "question": "The largest living organism currently known to man.",
       "answer": "Honey Fungus"
     },
     {
-      "id": "science-3-126",
+      "id": "science-3-102",
       "difficulty": 3,
-      "question": "How many baby/milk teeth does a human child have in total?",
+      "question": "The total number of baby or milk teeth a human child has.",
       "answer": "20"
     },
     {
-      "id": "science-3-127",
+      "id": "science-3-103",
       "difficulty": 3,
-      "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-128",
-      "difficulty": 3,
-      "question": "A positron is an antiparticle of a what?",
+      "question": "The particle for which a positron is the antiparticle.",
       "answer": "Electron"
     },
     {
-      "id": "science-3-129",
+      "id": "science-3-104",
       "difficulty": 3,
-      "question": "The Neanderthals were a direct ancestor of modern humans.",
-      "answer": "False"
-    },
-    {
-      "id": "science-3-130",
-      "difficulty": 3,
-      "question": "When was the first mammal successfully cloned?",
+      "question": "The year the first mammal was successfully cloned.",
       "answer": "1996"
     },
     {
-      "id": "science-3-131",
+      "id": "science-3-105",
       "difficulty": 3,
-      "question": "Gannymede is the largest moon of which planet?",
+      "question": "The planet whose largest moon is Ganymede.",
       "answer": "Jupiter"
     },
     {
-      "id": "science-3-132",
+      "id": "science-3-106",
       "difficulty": 3,
-      "question": "The medial meniscus forms which part of what joint in the human body?",
+      "question": "The joint in the human body of which the medial meniscus forms a part.",
       "answer": "Knee"
     },
     {
       "id": "science-4-1",
       "difficulty": 4,
-      "question": "An organic compound is considered an alcohol if it has what functional group?",
+      "question": "The functional group whose presence makes an organic compound an alcohol.",
       "answer": "Hydroxyl"
     },
     {
       "id": "science-4-2",
       "difficulty": 4,
-      "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+      "question": "The physics principle relating the net electric flux out of a closed surface to the charge enclosed by that surface.",
       "answer": "Gauss's Law"
     },
     {
       "id": "science-4-3",
       "difficulty": 4,
-      "question": "Which is the chemical name of H2O?",
+      "question": "The chemical name of H2O.",
       "answer": "Dihydrogen Monoxide"
     },
     {
       "id": "science-4-4",
       "difficulty": 4,
-      "question": "The value of one Calorie is different than the value of one calorie.",
-      "answer": "True"
+      "question": "The only satellite in our solar system to possess a dense atmosphere.",
+      "answer": "Titan"
     },
     {
       "id": "science-4-5",
       "difficulty": 4,
-      "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
-      "answer": "Titan"
+      "question": "The first organic compound to be synthesized from inorganic compounds.",
+      "answer": "Urea"
     },
     {
       "id": "science-4-6",
       "difficulty": 4,
-      "question": "What was the first organic compound to be synthesized from inorganic compounds?",
-      "answer": "Urea"
+      "question": "The common name given to the medical condition tibial stress syndrome (MTSS).",
+      "answer": "Shin Splints"
     },
     {
       "id": "science-4-7",
       "difficulty": 4,
-      "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
-      "answer": "Shin Splints"
-    },
-    {
-      "id": "science-4-8",
-      "difficulty": 4,
-      "question": "Where in the human body is the Pineal Gland located?",
+      "question": "The part of the human body where the Pineal Gland is located.",
       "answer": "Brain"
     },
     {
-      "id": "science-4-9",
+      "id": "science-4-8",
       "difficulty": 4,
       "question": "Which of the following is NOT a real element?",
       "answer": "Vitrainium"
     },
     {
+      "id": "science-4-9",
+      "difficulty": 4,
+      "question": "The horizon in a soil profile that consists of bedrock.",
+      "answer": "R"
+    },
+    {
       "id": "science-4-10",
       "difficulty": 4,
-      "question": "Which horizon in a soil profile consists of bedrock?",
-      "answer": "R"
+      "question": "The number of types of quarks in the standard model of physics.",
+      "answer": "6"
     },
     {
       "id": "science-4-11",
       "difficulty": 4,
-      "question": "How many types of quarks are there in the standard model of physics?",
-      "answer": "6"
+      "question": "The cause of the sound of a heartbeat.",
+      "answer": "Closure of the heart valves"
     },
     {
       "id": "science-4-12",
       "difficulty": 4,
-      "question": "What causes the sound of a heartbeat?",
-      "answer": "Closure of the heart valves"
+      "question": "The common name for isobutylphenylpropanoic acid.",
+      "answer": "Ibuprofen"
     },
     {
       "id": "science-4-13",
       "difficulty": 4,
-      "question": "What is isobutylphenylpropanoic acid more commonly known as?",
-      "answer": "Ibuprofen"
-    },
-    {
-      "id": "science-4-14",
-      "difficulty": 4,
-      "question": "What is the molecular formula of Glucose?",
+      "question": "The molecular formula of glucose.",
       "answer": "C6H12O6"
     },
     {
-      "id": "science-4-15",
+      "id": "science-4-14",
       "difficulty": 4,
       "question": "Which of the following are cells of the adaptive immune system?",
       "answer": "Cytotoxic T cells"
     },
     {
-      "id": "science-4-16",
+      "id": "science-4-15",
       "difficulty": 4,
-      "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+      "question": "The element typically used in the doping of the semiconductor silicon.",
       "answer": "Boron"
     },
     {
-      "id": "science-4-17",
+      "id": "science-4-16",
       "difficulty": 4,
       "question": "What does the term \"isolation\" refer to in microbiology?",
       "answer": "The separation of a strain from a natural, mixed population of living microbes"
     },
     {
+      "id": "science-4-17",
+      "difficulty": 4,
+      "question": "This device is used to show that Earth spins on an axis.",
+      "answer": "Foucault Pendulum"
+    },
+    {
       "id": "science-4-18",
       "difficulty": 4,
-      "question": "Which of these is used to show that Earth spins on an axis?",
-      "answer": "Foucault Pendulum"
+      "question": "The temperature that reads the same in Celsius and Fahrenheit.",
+      "answer": "-40"
     },
     {
       "id": "science-4-19",
       "difficulty": 4,
-      "question": "What is the same in Celsius and Fahrenheit?",
-      "answer": "-40"
+      "question": "The major extinction event caused by an asteroid collision that eliminated the majority of non-avian dinosaurs.",
+      "answer": "Cretaceous-Paleogene"
     },
     {
       "id": "science-4-20",
       "difficulty": 4,
-      "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
-      "answer": "Cretaceous-Paleogene"
+      "question": "The vitamin whose synthetic form is folic acid.",
+      "answer": "Vitamin B"
     },
     {
       "id": "science-4-21",
       "difficulty": 4,
-      "question": "Folic acid is the synthetic form of which vitamin?",
-      "answer": "Vitamin B"
+      "question": "The element on the periodic table with 92 electrons.",
+      "answer": "Uranium"
     },
     {
       "id": "science-4-22",
       "difficulty": 4,
-      "question": "What element on the periodic table has 92 electrons?",
-      "answer": "Uranium"
+      "question": "Coulrophobia is the irrational fear of these.",
+      "answer": "Clowns"
     },
     {
       "id": "science-4-23",
       "difficulty": 4,
-      "question": "Frederick Banting and John Macleod won a Nobel Prize for their contributions to the scientific fields of quantum mechanics.",
-      "answer": "False"
+      "question": "The molecular formula of ozone.",
+      "answer": "O3"
     },
     {
       "id": "science-4-24",
       "difficulty": 4,
-      "question": "Coulrophobia is the irrational fear of what?",
-      "answer": "Clowns"
+      "question": "The nucleotide that pairs with guanine.",
+      "answer": "Cytosine"
     },
     {
       "id": "science-4-25",
       "difficulty": 4,
-      "question": "What is the molecular formula of Ozone?",
-      "answer": "O3"
+      "question": "The amount of radiation emitted by a banana.",
+      "answer": "0.1 Microsievert"
     },
     {
       "id": "science-4-26",
       "difficulty": 4,
-      "question": "What nucleotide pairs with guanine?",
-      "answer": "Cytosine"
-    },
-    {
-      "id": "science-4-27",
-      "difficulty": 4,
-      "question": "How much radiation does a banana emit?",
-      "answer": "0.1 Microsievert"
-    },
-    {
-      "id": "science-4-28",
-      "difficulty": 4,
-      "question": "How long is a light-year?",
+      "question": "The length of a light-year in kilometres.",
       "answer": "9.461 Trillion Kilometres"
     },
     {
-      "id": "science-4-29",
+      "id": "science-4-27",
       "difficulty": 4,
       "question": "Botanically speaking, which of these fruits is NOT a berry?",
       "answer": "Strawberry"
     },
     {
-      "id": "science-4-30",
+      "id": "science-4-28",
       "difficulty": 4,
-      "question": "In the Scoville scale, what is the hottest chemical?",
+      "question": "The hottest chemical on the Scoville scale.",
       "answer": "Resiniferatoxin"
     },
     {
-      "id": "science-4-31",
+      "id": "science-4-29",
       "difficulty": 4,
       "question": "Which of these chemical compounds is NOT found in gastric acid?",
       "answer": "Sulfuric acid"
     },
     {
+      "id": "science-4-30",
+      "difficulty": 4,
+      "question": "On the Beaufort Scale of wind force, the wind name given to number 8.",
+      "answer": "Gale"
+    },
+    {
+      "id": "science-4-31",
+      "difficulty": 4,
+      "question": "A comet's gaseous envelope, which creates the tail.",
+      "answer": "The coma"
+    },
+    {
       "id": "science-4-32",
       "difficulty": 4,
-      "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
-      "answer": "Gale"
+      "question": "The scientific unit named after an Italian nobleman.",
+      "answer": "Volt"
     },
     {
       "id": "science-4-33",
       "difficulty": 4,
-      "question": "A comet's gaseous envelope (which creates the tail) is called what?",
-      "answer": "The coma"
+      "question": "The religious ideology of the priest who first theorized 'The Big Bang Theory'.",
+      "answer": "Catholic"
     },
     {
       "id": "science-4-34",
       "difficulty": 4,
-      "question": "Which scientific unit is named after an Italian nobleman?",
-      "answer": "Volt"
-    },
-    {
-      "id": "science-4-35",
-      "difficulty": 4,
-      "question": "\"The Big Bang Theory\" was first theorized by a priest of what religious ideology?",
-      "answer": "Catholic"
-    },
-    {
-      "id": "science-4-36",
-      "difficulty": 4,
-      "question": "The chemical element Lithium is named after the country of Lithuania.",
-      "answer": "False"
-    },
-    {
-      "id": "science-4-37",
-      "difficulty": 4,
-      "question": "What is considered the rarest form of color blindness?",
+      "question": "The rarest form of color blindness involves trouble seeing this color.",
       "answer": "Blue"
     },
     {
-      "id": "science-4-38",
+      "id": "science-4-35",
       "difficulty": 4,
       "question": "What is the most potent toxin known?",
       "answer": "Botulinum toxin"
     },
     {
-      "id": "science-4-39",
+      "id": "science-4-36",
       "difficulty": 4,
-      "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+      "question": "In quantum physics, this theorised sub-atomic particle has yet to be observed.",
       "answer": "Graviton"
     },
     {
-      "id": "science-4-40",
+      "id": "science-4-37",
       "difficulty": 4,
-      "question": "What is the unit of electrical inductance?",
+      "question": "The unit of electrical inductance.",
       "answer": "Henry"
     },
     {
       "id": "science-5-1",
       "difficulty": 5,
-      "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+      "question": "In physics, conservation of energy and conservation of momentum are both consequences of this theorem.",
       "answer": "Noether's Theorem"
     },
     {
       "id": "science-5-2",
       "difficulty": 5,
-      "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+      "question": "The genetic disease caused by having an extra Y chromosome (XYY).",
       "answer": "Jacob's Syndrome"
     },
     {
       "id": "science-5-3",
       "difficulty": 5,
-      "question": "Which Landsat Satellite currently has had the longest operational life?",
+      "question": "The Landsat satellite that has had the longest operational life.",
       "answer": "Landsat 5"
     },
     {
       "id": "science-5-4",
       "difficulty": 5,
-      "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+      "question": "The auditory illusion of a note that seems to be rising infinitely.",
       "answer": "Shepard Tone"
     },
     {
@@ -1597,205 +1315,193 @@
     {
       "id": "science-5-6",
       "difficulty": 5,
-      "question": "Which of these animals belongs in class Chondrichthyes?",
+      "question": "This animal belongs in class Chondrichthyes.",
       "answer": "Great white shark"
     },
     {
       "id": "science-5-7",
       "difficulty": 5,
-      "question": "Which country first successfully farm-hatched and raised bluefin tuna in 1979?",
+      "question": "The country that first successfully farm-hatched and raised bluefin tuna in 1979.",
       "answer": "Japan"
     },
     {
       "id": "science-5-8",
       "difficulty": 5,
-      "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+      "question": "The small long organelles bundled together to construct muscle fiber.",
       "answer": "Myofibrils"
     },
     {
       "id": "science-5-9",
       "difficulty": 5,
-      "question": "Which of these is a stop codon in DNA?",
+      "question": "A stop codon in DNA.",
       "answer": "TAA"
     },
     {
       "id": "science-5-10",
       "difficulty": 5,
-      "question": "How many objects are equivalent to one mole?",
+      "question": "The number of objects equivalent to one mole.",
       "answer": "6.022 x 10^23"
     },
     {
       "id": "science-5-11",
       "difficulty": 5,
-      "question": "If you planted the seeds of Quercus robur what would grow?",
+      "question": "What would grow if you planted the seeds of Quercus robur.",
       "answer": "Trees"
     },
     {
       "id": "science-5-12",
       "difficulty": 5,
-      "question": "Which of the following is a major muscle of the back?",
+      "question": "A major muscle of the back.",
       "answer": "Trapezius"
     },
     {
       "id": "science-5-13",
       "difficulty": 5,
-      "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
-      "answer": "True"
+      "question": "The Landsat satellite that failed to reach orbit.",
+      "answer": "Landsat 6"
     },
     {
       "id": "science-5-14",
       "difficulty": 5,
-      "question": "Which Landsat Satellite failed to reach orbit?",
-      "answer": "Landsat 6"
+      "question": "The scientific term for \"brain freeze.\"",
+      "answer": "Sphenopalatine Ganglioneuralgia"
     },
     {
       "id": "science-5-15",
       "difficulty": 5,
-      "question": "Albert Einstein won a noble prize for his theory of relativity.",
-      "answer": "False"
+      "question": "The scientific name of the red fox.",
+      "answer": "Vulpes Vulpes"
     },
     {
       "id": "science-5-16",
       "difficulty": 5,
-      "question": "Which one of these is scientific term for \"Brain Freeze\"?",
-      "answer": "Sphenopalatine Ganglioneuralgia"
+      "question": "The human organ containing the 'Islets of Langerhans'.",
+      "answer": "Pancreas"
     },
     {
       "id": "science-5-17",
       "difficulty": 5,
-      "question": "What is the scientific name of the red fox?",
-      "answer": "Vulpes Vulpes"
+      "question": "Stenoma is this type of taxonomic group within the order Lepidoptera.",
+      "answer": "A genus of moths"
     },
     {
       "id": "science-5-18",
       "difficulty": 5,
-      "question": "The 'Islets of Langerhans' is found in which human organ?",
-      "answer": "Pancreas"
+      "question": "Burning this metal produces a bright white flame.",
+      "answer": "Magnesium"
     },
     {
       "id": "science-5-19",
       "difficulty": 5,
-      "question": "What is \"Stenoma\"?",
-      "answer": "A genus of moths"
+      "question": "A semiconductor amplifying device.",
+      "answer": "transistor"
     },
     {
       "id": "science-5-20",
       "difficulty": 5,
-      "question": "Burning which of these metals will produce a bright white flame?",
-      "answer": "Magnesium"
+      "question": "The constellation that contains the center of the Milky Way.",
+      "answer": "Sagittarius"
     },
     {
       "id": "science-5-21",
       "difficulty": 5,
-      "question": "Which of these is a semiconductor amplifying device?",
-      "answer": "transistor"
+      "question": "The temperature that the core of the Sun can reach.",
+      "answer": "27° Million F (15° Million C)"
     },
     {
       "id": "science-5-22",
       "difficulty": 5,
-      "question": "Which constellation contains the center of the Milky Way?",
-      "answer": "Sagittarius"
+      "question": "The number of legs it is biologically impossible for a centipede to have.",
+      "answer": "100"
     },
     {
       "id": "science-5-23",
       "difficulty": 5,
-      "question": "The core of the Sun can reach which temperature?",
-      "answer": "27° Million F (15° Million C)"
+      "question": "The term for surgical complications resulting from surgical sponges left inside the patient's body.",
+      "answer": "Gossypiboma"
     },
     {
       "id": "science-5-24",
       "difficulty": 5,
-      "question": "How many legs is it biologically impossible for a centipede to have?",
-      "answer": "100"
+      "question": "The scientific name for the extinct hominin known as \"Lucy\".",
+      "answer": "Australopithecus Afarensis"
     },
     {
       "id": "science-5-25",
       "difficulty": 5,
-      "question": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
-      "answer": "Gossypiboma"
+      "question": "The meaning of the scientific name of the Cambrian-Period sea creature Anomalocaris.",
+      "answer": "Abnormal Shrimp"
     },
     {
       "id": "science-5-26",
       "difficulty": 5,
-      "question": "What is the scientific name for the extinct hominin known as \"Lucy\"?",
-      "answer": "Australopithecus Afarensis"
-    },
-    {
-      "id": "science-5-27",
-      "difficulty": 5,
-      "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
-      "answer": "Abnormal Shrimp"
-    },
-    {
-      "id": "science-5-28",
-      "difficulty": 5,
-      "question": "How many protons are in an oxygen atom?",
+      "question": "The number of protons in an oxygen atom.",
       "answer": "Eight"
     },
     {
-      "id": "science-5-29",
+      "id": "science-5-27",
       "difficulty": 5,
       "question": "Which of the following is NOT a word used to describe an earthquake?",
       "answer": "Drop-slide"
     },
     {
-      "id": "science-5-30",
+      "id": "science-5-28",
       "difficulty": 5,
-      "question": "The word \"science\" stems from the word \"scire\" meaning what?",
+      "question": "The word \"science\" stems from the Latin word \"scire,\" which carries this meaning.",
       "answer": "To know"
     },
     {
-      "id": "science-5-31",
+      "id": "science-5-29",
       "difficulty": 5,
       "question": "Which is not a type of neuron?",
       "answer": "Perceptual Neuron"
     },
     {
+      "id": "science-5-30",
+      "difficulty": 5,
+      "question": "The scientific name of the Western Lowland Gorilla.",
+      "answer": "Gorilla Gorilla Gorilla"
+    },
+    {
+      "id": "science-5-31",
+      "difficulty": 5,
+      "question": "The scientific name of the knee cap.",
+      "answer": "Patella"
+    },
+    {
       "id": "science-5-32",
       "difficulty": 5,
-      "question": "The Western Lowland Gorilla is scientifically know as?",
-      "answer": "Gorilla Gorilla Gorilla"
+      "question": "This famous set of dog experiments is considered classical conditioning.",
+      "answer": "Pavlov's dog experiments"
     },
     {
       "id": "science-5-33",
       "difficulty": 5,
-      "question": "What is the scientific name of the knee cap?",
-      "answer": "Patella"
+      "question": "The action one needs to do upon seeing the Sun, per Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome.",
+      "answer": "Sneeze"
     },
     {
       "id": "science-5-34",
       "difficulty": 5,
-      "question": "Which of the following is considered classical conditioning?",
-      "answer": "Pavlov's dog experiments"
+      "question": "The standard SI unit for luminous intensity.",
+      "answer": "Candela"
     },
     {
       "id": "science-5-35",
       "difficulty": 5,
-      "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
-      "answer": "Sneeze"
-    },
-    {
-      "id": "science-5-36",
-      "difficulty": 5,
-      "question": "What is the standard SI unit for luminous intensity?",
-      "answer": "Candela"
-    },
-    {
-      "id": "science-5-37",
-      "difficulty": 5,
-      "question": "Where is the Gluteus Maximus muscle located?",
+      "question": "The location of the Gluteus Maximus muscle.",
       "answer": "Butt"
     },
     {
-      "id": "science-5-38",
+      "id": "science-5-36",
       "difficulty": 5,
       "question": "Which of the following liquids is least viscous? Assume temperature is 25°C.",
       "answer": "Acetone"
     },
     {
-      "id": "science-5-39",
+      "id": "science-5-37",
       "difficulty": 5,
-      "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+      "question": "The plastic commonly used for window frames, gutters and drain pipes.",
       "answer": "Polyvinylchloride (PVC)"
     }
   ],
@@ -1806,11 +1512,12 @@
     "fetchedAt": "2026-05-15T21:11:19.994Z",
     "totalAvailable": 299,
     "distribution": {
-      "1": 44,
-      "2": 44,
-      "3": 132,
-      "4": 40,
-      "5": 39
-    }
+      "1": 37,
+      "2": 33,
+      "3": 106,
+      "4": 37,
+      "5": 37
+    },
+    "trueFalseStrippedAt": "2026-05-17T16:04:30.495Z"
   }
 }

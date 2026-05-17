@@ -2,91 +2,55 @@
   "id": "literature",
   "name": "Literature",
   "description": "Novelists, poets, plot twists, and the books that defined eras.",
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "literature-1-1",
       "difficulty": 1,
-      "question": "\"Green Eggs and Ham\" consists of only 50 different words.",
-      "answer": "True"
+      "question": "The famous book sub-titled 'The Modern Prometheus'.",
+      "answer": "Frankenstein"
     },
     {
       "id": "literature-1-2",
       "difficulty": 1,
-      "question": "Which famous book is sub-titled 'The Modern Prometheus'?",
-      "answer": "Frankenstein"
+      "question": "The original author of Frankenstein.",
+      "answer": "Mary Shelley"
     },
     {
       "id": "literature-1-3",
       "difficulty": 1,
-      "question": "Who was the original author of Frankenstein?",
-      "answer": "Mary Shelley"
+      "question": "The famous spy novelist who wrote the children's story 'Chitty-Chitty-Bang-Bang'.",
+      "answer": "Ian Fleming"
     },
     {
       "id": "literature-1-4",
       "difficulty": 1,
-      "question": "Stephen Chbosky wrote the book 'The Perks of Being A Wallflower'.",
-      "answer": "True"
+      "question": "The author of the 1954 novel 'Lord of the Flies'.",
+      "answer": "William Golding"
     },
     {
       "id": "literature-1-5",
       "difficulty": 1,
-      "question": "Which famous spy novelist wrote the childrens' story \"Chitty-Chitty-Bang-Bang\"?",
-      "answer": "Ian Fleming"
+      "question": "The second book in George R. R. Martin's 'A Song of Ice and Fire' series.",
+      "answer": "A Clash of Kings"
     },
     {
       "id": "literature-1-6",
       "difficulty": 1,
-      "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
-      "answer": "True"
+      "question": "The author of the young adult novel \"The Fault in Our Stars\".",
+      "answer": "John Green"
     },
     {
       "id": "literature-1-7",
       "difficulty": 1,
-      "question": "Who was the author of the 1954 novel, \"Lord of the Flies\"?",
-      "answer": "William Golding"
+      "question": "The author of the novel 'Fear And Loathing In Las Vegas'.",
+      "answer": "Hunter S. Thompson"
     },
     {
       "id": "literature-1-8",
       "difficulty": 1,
-      "question": "Shub-Niggurath is a creature that was created by J. R. R. Tolkien in his novel \"The Lord of The Rings\".",
-      "answer": "False"
-    },
-    {
-      "id": "literature-1-9",
-      "difficulty": 1,
-      "question": "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
-      "answer": "A Clash of Kings"
-    },
-    {
-      "id": "literature-1-10",
-      "difficulty": 1,
-      "question": "The book 1984 was published in 1949.",
-      "answer": "True"
-    },
-    {
-      "id": "literature-1-11",
-      "difficulty": 1,
-      "question": "Who wrote the young adult novel \"The Fault in Our Stars\"?",
-      "answer": "John Green"
-    },
-    {
-      "id": "literature-1-12",
-      "difficulty": 1,
-      "question": "Who wrote the novel 'Fear And Loathing In Las Vegas'?",
-      "answer": "Hunter S. Thompson"
-    },
-    {
-      "id": "literature-1-13",
-      "difficulty": 1,
-      "question": "Who wrote \"Harry Potter\"?",
+      "question": "The author of \"Harry Potter\".",
       "answer": "J.K. Rowling"
-    },
-    {
-      "id": "literature-1-14",
-      "difficulty": 1,
-      "question": "\"Elementary, my dear Watson\" is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
-      "answer": "True"
     },
     {
       "id": "literature-2-1",
@@ -97,187 +61,175 @@
     {
       "id": "literature-2-2",
       "difficulty": 2,
-      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?",
+      "question": "The name of the three-headed dog in Harry Potter and the Sorcerer's Stone.",
       "answer": "Fluffy"
     },
     {
       "id": "literature-2-3",
       "difficulty": 2,
-      "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+      "question": "In George Orwell's '1984', the name of the totalitarian regime that controls Oceania.",
       "answer": "INGSOC"
     },
     {
       "id": "literature-2-4",
       "difficulty": 2,
-      "question": "Who wrote \"A Tale of Two Cities\"?",
+      "question": "The author of \"A Tale of Two Cities\".",
       "answer": "Charles Dickens"
     },
     {
       "id": "literature-2-5",
       "difficulty": 2,
-      "question": "Dracula is destroyed by contact with sunlight",
-      "answer": "False"
+      "question": "Sir Handel's original name in 'The Railway Series' and its animated counterpart 'Thomas and Friends'.",
+      "answer": "Falcon"
     },
     {
       "id": "literature-2-6",
       "difficulty": 2,
-      "question": "What was Sir Handel's original name in \"The Railway Series\" and it's animated counterpart \"Thomas and Friends?\"",
-      "answer": "Falcon"
+      "question": "The author of the \"A Song of Ice and Fire\" book series, starting with \"A Game of Thrones\".",
+      "answer": "George R. R. Martin"
     },
     {
       "id": "literature-2-7",
       "difficulty": 2,
-      "question": "Who is the author of the \"A Song of Ice and Fire\" book series, starting with \"A Game of Thrones\"?",
-      "answer": "George R. R. Martin"
+      "question": "The protagonist of J.D. Salinger's novel 'Catcher in the Rye'.",
+      "answer": "Holden Caulfield"
     },
     {
       "id": "literature-2-8",
       "difficulty": 2,
-      "question": "What is the name of the protagonist of J.D. Salinger's novel Catcher in the Rye?",
-      "answer": "Holden Caulfield"
+      "question": "The number of Harry Potter books.",
+      "answer": "7"
     },
     {
       "id": "literature-2-9",
       "difficulty": 2,
-      "question": "How many Harry Potter books are there?",
-      "answer": "7"
+      "question": "The name of Sherlock Holmes's brother.",
+      "answer": "Mycroft Holmes"
     },
     {
       "id": "literature-2-10",
       "difficulty": 2,
-      "question": "What is the name of Sherlock Holmes's brother?",
-      "answer": "Mycroft Holmes"
+      "question": "The author of 'Green Eggs And Ham'.",
+      "answer": "Dr. Seuss"
     },
     {
       "id": "literature-2-11",
       "difficulty": 2,
-      "question": "\"Green Eggs And Ham\" is a book by which author?",
-      "answer": "Dr. Seuss"
+      "question": "The Harry Potter book in which a Horcrux was first encountered.",
+      "answer": "The Chamber of Secrets"
     },
     {
       "id": "literature-2-12",
       "difficulty": 2,
-      "question": "In what Harry Potter book was a Horcrux first encountered?",
-      "answer": "The Chamber of Secrets"
+      "question": "The first entry ever written for the SCP Foundation collaborative writing project.",
+      "answer": "SCP-173"
     },
     {
       "id": "literature-2-13",
       "difficulty": 2,
-      "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
-      "answer": "SCP-173"
+      "question": "The author of \"The Scarlet Letter\", published in 1850.",
+      "answer": "Nathaniel Hawthorne"
     },
     {
       "id": "literature-2-14",
       "difficulty": 2,
-      "question": "Who wrote \"The Scarlet Letter\", published in 1850?",
-      "answer": "Nathaniel Hawthorne"
+      "question": "American illustrator and writer Maurice Sendak is most well-known for writing this children's book.",
+      "answer": "Where The Wild Things Are"
     },
     {
       "id": "literature-2-15",
       "difficulty": 2,
-      "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children's book?",
-      "answer": "Where The Wild Things Are"
-    },
-    {
-      "id": "literature-2-16",
-      "difficulty": 2,
-      "question": "Which of the following is the world's best-selling book?",
+      "question": "The world's best-selling book.",
       "answer": "The Lord of the Rings"
     },
     {
-      "id": "literature-2-17",
+      "id": "literature-2-16",
       "difficulty": 2,
       "question": "This play is generally considered to be the most adaptable of Shakespeare’s works, and follows two “star-crossed lovers”.",
       "answer": "Romeo and Juliet"
     },
     {
-      "id": "literature-2-18",
+      "id": "literature-2-17",
       "difficulty": 2,
-      "question": "What's Harry Potter's dad's name?",
+      "question": "Harry Potter's dad's name.",
       "answer": "James Potter"
     },
     {
-      "id": "literature-2-19",
+      "id": "literature-2-18",
       "difficulty": 2,
-      "question": "Which classic book opens with the line \"Call me Ishmael\"?",
+      "question": "The classic book that opens with the line \"Call me Ishmael\".",
       "answer": "Moby Dick"
     },
     {
-      "id": "literature-2-20",
+      "id": "literature-2-19",
       "difficulty": 2,
       "question": "Which is NOT a book in the Harry Potter Series?",
       "answer": "The House Elf"
     },
     {
+      "id": "literature-2-20",
+      "difficulty": 2,
+      "question": "The fourth book in Stephen King's The Dark Tower series.",
+      "answer": "Wizard and Glass"
+    },
+    {
       "id": "literature-2-21",
       "difficulty": 2,
-      "question": "What is the name of the fourth book in Stephen King's The Dark Tower series?",
-      "answer": "Wizard and Glass"
+      "question": "The name of Captain Nemo's submarine in '20,000 Leagues Under the Sea'.",
+      "answer": "The Nautilus"
     },
     {
       "id": "literature-2-22",
       "difficulty": 2,
-      "question": "The \"Berenstein Bears\" is the correct spelling of the educational children's book series' name.",
-      "answer": "False"
+      "question": "The title of the first Sherlock Holmes book by Arthur Conan Doyle.",
+      "answer": "A Study in Scarlet"
     },
     {
       "id": "literature-2-23",
       "difficulty": 2,
-      "question": "What was the name of Captain Nemo's submarine in \"20,000 Leagues Under the Sea\"?",
-      "answer": "The Nautilus"
-    },
-    {
-      "id": "literature-2-24",
-      "difficulty": 2,
-      "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
-      "answer": "A Study in Scarlet"
-    },
-    {
-      "id": "literature-2-25",
-      "difficulty": 2,
-      "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+      "question": "The pseudonym under which Stephen King published five novels between 1977 and 1984.",
       "answer": "Richard Bachman"
     },
     {
       "id": "literature-3-1",
       "difficulty": 3,
-      "question": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+      "question": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else.",
       "answer": "42"
     },
     {
       "id": "literature-3-2",
       "difficulty": 3,
-      "question": "What was the name of the Mysterious Island, in Jules Verne's \"The Mysterious Island\"?",
+      "question": "The name of the Mysterious Island in Jules Verne's \"The Mysterious Island\".",
       "answer": "Lincoln Island"
     },
     {
       "id": "literature-3-3",
       "difficulty": 3,
-      "question": "What position does Harry Potter play in Quidditch?",
+      "question": "The position Harry Potter plays in Quidditch.",
       "answer": "Seeker"
     },
     {
       "id": "literature-3-4",
       "difficulty": 3,
-      "question": "In the \"Harry Potter\" novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+      "question": "In the \"Harry Potter\" novels, this is what a Hogwarts student must do to enter the Ravenclaw Common Room.",
       "answer": "Answer a riddle"
     },
     {
       "id": "literature-3-5",
       "difficulty": 3,
-      "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+      "question": "In The Lies of Locke Lamora, the title Locke is known by in the criminal world.",
       "answer": "The Thorn of Camorr"
     },
     {
       "id": "literature-3-6",
       "difficulty": 3,
-      "question": "J.K. Rowling completed \"Harry Potter and the Deathly Hallows\" in which hotel in Edinburgh, Scotland?",
+      "question": "The hotel in Edinburgh, Scotland where J.K. Rowling completed 'Harry Potter and the Deathly Hallows'.",
       "answer": "The Balmoral"
     },
     {
       "id": "literature-3-7",
       "difficulty": 3,
-      "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+      "question": "This John Grisham novel was conceived on a road trip to Florida while he and his wife discussed stolen books.",
       "answer": "Camino Island"
     },
     {
@@ -289,43 +241,43 @@
     {
       "id": "literature-3-9",
       "difficulty": 3,
-      "question": "Who is the author of the series \"Malazan Book of the Fallen\"?",
+      "question": "The author of the series \"Malazan Book of the Fallen\".",
       "answer": "Steven Erikson"
     },
     {
       "id": "literature-3-10",
       "difficulty": 3,
-      "question": "George Orwell's novel \"Animal Farm\" was inspired by which historical event?",
+      "question": "The historical event that inspired George Orwell's novel 'Animal Farm'.",
       "answer": "The rise of communism and Stalin's policies."
     },
     {
       "id": "literature-3-11",
       "difficulty": 3,
-      "question": "What is the make and model of the tour vehicles in \"Jurassic Park\" (1990)?",
+      "question": "The make and model of the tour vehicles in 'Jurassic Park' (1990).",
       "answer": "1989 Toyota Land Cruiser"
     },
     {
       "id": "literature-3-12",
       "difficulty": 3,
-      "question": "In Alice in Wonderland, what is the name of Alice's kitten?",
+      "question": "In Alice in Wonderland, the name of Alice's kitten.",
       "answer": "Dinah"
     },
     {
       "id": "literature-3-13",
       "difficulty": 3,
-      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+      "question": "The American author who was also a budding travel writer and wrote of his adventures with his dog Charley.",
       "answer": "John Steinbeck"
     },
     {
       "id": "literature-3-14",
       "difficulty": 3,
-      "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+      "question": "In Romance of the Three Kingdoms, this famed warrior was notably not a member of the Peach Garden Oath.",
       "answer": "Zhao Yun"
     },
     {
       "id": "literature-3-15",
       "difficulty": 3,
-      "question": "What is the fourth book of the Old Testament?",
+      "question": "The fourth book of the Old Testament.",
       "answer": "Numbers"
     },
     {
@@ -337,151 +289,151 @@
     {
       "id": "literature-3-17",
       "difficulty": 3,
-      "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+      "question": "In the year 1818, novelist Mary Shelley is credited with writing a fiction novel and creating this infamous character.",
       "answer": "Frankenstein's monster"
     },
     {
       "id": "literature-3-18",
       "difficulty": 3,
-      "question": "The title of Adolf Hitler's autobiography \"Mein Kampf\" is what when translated to English?",
+      "question": "The English translation of the title of Adolf Hitler's autobiography 'Mein Kampf'.",
       "answer": "My Struggle"
     },
     {
       "id": "literature-3-19",
       "difficulty": 3,
-      "question": "In \"Little Women\", which of the March sisters married Laurie?",
+      "question": "In \"Little Women\", the March sister who married Laurie.",
       "answer": "Amy"
     },
     {
       "id": "literature-3-20",
       "difficulty": 3,
-      "question": "Which Russian author wrote the epic novel War and Peace?",
+      "question": "The Russian author who wrote the epic novel War and Peace.",
       "answer": "Leo Tolstoy"
     },
     {
       "id": "literature-3-21",
       "difficulty": 3,
-      "question": "In \"The Lord of the Rings,\" who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+      "question": "In \"The Lord of the Rings,\" the owner of Asfaloth, the horse which brings Frodo to Rivendell.",
       "answer": "Glorfindel"
     },
     {
       "id": "literature-3-22",
       "difficulty": 3,
-      "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+      "question": "The Jim Butcher book series following a wizard in modern day Chicago.",
       "answer": "The Dresden Files"
     },
     {
       "id": "literature-3-23",
       "difficulty": 3,
-      "question": "Who wrote the children's story \"The Little Match Girl\"?",
+      "question": "The author of the children's story \"The Little Match Girl\".",
       "answer": "Hans Christian Andersen"
     },
     {
       "id": "literature-3-24",
       "difficulty": 3,
-      "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+      "question": "The author of the \"A Song of Ice and Fire\" fantasy novel series.",
       "answer": "George R. R. Martin"
     },
     {
       "id": "literature-3-25",
       "difficulty": 3,
-      "question": "What is the name of the author of book series 'Percy Jackson'?",
+      "question": "The author of the book series 'Percy Jackson'.",
       "answer": "Rick Riordan"
     },
     {
       "id": "literature-3-26",
       "difficulty": 3,
-      "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+      "question": "The gang that Ponyboy is a part of in the book 'The Outsiders'.",
       "answer": "The Greasers"
     },
     {
       "id": "literature-3-27",
       "difficulty": 3,
-      "question": "The novel \"Of Mice And Men\" was written by what author?",
+      "question": "The author of the novel \"Of Mice And Men\".",
       "answer": "John Steinbeck"
     },
     {
       "id": "literature-3-28",
       "difficulty": 3,
-      "question": "What was the pen name of novelist, Mary Ann Evans?",
+      "question": "The pen name of novelist Mary Ann Evans.",
       "answer": "George Eliot"
     },
     {
       "id": "literature-3-29",
       "difficulty": 3,
-      "question": "What is the name of Eragon's dragon in \"Eragon\"?",
+      "question": "Eragon's dragon in \"Eragon\".",
       "answer": "Saphira"
     },
     {
       "id": "literature-3-30",
       "difficulty": 3,
-      "question": "In Michael Crichton's novel \"Jurassic Park\", John Hammond meets his demise at the claws of which dinosaur?",
+      "question": "In Michael Crichton's novel 'Jurassic Park', the dinosaur whose claws bring about John Hammond's demise.",
       "answer": "Procompsognathus"
     },
     {
       "id": "literature-3-31",
       "difficulty": 3,
-      "question": "What was the last message of the Dolphins in \"The Hitchhiker's Guide to the Galaxy\"?",
+      "question": "The last message of the Dolphins in \"The Hitchhiker's Guide to the Galaxy\".",
       "answer": "\"So long, and thanks for all the fish.\""
     },
     {
       "id": "literature-3-32",
       "difficulty": 3,
-      "question": "Which of these book series is by James Patterson?",
+      "question": "This book series is by James Patterson.",
       "answer": "Maximum Ride"
     },
     {
       "id": "literature-3-33",
       "difficulty": 3,
-      "question": "Who is the protagonist of the book: \"The Catcher in the Rye\" by J.D. Salinger",
+      "question": "The protagonist of J.D. Salinger's \"The Catcher in the Rye\".",
       "answer": "Holden Caulfield"
     },
     {
       "id": "literature-3-34",
       "difficulty": 3,
-      "question": "Who wrote the 1967 horror novel \"Rosemary's Baby\"?",
+      "question": "The author of the 1967 horror novel \"Rosemary's Baby\".",
       "answer": "Ira Levin"
     },
     {
       "id": "literature-3-35",
       "difficulty": 3,
-      "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+      "question": "In the Lord of the Rings, the father of the dwarf Gimli.",
       "answer": "Gloin"
     },
     {
       "id": "literature-3-36",
       "difficulty": 3,
-      "question": "In the \"The Hobbit\", who kills Smaug?",
+      "question": "In 'The Hobbit', the one who kills Smaug.",
       "answer": "Bard"
     },
     {
       "id": "literature-3-37",
       "difficulty": 3,
-      "question": "In the novel \"Lord of the Rings\", how many rings of power were given to the race of man?",
+      "question": "In the novel \"Lord of the Rings\", the number of rings of power given to the race of man.",
       "answer": "9"
     },
     {
       "id": "literature-3-38",
       "difficulty": 3,
-      "question": "Which of the following was the author of \"Username Evie\"?",
+      "question": "The author of \"Username Evie\".",
       "answer": "Joe Sugg"
     },
     {
       "id": "literature-3-39",
       "difficulty": 3,
-      "question": "In the children's book series, where is Paddington Bear originally from?",
+      "question": "In the children's book series, the country Paddington Bear is originally from.",
       "answer": "Peru"
     },
     {
       "id": "literature-3-40",
       "difficulty": 3,
-      "question": "Where does Stephen King's \"IT\" take place?",
+      "question": "The setting of Stephen King's \"IT\".",
       "answer": "Derry, Maine"
     },
     {
       "id": "literature-3-41",
       "difficulty": 3,
-      "question": "The book \"The Little Prince\" was written by...",
+      "question": "The author of the book 'The Little Prince'.",
       "answer": "Antoine de Saint-Exupéry"
     },
     {
@@ -493,67 +445,61 @@
     {
       "id": "literature-3-43",
       "difficulty": 3,
-      "question": "How many books are in the Chronicles of Narnia series?",
+      "question": "The number of books in the Chronicles of Narnia series.",
       "answer": "7"
     },
     {
       "id": "literature-3-44",
       "difficulty": 3,
-      "question": "In Rudyard Kipling's \"The Jungle Book\", what type of snake was Kaa?",
+      "question": "In Rudyard Kipling's \"The Jungle Book\", the type of snake Kaa was.",
       "answer": "Python"
     },
     {
       "id": "literature-3-45",
       "difficulty": 3,
-      "question": "Of the following, which Stephen King novel was published earliest?",
+      "question": "Of the following, the Stephen King novel published earliest.",
       "answer": "\"Cujo\""
     },
     {
       "id": "literature-3-46",
       "difficulty": 3,
-      "question": "By what name was the author Eric Blair better known?",
+      "question": "The pen name of author Eric Blair.",
       "answer": "George Orwell"
     },
     {
       "id": "literature-3-47",
       "difficulty": 3,
-      "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
-      "answer": "True"
+      "question": "The poet who wrote \"The Ballad of Reading Gaol\" whilst imprisoned for being gay.",
+      "answer": "Oscar Wilde"
     },
     {
       "id": "literature-3-48",
       "difficulty": 3,
-      "question": "Which poet wrote \"The Ballad of Reading Gaol\" whilst imprisoned for being gay?",
-      "answer": "Oscar Wilde"
-    },
-    {
-      "id": "literature-3-49",
-      "difficulty": 3,
-      "question": "The book \"Fahrenheit 451\" was written by whom?",
+      "question": "The author of the book 'Fahrenheit 451'.",
       "answer": "Ray Bradbury"
     },
     {
-      "id": "literature-3-50",
+      "id": "literature-3-49",
       "difficulty": 3,
       "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
       "answer": "Anna Karenina"
     },
     {
-      "id": "literature-3-51",
+      "id": "literature-3-50",
       "difficulty": 3,
-      "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?",
+      "question": "The nickname of Jack Dawkins in the Charles Dickens novel 'Oliver Twist'.",
       "answer": "The Artful Dodger"
     },
     {
-      "id": "literature-3-52",
+      "id": "literature-3-51",
       "difficulty": 3,
-      "question": "Mary Shelley is the author of what classic horror story?",
+      "question": "The classic horror story authored by Mary Shelley.",
       "answer": "Frankenstein"
     },
     {
       "id": "literature-4-1",
       "difficulty": 4,
-      "question": "In the book \"The Martian\", how long was Mark Watney trapped on Mars (in Sols)?",
+      "question": "In the book \"The Martian\", the length of time Mark Watney was trapped on Mars, in Sols.",
       "answer": "549 Days"
     },
     {
@@ -565,163 +511,151 @@
     {
       "id": "literature-4-3",
       "difficulty": 4,
-      "question": "Which author co-wrote \"The Communist Manifesto\" alongside Karl Marx?",
+      "question": "The author who co-wrote 'The Communist Manifesto' alongside Karl Marx.",
       "answer": "Friedrich Engels"
     },
     {
       "id": "literature-4-4",
       "difficulty": 4,
-      "question": "What is Ron Weasley's middle name?",
+      "question": "Ron Weasley's middle name.",
       "answer": "Bilius"
     },
     {
       "id": "literature-4-5",
       "difficulty": 4,
-      "question": "What is Hermione Granger's middle name?",
+      "question": "Hermione Granger's middle name.",
       "answer": "Jean"
     },
     {
       "id": "literature-4-6",
       "difficulty": 4,
-      "question": "Where does the book \"The Silence of the Lambs\" get its title from?",
+      "question": "The source of the title of the book 'The Silence of the Lambs'.",
       "answer": "The main character's trauma in childhood"
     },
     {
       "id": "literature-4-7",
       "difficulty": 4,
-      "question": "In which classic novel is there a character named Homer Simpson?",
+      "question": "The classic novel featuring a character named Homer Simpson.",
       "answer": "The Day of the Locust"
     },
     {
       "id": "literature-4-8",
       "difficulty": 4,
-      "question": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name is implied to be?",
+      "question": "In Margaret Atwood's \"The Handmaid's Tale\", Offred's real name is implied to be this.",
       "answer": "June"
     },
     {
       "id": "literature-4-9",
       "difficulty": 4,
-      "question": "In the book series \"Odd Thomas\", Danny Jessup has what genetic disease?",
+      "question": "In the book series \"Odd Thomas\", the genetic disease afflicting Danny Jessup.",
       "answer": "Osteogenesis Imperfecta"
     },
     {
       "id": "literature-4-10",
       "difficulty": 4,
-      "question": "Who wrote the novel \"Moby-Dick\"?",
+      "question": "The author of the novel \"Moby-Dick\".",
       "answer": "Herman Melville"
     },
     {
       "id": "literature-4-11",
       "difficulty": 4,
-      "question": "In the Harry Potter universe, what is Cornelius Fudge's middle name?",
+      "question": "In the Harry Potter universe, Cornelius Fudge's middle name.",
       "answer": "Oswald"
     },
     {
       "id": "literature-4-12",
       "difficulty": 4,
-      "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+      "question": "In the Magic: The Gathering universe, the continent where the Antiquities, Ice Age, and Alliances expansions take place.",
       "answer": "Terisiare"
     },
     {
       "id": "literature-5-1",
       "difficulty": 5,
-      "question": "The novel \"Jane Eyre\" was written by what author?",
+      "question": "The author of the novel 'Jane Eyre'.",
       "answer": "Charlotte Brontë"
     },
     {
       "id": "literature-5-2",
       "difficulty": 5,
-      "question": "Which classic horror character killed Elizabeth Lavenza?",
+      "question": "The classic horror character who killed Elizabeth Lavenza.",
       "answer": "Frankenstein's Monster"
     },
     {
       "id": "literature-5-3",
       "difficulty": 5,
-      "question": "What is the name of the town in which Lily and James Potter are buried?",
+      "question": "The town in which Lily and James Potter are buried.",
       "answer": "Godric's Hollow"
     },
     {
       "id": "literature-5-4",
       "difficulty": 5,
-      "question": "According to Bram Stoker's novel, in which British coastal town did Dracula come ashore?",
+      "question": "According to Bram Stoker's novel, the British coastal town where Dracula came ashore.",
       "answer": "Whitby"
     },
     {
       "id": "literature-5-5",
       "difficulty": 5,
-      "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+      "question": "In the Beatrix Potter books, the type of animal Tommy Brock is.",
       "answer": "Badger"
     },
     {
       "id": "literature-5-6",
       "difficulty": 5,
-      "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+      "question": "The Charles Dickens novel featuring the character Abel Magwitch.",
       "answer": "Great Expectations"
     },
     {
       "id": "literature-5-7",
       "difficulty": 5,
-      "question": "Harry Potter was born on July 31st, 1980.",
-      "answer": "True"
-    },
-    {
-      "id": "literature-5-8",
-      "difficulty": 5,
-      "question": "Which author and poet famously wrote the line, \"The female of the species is more deadly than the male\"?",
+      "question": "The author and poet who famously wrote the line, 'The female of the species is more deadly than the male'.",
       "answer": "Rudyard Kipling"
     },
     {
-      "id": "literature-5-9",
+      "id": "literature-5-8",
       "difficulty": 5,
       "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
       "answer": "The Grapes of Wrath"
     },
     {
+      "id": "literature-5-9",
+      "difficulty": 5,
+      "question": "In the Harry Potter universe, the woman Draco Malfoy ends up marrying.",
+      "answer": "Astoria Greengrass"
+    },
+    {
       "id": "literature-5-10",
       "difficulty": 5,
-      "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
-      "answer": "Astoria Greengrass"
+      "question": "In 'The Lies of Locke Lamora', the meaning of 'Lamora' in Throne Therin.",
+      "answer": "Shadow"
     },
     {
       "id": "literature-5-11",
       "difficulty": 5,
-      "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
-      "answer": "Shadow"
+      "question": "The plane where the Magic: The Gathering Homelands expansion takes place.",
+      "answer": "Ulgrotha"
     },
     {
       "id": "literature-5-12",
       "difficulty": 5,
-      "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
-      "answer": "Ulgrotha"
+      "question": "The classic Mark Twain novel in which a beggar and the Prince of Wales switch clothes and learn about social class inequality.",
+      "answer": "The Prince and the Pauper"
     },
     {
       "id": "literature-5-13",
       "difficulty": 5,
-      "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
-      "answer": "The Prince and the Pauper"
+      "question": "The fictional English county that was the setting for Thomas Hardy's novels.",
+      "answer": "Wessex"
     },
     {
       "id": "literature-5-14",
       "difficulty": 5,
-      "question": "In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",
-      "answer": "False"
+      "question": "The continent where the Magic: The Gathering Fallen Empires expansion takes place.",
+      "answer": "Sarpadia"
     },
     {
       "id": "literature-5-15",
       "difficulty": 5,
-      "question": "Which fictional English county was the setting for Thomas Hardy's novels?",
-      "answer": "Wessex"
-    },
-    {
-      "id": "literature-5-16",
-      "difficulty": 5,
-      "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
-      "answer": "Sarpadia"
-    },
-    {
-      "id": "literature-5-17",
-      "difficulty": 5,
-      "question": "In the \"Harry Potter\" series, what is Headmaster Dumbledore's full name?",
+      "question": "In the \"Harry Potter\" series, Headmaster Dumbledore's full name.",
       "answer": "Albus Percival Wulfric Brian Dumbledore"
     }
   ],
@@ -732,11 +666,12 @@
     "fetchedAt": "2026-05-15T21:05:44.030Z",
     "totalAvailable": 120,
     "distribution": {
-      "1": 14,
-      "2": 25,
-      "3": 52,
+      "1": 8,
+      "2": 23,
+      "3": 51,
       "4": 12,
-      "5": 17
-    }
+      "5": 15
+    },
+    "trueFalseStrippedAt": "2026-05-17T16:04:30.492Z"
   }
 }
