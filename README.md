@@ -1,6 +1,6 @@
 # Think Backwards — categories
 
-Downloadable category packs for **[Think Backwards](https://www.thinkbackwards.app/)**, an offline-first Jeopardy-style hot-seat trivia game.
+Downloadable category packs for **[Think Backwards](https://www.thinkbackwards.app/)**, an offline-first gameshow-style hot-seat trivia game.
 
 The app ships with a built-in set of categories. This repo hosts extra packs you can pull into the app on demand — animal trivia, art history, mythology, more being added over time.
 
@@ -19,7 +19,7 @@ The app ships with a built-in set of categories. This repo hosts extra packs you
 | [`science.json`](science.json) | Science | 25+ |
 | [`technology.json`](technology.json) | Technology | 25+ |
 
-Each pack covers all five Jeopardy difficulty tiers ($100–$1000 equivalent).
+Each pack covers all five gameshow-style difficulty tiers ($100–$1000 equivalent).
 
 ---
 
@@ -65,7 +65,7 @@ Each `.json` file in this repo is a single category pack. The shape:
 | `version` | integer | Bump to push updates to installed users. The app re-fetches packs whose `version` is higher than the one cached. |
 | `questions[]` | array | At least **25** questions; at least **1** per difficulty tier (1–5). |
 | `questions[].id` | string | Convention: `<category-id>-<difficulty>-<slot>`. Must be unique within the pack. |
-| `questions[].difficulty` | integer | 1–5, mapping to the five Jeopardy tiers. |
+| `questions[].difficulty` | integer | 1–5, mapping to the five gameshow-style value tiers. |
 | `questions[].question` | string | The clue. Declarative form preferred (the app's tone). |
 | `questions[].answer` | string | The canonical answer. |
 | `questions[].acceptedAnswers` | string[] | Optional. Extra accepted answers for grading flexibility (e.g. `"USA"` for `"United States"`). |
