@@ -1,0 +1,5402 @@
+{
+  "id": "90s",
+  "name": "90s Mixed Bag",
+  "description": "Everything 90s.",
+  "version": 1,
+  "questions": [
+    {
+      "id": "90s-1-1",
+      "difficulty": 1,
+      "question": "By 1897, as many as half of Seattle's police & firemen had left the city to go there",
+      "answer": "the Yukon"
+    },
+    {
+      "id": "90s-1-2",
+      "difficulty": 1,
+      "question": "In area, it's now the largest country whose boundaries are wholly within Europe",
+      "answer": "Ukraine"
+    },
+    {
+      "id": "90s-1-3",
+      "difficulty": 1,
+      "question": "The pivotal item in a 1992 bestseller, it was written by Darby Shaw",
+      "answer": "the Pelican Brief"
+    },
+    {
+      "id": "90s-1-4",
+      "difficulty": 1,
+      "question": "In 1994 these 2 African countries' presidents Habyarimana & Ntaryamira died in a plane crash",
+      "answer": "Rwanda & Burundi"
+    },
+    {
+      "id": "90s-1-5",
+      "difficulty": 1,
+      "question": "One nickname for this product now back in vogue comes from a Penn. region also known for wagons",
+      "answer": "a cigar"
+    },
+    {
+      "id": "90s-1-6",
+      "difficulty": 1,
+      "question": "This adornment has been seen on Cher, Dennis Rodman & the 5,000-year-old \"Iceman\" found in 1991",
+      "answer": "tattoos"
+    },
+    {
+      "id": "90s-1-7",
+      "difficulty": 1,
+      "question": "In 1999 a stretch of I-70 that runs past Busch Stadium was renamed in his honor",
+      "answer": "Mark McGwire"
+    },
+    {
+      "id": "90s-1-8",
+      "difficulty": 1,
+      "question": "She told Women's Sports & Fitness, \"Strangers, fans, people on the street... always want to pick me up and carry me\\\"",
+      "answer": "Kerri Strug"
+    },
+    {
+      "id": "90s-1-9",
+      "difficulty": 1,
+      "question": "Around 3 years on the bestseller list, this book is subtitled \"An Old Man, A Young Man and Life's Greatest Lesson\\\"",
+      "answer": "\\\"Tuesdays With Morrie\\\""
+    },
+    {
+      "id": "90s-1-10",
+      "difficulty": 1,
+      "question": "In 1998 Andrew Thomas became the seventh & last American to live aboard this",
+      "answer": "Space Station Mir"
+    },
+    {
+      "id": "90s-1-11",
+      "difficulty": 1,
+      "question": "It was based on the true story of the 4 Niland brothers of Tonawanda, New York",
+      "answer": "Saving Private Ryan"
+    },
+    {
+      "id": "90s-1-12",
+      "difficulty": 1,
+      "question": "This novel grew out of a series of personal columns that first ran in the Independent of London",
+      "answer": "Bridget Jones's Diary"
+    },
+    {
+      "id": "90s-1-13",
+      "difficulty": 1,
+      "question": "The 7th & last American to stay there was aerodynamic scientist Andy Thomas, with 130 days there in 1998",
+      "answer": "(Space Station) Mir"
+    },
+    {
+      "id": "90s-1-14",
+      "difficulty": 1,
+      "question": "One critic called them \"a social phenomenon\", \"the most widely recognised group... since John, Paul, George & Ringo\\\"",
+      "answer": "the Spice Girls"
+    },
+    {
+      "id": "90s-1-15",
+      "difficulty": 1,
+      "question": "The title of this dance hit, No. 1 for 14 weeks in the '90s, can refer to a Seville, Spain neighborhood or a woman from there",
+      "answer": "\\\"Macarena\\\""
+    },
+    {
+      "id": "90s-1-16",
+      "difficulty": 1,
+      "question": "Tommy Lee Jones won the Best Supporting Actor Oscar for this movie based on a TV series that premiered in 1963",
+      "answer": "The Fugitive"
+    },
+    {
+      "id": "90s-1-17",
+      "difficulty": 1,
+      "question": "Though it draws elements from \"Hamlet\", Disney says this was their first all-animated feature based on an original story",
+      "answer": "The Lion King"
+    },
+    {
+      "id": "90s-1-18",
+      "difficulty": 1,
+      "question": "This title character of the top song from 1996 can't stand her boyfriend Vitorino & spurns him to be with his 2 friends",
+      "answer": "Macarena"
+    },
+    {
+      "id": "90s-1-19",
+      "difficulty": 1,
+      "question": "By '97 they had air-filled rubber tires, coaster brakes & adjustable handlebars",
+      "answer": "bicycles"
+    },
+    {
+      "id": "90s-1-20",
+      "difficulty": 1,
+      "question": "It sank in Havana Harbor & set off a war",
+      "answer": "the Maine"
+    },
+    {
+      "id": "90s-1-21",
+      "difficulty": 1,
+      "question": "On March 18, 1891, this mode of communication was inaugurated between London & Paris",
+      "answer": "the telephone"
+    },
+    {
+      "id": "90s-1-22",
+      "difficulty": 1,
+      "question": "Appropriately, 1st modern Olympiad was held in this city",
+      "answer": "Athens"
+    },
+    {
+      "id": "90s-1-23",
+      "difficulty": 1,
+      "question": "Under pressure, the Mormons renounced it in 1890",
+      "answer": "polygamy"
+    },
+    {
+      "id": "90s-1-24",
+      "difficulty": 1,
+      "question": "In '96, ex-ballplayer Billy Sunday embarked on this career",
+      "answer": "evangelism"
+    },
+    {
+      "id": "90s-1-25",
+      "difficulty": 1,
+      "question": "A 4-1 favorite, John L. Sullivan lost 1892 championship bout to this \"Gentleman\\\"",
+      "answer": "Jim Corbett"
+    },
+    {
+      "id": "90s-1-26",
+      "difficulty": 1,
+      "question": "In 1997, this British Crown colony will revert back to China",
+      "answer": "Hong Kong"
+    },
+    {
+      "id": "90s-1-27",
+      "difficulty": 1,
+      "question": "Year in the 1990s in which the 1st regularly scheduled presidential election will occur",
+      "answer": "1992"
+    },
+    {
+      "id": "90s-1-28",
+      "difficulty": 1,
+      "question": "One analyst projects that this should hit at least 3500 by 1990",
+      "answer": "the Dow Jones Industrial Average"
+    },
+    {
+      "id": "90s-1-29",
+      "difficulty": 1,
+      "question": "According to the 1983 hit, Prince wants to party like it's this year",
+      "answer": "1999"
+    },
+    {
+      "id": "90s-1-30",
+      "difficulty": 1,
+      "question": "In 1897, James J. Corbett & Bob Fitzsimmons starred & sparred in the 1st pro one of these filmed",
+      "answer": "a boxing match"
+    },
+    {
+      "id": "90s-1-31",
+      "difficulty": 1,
+      "question": "Going to road test his 1st car June 4, 1896, he found the shed door wasn't wide enough to get the car out",
+      "answer": "Henry Ford"
+    },
+    {
+      "id": "90s-1-32",
+      "difficulty": 1,
+      "question": "In 1891, Whitcomb Judson took out a patent on the slide fastener, later called this",
+      "answer": "zipper"
+    },
+    {
+      "id": "90s-1-33",
+      "difficulty": 1,
+      "question": "On June 11, 1896, the government bought the D.C. house in which he died 31 years earlier",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "id": "90s-1-34",
+      "difficulty": 1,
+      "question": "In 1990 they became the first artists in Grammy history to give their award back",
+      "answer": "Milli Vanilli"
+    },
+    {
+      "id": "90s-1-35",
+      "difficulty": 1,
+      "question": "Title of a '90 tune by Bell Biv DeVoe or the name of the group that sings \"Something To Believe In\\\"",
+      "answer": "Poison"
+    },
+    {
+      "id": "90s-1-36",
+      "difficulty": 1,
+      "question": "\\'90s group featuring children of The Mamas & The Papas & the Beach Boys",
+      "answer": "Wilson Phillips"
+    },
+    {
+      "id": "90s-1-37",
+      "difficulty": 1,
+      "question": "Will Smith raps & acts under this stageâ€”ah-ah stageâ€”ah-ah stageâ€”stage name",
+      "answer": "the Fresh Prince"
+    },
+    {
+      "id": "90s-1-38",
+      "difficulty": 1,
+      "question": "This quartet's second film is subtitled \"The Secret of the Ooze\\\"",
+      "answer": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "id": "90s-1-39",
+      "difficulty": 1,
+      "question": "He went from second banana on \"Roseanne\" to top banana of England in \"King Ralph\\\"",
+      "answer": "John Goodman"
+    },
+    {
+      "id": "90s-1-40",
+      "difficulty": 1,
+      "question": "He starred as Quigley in \"Quigley Down Under\\\"",
+      "answer": "Tom Selleck"
+    },
+    {
+      "id": "90s-1-41",
+      "difficulty": 1,
+      "question": "In 1991's \"The Doors\", she plays Jim Morrison's girlfriend, Pamela",
+      "answer": "Meg Ryan"
+    },
+    {
+      "id": "90s-1-42",
+      "difficulty": 1,
+      "question": "In 1990, this William Conrad series said aloha to Hawaii & returned to Southern California",
+      "answer": "Jake and the Fatman"
+    },
+    {
+      "id": "90s-1-43",
+      "difficulty": 1,
+      "question": "It's Sharon Gless' occupation on \"The Trials of Rosie O'Neill\\\"",
+      "answer": "an attorney"
+    },
+    {
+      "id": "90s-1-44",
+      "difficulty": 1,
+      "question": "A 1989 John Candy film inspired this avuncular sitcom",
+      "answer": "Uncle Buck"
+    },
+    {
+      "id": "90s-1-45",
+      "difficulty": 1,
+      "question": "This group, formed in 1899, didn't put its first Bible into a hotel room until 1908",
+      "answer": "the Gideon Society"
+    },
+    {
+      "id": "90s-1-46",
+      "difficulty": 1,
+      "question": "After the 1898 Volunteer Army Act passed, the 1st volunteer cavalry, nicknamed this, was formed",
+      "answer": "the Rough Riders"
+    },
+    {
+      "id": "90s-1-47",
+      "difficulty": 1,
+      "question": "About a month after Bryan's \"Cross of Gold\" speech, gold was discovered near this river in the Yukon",
+      "answer": "the Klondike"
+    },
+    {
+      "id": "90s-1-48",
+      "difficulty": 1,
+      "question": "Under the Sherman Act his Standard Oil trust was dissolved by the Ohio Supreme Court in 1892",
+      "answer": "Rockefeller"
+    },
+    {
+      "id": "90s-1-49",
+      "difficulty": 1,
+      "question": "During the Ghost Dance uprising in 1890, this Sioux leader was shot and killed",
+      "answer": "Sitting Bull"
+    },
+    {
+      "id": "90s-1-50",
+      "difficulty": 1,
+      "question": "The documentary \"Truth or Dare\" takes a look at this rock star, on & off stage",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-1-51",
+      "difficulty": 1,
+      "question": "In a 1991 summer blockbuster, he returned to the screen as \"The Terminator\\\"",
+      "answer": "(Arnold) Schwarzenegger"
+    },
+    {
+      "id": "90s-1-52",
+      "difficulty": 1,
+      "question": "James Caan played a writer held captive by his No. 1 fan in this thriller",
+      "answer": "Misery"
+    },
+    {
+      "id": "90s-1-53",
+      "difficulty": 1,
+      "question": "Title pair played by Geena Davis & Susan Sarandon, a couple of good ol' girls from Arkansas",
+      "answer": "Thelma & Louise"
+    },
+    {
+      "id": "90s-1-54",
+      "difficulty": 1,
+      "question": "This Kevin Costner film was subtitled \"Prince of Thieves\\\"",
+      "answer": "Robin Hood"
+    },
+    {
+      "id": "90s-1-55",
+      "difficulty": 1,
+      "question": "Sharon Stone becomes the prime suspect in a murder case in this 1992 thriller",
+      "answer": "Basic Instinct"
+    },
+    {
+      "id": "90s-1-56",
+      "difficulty": 1,
+      "question": "Gerard Depardieu starred as a Fr. musician who marries an Amer. to get a work permit in this 1990 film",
+      "answer": "Green Card"
+    },
+    {
+      "id": "90s-1-57",
+      "difficulty": 1,
+      "question": "This 1991 William Hurt film was based on the book \"A Taste of My Own Medicine\\\"",
+      "answer": "The Doctor"
+    },
+    {
+      "id": "90s-1-58",
+      "difficulty": 1,
+      "question": "In February 1898, this battleship sent to protect U.S. citizens & property in Cuba mysteriously blew up",
+      "answer": "the Maine"
+    },
+    {
+      "id": "90s-1-59",
+      "difficulty": 1,
+      "question": "It was in the late 1890s that he first described the Oedipus Complex",
+      "answer": "Sigmund Freud"
+    },
+    {
+      "id": "90s-1-60",
+      "difficulty": 1,
+      "question": "As an indoor alternative to other sports, James Naismith invented this game in 1891",
+      "answer": "basketball"
+    },
+    {
+      "id": "90s-1-61",
+      "difficulty": 1,
+      "question": "The world's first Ferris wheel began cranking in 1893 at the Columbian Exposition in this city",
+      "answer": "Chicago"
+    },
+    {
+      "id": "90s-1-62",
+      "difficulty": 1,
+      "question": "In 1991 this phenomenon of nature killed fans at the U.S. Open & PGA Championships",
+      "answer": "lightning"
+    },
+    {
+      "id": "90s-1-63",
+      "difficulty": 1,
+      "question": "He won his first full term as mayor of Chicago April 2, 1991",
+      "answer": "(Richard) Daley"
+    },
+    {
+      "id": "90s-1-64",
+      "difficulty": 1,
+      "question": "Connecticut Gov. Lowell Weicker won the 1992 \"Profile in Courage\" award named for this President",
+      "answer": "John F. Kennedy"
+    },
+    {
+      "id": "90s-1-65",
+      "difficulty": 1,
+      "question": "On May 24, 1990 Emperor Akihito expressed regret over Japan's 1910-1945 occupation of this peninsular country",
+      "answer": "Korea"
+    },
+    {
+      "id": "90s-1-66",
+      "difficulty": 1,
+      "question": "In 1893 New Zealand became the first country to grant women this right in full",
+      "answer": "the vote"
+    },
+    {
+      "id": "90s-1-67",
+      "difficulty": 1,
+      "question": "This oath to Old Glory was unfurled in 1892 to honor the 400th anniversary of America's discovery",
+      "answer": "the Pledge of Allegiance"
+    },
+    {
+      "id": "90s-1-68",
+      "difficulty": 1,
+      "question": "The capture of Santiago, Cuba in July 1898 effectively ended this war",
+      "answer": "the Spanish-American War"
+    },
+    {
+      "id": "90s-1-69",
+      "difficulty": 1,
+      "question": "In 1896 this world capital hosted the first modern Olympics",
+      "answer": "Athens"
+    },
+    {
+      "id": "90s-1-70",
+      "difficulty": 1,
+      "question": "In 1991, just 5 days after he resigned as party leader, Communist rule in the Soviet Union ended",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "id": "90s-1-71",
+      "difficulty": 1,
+      "question": "He hinted he'd run for president in March of 1992, withdrew in July, then re-entered in October",
+      "answer": "H. Ross Perot"
+    },
+    {
+      "id": "90s-1-72",
+      "difficulty": 1,
+      "question": "Navy Secretary H. Lawrence Garrett III resigned in the wake of this scandal",
+      "answer": "Tailhook"
+    },
+    {
+      "id": "90s-1-73",
+      "difficulty": 1,
+      "question": "This governor who was wounded in the gunfire that killed President Kennedy died in 1993",
+      "answer": "John Connally"
+    },
+    {
+      "id": "90s-1-74",
+      "difficulty": 1,
+      "question": "In 1991 he became the first popularly elected national leader in Russian history",
+      "answer": "Boris Yeltsin"
+    },
+    {
+      "id": "90s-1-75",
+      "difficulty": 1,
+      "question": "In 1990 George Bush took a firm stand against eating this vegetable",
+      "answer": "broccoli"
+    },
+    {
+      "id": "90s-1-76",
+      "difficulty": 1,
+      "question": "Common name of the U.N. conference on environment & development held in Rio in 1992",
+      "answer": "the Earth Summit"
+    },
+    {
+      "id": "90s-1-77",
+      "difficulty": 1,
+      "question": "On Jan. 17, 1991 Allied air forces began bombing this country in order to liberate it",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-1-78",
+      "difficulty": 1,
+      "question": "He demonstrated his cotton gin in April 1793",
+      "answer": "Eli Whitney"
+    },
+    {
+      "id": "90s-1-79",
+      "difficulty": 1,
+      "question": "This man who said \"Give me liberty or give me death!\" died in 1799",
+      "answer": "(Patrick) Henry"
+    },
+    {
+      "id": "90s-1-80",
+      "difficulty": 1,
+      "question": "This Jan. 17, 1994 event caused the cancellation of Jeopardy!'s Jan. 18 & 19 tapings",
+      "answer": "an (Northridge or Reseda) earthquake"
+    },
+    {
+      "id": "90s-1-81",
+      "difficulty": 1,
+      "question": "This New York governor put Bill Clinton's name into nomination at the 1992 Democratic convention",
+      "answer": "(Mario) Cuomo"
+    },
+    {
+      "id": "90s-1-82",
+      "difficulty": 1,
+      "question": "In November 1898 this rough riding colonel was elected New York governor",
+      "answer": "Teddy Roosevelt"
+    },
+    {
+      "id": "90s-1-83",
+      "difficulty": 1,
+      "question": "Of 350 crewmen, 260 were killed in the explosion of this battleship Feb. 15, 1898",
+      "answer": "the Maine"
+    },
+    {
+      "id": "90s-1-84",
+      "difficulty": 1,
+      "question": "In 1897 the Pennsylvania Capitol in this city was destroyed by fire",
+      "answer": "Harrisburg"
+    },
+    {
+      "id": "90s-1-85",
+      "difficulty": 1,
+      "question": "On July 7, 1898 the president signed a bill annexing this Pacific island group to the United States",
+      "answer": "Hawaii"
+    },
+    {
+      "id": "90s-1-86",
+      "difficulty": 1,
+      "question": "Among these that first appeared in the 1890s were \"The Yellow Kid\" & \"The Katzenjammer Kids\\\"",
+      "answer": "comic strips"
+    },
+    {
+      "id": "90s-1-87",
+      "difficulty": 1,
+      "question": "Symbolized Ar, this gas that makes up about 1% of the air was isolated in 1894",
+      "answer": "argon"
+    },
+    {
+      "id": "90s-1-88",
+      "difficulty": 1,
+      "question": "In 1895 King Gillette invented the safety type of this with disposable blades",
+      "answer": "a razor"
+    },
+    {
+      "id": "90s-1-89",
+      "difficulty": 1,
+      "question": "On Feb. 12, 1892 his birthday became an official holiday in Illinois",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "id": "90s-1-90",
+      "difficulty": 1,
+      "question": "He put on an exhibition of the Vitascope projector April 23, 1896 at a NYC music hall",
+      "answer": "Edison"
+    },
+    {
+      "id": "90s-1-91",
+      "difficulty": 1,
+      "question": "In 1898 Britain obtained a 99-year lease on this colony's \"New Territories\\\"",
+      "answer": "Hong Kong"
+    },
+    {
+      "id": "90s-1-92",
+      "difficulty": 1,
+      "question": "In this blockbuster comedy, Robin Williams takes a job as a nanny to be close to his kids",
+      "answer": "Mrs. Doubtfire"
+    },
+    {
+      "id": "90s-1-93",
+      "difficulty": 1,
+      "question": "In 1994 this actor returned to the screen as The Vigilante in \"Death Wish V: The Face of Death\\\"",
+      "answer": "Charles Bronson"
+    },
+    {
+      "id": "90s-1-94",
+      "difficulty": 1,
+      "question": "This 1992 film earned Al Pacino an Oscar for his role as retired colonel Frank Sladeâ€” hoo-aah!",
+      "answer": "Scent of a Woman"
+    },
+    {
+      "id": "90s-1-95",
+      "difficulty": 1,
+      "question": "In this film Robert Redford offers $1 million to spend the night with Demi Moore",
+      "answer": "Indecent Proposal"
+    },
+    {
+      "id": "90s-1-96",
+      "difficulty": 1,
+      "question": "When Hurricane Iniki hit the island of Kauai in 1992, this Steven Spielberg dinodrama was on location there",
+      "answer": "Jurassic Park"
+    },
+    {
+      "id": "90s-1-97",
+      "difficulty": 1,
+      "question": "This actor's wife Marsha co-produced his hit film \"Mrs. Doubtfire\\\"",
+      "answer": "Robin Williams"
+    },
+    {
+      "id": "90s-1-98",
+      "difficulty": 1,
+      "question": "This actor, the son of Jerry Stiller & Anne Meara, co-starred in \"Reality Bites\" & directed it",
+      "answer": "Ben Stiller"
+    },
+    {
+      "id": "90s-1-99",
+      "difficulty": 1,
+      "question": "She made Nicolas Cage's life a mess as a former first lady in \"Guarding Tess\\\"",
+      "answer": "Shirley MacLaine"
+    },
+    {
+      "id": "90s-1-100",
+      "difficulty": 1,
+      "question": "When this Russian ruler died in 1796, she had reigned for 34 years",
+      "answer": "Catherine the Great"
+    },
+    {
+      "id": "90s-1-101",
+      "difficulty": 1,
+      "question": "In 1791 he sailed HMS Providence to Tahiti for more breadfruit; his previous shipment didn't make it back",
+      "answer": "Captain Bligh"
+    },
+    {
+      "id": "90s-1-102",
+      "difficulty": 1,
+      "question": "Ira Allen, Ethan's brother, helped gain admission for this 14th state in 1791",
+      "answer": "Vermont"
+    },
+    {
+      "id": "90s-1-103",
+      "difficulty": 1,
+      "question": "This beauty met Lord Nelson in 1793 & in 1798 helped him get supplies for his Nile Campaign",
+      "answer": "Mrs. Hamilton"
+    },
+    {
+      "id": "90s-1-104",
+      "difficulty": 1,
+      "question": "In 1992 this Cuban president dismissed his son as head of Cuba's nuclear energy program",
+      "answer": "Fidel Castro"
+    },
+    {
+      "id": "90s-1-105",
+      "difficulty": 1,
+      "question": "In 1990 he defeated Douglas Hurd & Michael Heseltine in the battle to succeed Margaret Thatcher",
+      "answer": "John Major"
+    },
+    {
+      "id": "90s-1-106",
+      "difficulty": 1,
+      "question": "In the summer of 1995 the U.S. opened an embassy in this Vietnamese capital",
+      "answer": "Hanoi"
+    },
+    {
+      "id": "90s-1-107",
+      "difficulty": 1,
+      "question": "In January 1995 former Treasury Minister Lamberto Dini was named premier of this country",
+      "answer": "Italy"
+    },
+    {
+      "id": "90s-1-108",
+      "difficulty": 1,
+      "question": "Gene Hackman played the commander of the USS Alabama, a nuclear sub, in this 1995 hit",
+      "answer": "Crimson Tide"
+    },
+    {
+      "id": "90s-1-109",
+      "difficulty": 1,
+      "question": "One reviewer said of this film, \"Eastwood climbs back into the saddle to make a classic western\\\"",
+      "answer": "Unforgiven"
+    },
+    {
+      "id": "90s-1-110",
+      "difficulty": 1,
+      "question": "In \"The Addams Family\", Christopher Hart's hand appeared as this character",
+      "answer": "Thing"
+    },
+    {
+      "id": "90s-1-111",
+      "difficulty": 1,
+      "question": "Jasmine's singing in this 1992 Disney animated feature was provided by Lea Salonga",
+      "answer": "Aladdin"
+    },
+    {
+      "id": "90s-1-112",
+      "difficulty": 1,
+      "question": "Number of the constitutional amendment ratified February 7, 1795, the first since the Bill of Rights",
+      "answer": "the 11th"
+    },
+    {
+      "id": "90s-1-113",
+      "difficulty": 1,
+      "question": "A peasant uprising called the White Lotus Rebellion began in this country in 1796",
+      "answer": "China"
+    },
+    {
+      "id": "90s-1-114",
+      "difficulty": 1,
+      "question": "From 1792 to 1797 this Frenchman who helped our revolution was held in Prussian & Austrian prisons",
+      "answer": "the Marquis de Lafayette"
+    },
+    {
+      "id": "90s-1-115",
+      "difficulty": 1,
+      "question": "When he died in 1798, this legendary lover was librarian to the Count von Waldstein",
+      "answer": "Casanova"
+    },
+    {
+      "id": "90s-1-116",
+      "difficulty": 1,
+      "question": "This hit musical based on a Disney film features magical special effects & Tony-winning costumes",
+      "answer": "Beauty and the Beast"
+    },
+    {
+      "id": "90s-1-117",
+      "difficulty": 1,
+      "question": "\\\"Das Barbecu\", a wild musical spoof of this composer's \"Ring\" cycle, is set in Valhalla, Texas",
+      "answer": "Wagner"
+    },
+    {
+      "id": "90s-1-118",
+      "difficulty": 1,
+      "question": "Meryl Streep as an Iowa farm wife finds a once-in-a-lifetime love with Clint Eastwood in this 1995 film",
+      "answer": "The Bridges of Madison County"
+    },
+    {
+      "id": "90s-1-119",
+      "difficulty": 1,
+      "question": "This 1994 prison film with Tim Robbins & Morgan Freeman was based on a Stephen King tale",
+      "answer": "The Shawshank Redemption"
+    },
+    {
+      "id": "90s-1-120",
+      "difficulty": 1,
+      "question": "A call-in radio show brings Tom Hanks & Meg Ryan together in this romantic comedy",
+      "answer": "Sleepless in Seattle"
+    },
+    {
+      "id": "90s-1-121",
+      "difficulty": 1,
+      "question": "He played Elijah Wood's cruel & creepy cousin in 1993's \"The Good Son\\\"",
+      "answer": "Macaulay Culkin"
+    },
+    {
+      "id": "90s-1-122",
+      "difficulty": 1,
+      "question": "This Japanese city on which an atomic bomb was dropped Aug. 6, 1945 was founded in 1593 around a castle",
+      "answer": "Hiroshima"
+    },
+    {
+      "id": "90s-1-123",
+      "difficulty": 1,
+      "question": "On Jan. 28, 1596 this British circumnavigator died off the coast of Panama",
+      "answer": "Drake"
+    },
+    {
+      "id": "90s-1-124",
+      "difficulty": 1,
+      "question": "It's the title job of Jim Carrey's Ace Ventura",
+      "answer": "pet detective"
+    },
+    {
+      "id": "90s-1-125",
+      "difficulty": 1,
+      "question": "Erika Eleniak was featured as Elly May Clampett in this 1993 film",
+      "answer": "The Beverly Hillbillies"
+    },
+    {
+      "id": "90s-1-126",
+      "difficulty": 1,
+      "question": "An ad for the sequel to this film read, \"You'll laugh again! You'll cry again!! You'll hurl again!!!\\\"",
+      "answer": "Wayne's World"
+    },
+    {
+      "id": "90s-1-127",
+      "difficulty": 1,
+      "question": "Among the films featuring this sport were \"Blue Chips\" & \"Above the Rim\\\"",
+      "answer": "basketball"
+    },
+    {
+      "id": "90s-1-128",
+      "difficulty": 1,
+      "question": "Among the biggest media events of the '90s was the televised trial of this American football star",
+      "answer": "O.J. Simpson"
+    },
+    {
+      "id": "90s-1-129",
+      "difficulty": 1,
+      "question": "After 11 1/2 years in office, she resigned as British prime minister in 1990",
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "id": "90s-1-130",
+      "difficulty": 1,
+      "question": "After a long struggle, Estonia, Latvia & this Baltic republic gained their independence September 6, 1991",
+      "answer": "Lithuania"
+    },
+    {
+      "id": "90s-1-131",
+      "difficulty": 1,
+      "question": "The world lost 2 of its greatest dancers: Margot Fonteyn in 1991 & this man, her partner, in 1993",
+      "answer": "Rudolf Nureyev"
+    },
+    {
+      "id": "90s-1-132",
+      "difficulty": 1,
+      "question": "On Nov. 20, 1994 he beatified 5 individuals, including Franciscan sculptor Claudio Granzotto",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "id": "90s-1-133",
+      "difficulty": 1,
+      "question": "In 1996 Tomiichi Murayama, this country's first Socialist premier since 1948, resigned",
+      "answer": "Japan"
+    },
+    {
+      "id": "90s-1-134",
+      "difficulty": 1,
+      "question": "He ended a 35-year military career in 1993 by resigning as chairman of the Joint Chiefs of Staff",
+      "answer": "Colin Powell"
+    },
+    {
+      "id": "90s-1-135",
+      "difficulty": 1,
+      "question": "More than 300 Republican candidates signed this document September 27, 1994",
+      "answer": "Contract With America"
+    },
+    {
+      "id": "90s-1-136",
+      "difficulty": 1,
+      "question": "This company's 1st restaurant in China served nearly 40,000 people the day it opened April 23, 1992",
+      "answer": "McDonald's"
+    },
+    {
+      "id": "90s-1-137",
+      "difficulty": 1,
+      "question": "In 1995 this apparel company reintroduced \"The Fruits\" who'd starred in its ads in the 1970s",
+      "answer": "Fruit of the Loom"
+    },
+    {
+      "id": "90s-1-138",
+      "difficulty": 1,
+      "question": "In 1995 NBC & this giant software company announced plans for an all-news television channel",
+      "answer": "Microsoft"
+    },
+    {
+      "id": "90s-1-139",
+      "difficulty": 1,
+      "question": "This Colorado-based brewer introduced Zima Clearmalt in 1992",
+      "answer": "Coors"
+    },
+    {
+      "id": "90s-1-140",
+      "difficulty": 1,
+      "question": "In 1996 this master of horror turned to serial fiction with a 6-part thriller called \"The Green Mile\\\"",
+      "answer": "Stephen King"
+    },
+    {
+      "id": "90s-1-141",
+      "difficulty": 1,
+      "question": "This Peter Benchley book about a giant killer squid was turned into a 1996 TV miniseries",
+      "answer": "\\\"The Beast\\\""
+    },
+    {
+      "id": "90s-1-142",
+      "difficulty": 1,
+      "question": "In 1991 an updated version of his \"Give Peace A Chance\" was released with new lyrics by his son Sean",
+      "answer": "John Lennon"
+    },
+    {
+      "id": "90s-1-143",
+      "difficulty": 1,
+      "question": "At her death in 1995, her song \"Fotos Y Recuerdos\" was No. 4 on Billboard's Latin chart",
+      "answer": "Selena"
+    },
+    {
+      "id": "90s-1-144",
+      "difficulty": 1,
+      "question": "Julia Roberts' ex, in 1996 he released his sixth album, \"The Road to Ensenada\\\"",
+      "answer": "Lyle Lovett"
+    },
+    {
+      "id": "90s-1-145",
+      "difficulty": 1,
+      "question": "Her 1993 album \"Friends Can Be Lovers\" features a duet with cousin Whitney Houston",
+      "answer": "Dionne Warwick"
+    },
+    {
+      "id": "90s-1-146",
+      "difficulty": 1,
+      "question": "In 1995 fashion magazines Elle & Vogue claimed this bright color was moving from lipstick to dresses",
+      "answer": "Red"
+    },
+    {
+      "id": "90s-1-147",
+      "difficulty": 1,
+      "question": "This chain of stores received good PR when Sharon Stone wore one of its T-shirts to the Oscars",
+      "answer": "The Gap"
+    },
+    {
+      "id": "90s-1-148",
+      "difficulty": 1,
+      "question": "Because of Spike Lee's 1992 film, baseball caps bearing this letter were in vogue in 1993",
+      "answer": "X (for Malcolm X)"
+    },
+    {
+      "id": "90s-1-149",
+      "difficulty": 1,
+      "question": "\\\"I'd Rather Go Naked Than Wear\" this was the slogan of a high-profile campaign by PETA",
+      "answer": "Fur"
+    },
+    {
+      "id": "90s-1-150",
+      "difficulty": 1,
+      "question": "On August 28, 1990 he declared that Kuwait was now Iraq's 19th province",
+      "answer": "Saddam Hussein"
+    },
+    {
+      "id": "90s-1-151",
+      "difficulty": 1,
+      "question": "While visiting Ethiopia in 1995, this Egyptian president escaped an attempt on his life",
+      "answer": "Hosni Mubarak"
+    },
+    {
+      "id": "90s-1-152",
+      "difficulty": 1,
+      "question": "The world's largest money-wiring service, it was sold in September 1994 for $1.15 billion",
+      "answer": "Western Union"
+    },
+    {
+      "id": "90s-1-153",
+      "difficulty": 1,
+      "question": "In 1996 MOMA in New York added a 1963 XK-E model of this sports car to its collection",
+      "answer": "Jaguar"
+    },
+    {
+      "id": "90s-1-154",
+      "difficulty": 1,
+      "question": "In 1690 she governed England while her husband William III campaigned in Ireland",
+      "answer": "Queen Mary II"
+    },
+    {
+      "id": "90s-1-155",
+      "difficulty": 1,
+      "question": "In 1698 this noted English astronomer went to sea for 2 years to study magnetic declination",
+      "answer": "Edmond Halley"
+    },
+    {
+      "id": "90s-1-156",
+      "difficulty": 1,
+      "question": "In 1899 people sang about \"My Little Georgia\" one & \"My Wild Irish\" one",
+      "answer": "rose"
+    },
+    {
+      "id": "90s-1-157",
+      "difficulty": 1,
+      "question": "A sea chanty that became a hit in 1891 asked, \"What shall we do with\" one of these",
+      "answer": "a drunken sailor"
+    },
+    {
+      "id": "90s-1-158",
+      "difficulty": 1,
+      "question": "\\\"Casey would waltz with a strawberry blonde\" and this happened",
+      "answer": "\\\"The Band Played On\\\""
+    },
+    {
+      "id": "90s-1-159",
+      "difficulty": 1,
+      "question": "In a 1996 film Leonardo DiCaprio & Claire Danes play these star-crossed lovers in a modern setting",
+      "answer": "Romeo & Juliet"
+    },
+    {
+      "id": "90s-1-160",
+      "difficulty": 1,
+      "question": "This shock jock exposed his \"Private Parts\" in a recent film based on his autobiography",
+      "answer": "Howard Stern"
+    },
+    {
+      "id": "90s-1-161",
+      "difficulty": 1,
+      "question": "In this 1993 film, Holly Hunter performed the musical sequences herself",
+      "answer": "The Piano"
+    },
+    {
+      "id": "90s-1-162",
+      "difficulty": 1,
+      "question": "In a Disney film, Tim Allen filled in for this person, who fell off a roof",
+      "answer": "Santa Claus"
+    },
+    {
+      "id": "90s-1-163",
+      "difficulty": 1,
+      "question": "In 1996 France's synchronized swim team planned a Holocaust-based Olympic routine to this Spielberg film's music",
+      "answer": "Schindler's List"
+    },
+    {
+      "id": "90s-1-164",
+      "difficulty": 1,
+      "question": "Of Jerome Robbins' ballet based on this musical, New York Magazine quipped, \"When you're a Jete...\\\"",
+      "answer": "West Side Story"
+    },
+    {
+      "id": "90s-1-165",
+      "difficulty": 1,
+      "question": "Matthew Bourne set his innovative new production of \"Cinderella\" in this city during the Blitz",
+      "answer": "London"
+    },
+    {
+      "id": "90s-1-166",
+      "difficulty": 1,
+      "question": "We hope the Artist Formerly Known As this saw \"Billboards\", a rock ballet danced to his music",
+      "answer": "Prince"
+    },
+    {
+      "id": "90s-1-167",
+      "difficulty": 1,
+      "question": "The 18 vampire brides in the Houston Ballet's show about this count could be called the corpse de ballet",
+      "answer": "Count Dracula"
+    },
+    {
+      "id": "90s-1-168",
+      "difficulty": 1,
+      "question": "In 1997 Ira Levin delivered \"Son of Rosemary\", the sequel to this novel",
+      "answer": "Rosemary's Baby"
+    },
+    {
+      "id": "90s-1-169",
+      "difficulty": 1,
+      "question": "\\\"This kind of certainty comes only once\", Robert tells Francesca in this bestselling love story",
+      "answer": "The Bridges of Madison County"
+    },
+    {
+      "id": "90s-1-170",
+      "difficulty": 1,
+      "question": "In \"The Fourth K\", Mario Puzo put a new member of this political family in the White House",
+      "answer": "Kennedy"
+    },
+    {
+      "id": "90s-1-171",
+      "difficulty": 1,
+      "question": "This 1993 James Redfield book has been described as \"an adventure in pursuit of a spiritual mystery\\\"",
+      "answer": "The Celestine Prophecy"
+    },
+    {
+      "id": "90s-1-172",
+      "difficulty": 1,
+      "question": "This FOX drama follows the plight of the Salinger children, who were orphaned by a car wreck",
+      "answer": "Party of Five"
+    },
+    {
+      "id": "90s-1-173",
+      "difficulty": 1,
+      "question": "(Hi, I'm Arianna Huffington) Al Franken & I did a \"Point-Counterpoint\" segment called \"Strange Bedfellows\" for this Bill Maher show",
+      "answer": "Politically Incorrect"
+    },
+    {
+      "id": "90s-1-174",
+      "difficulty": 1,
+      "question": "Roslyn, Washington represented Cicely, Alaska, the setting of this Rob Morrow series",
+      "answer": "Northern Exposure"
+    },
+    {
+      "id": "90s-1-175",
+      "difficulty": 1,
+      "question": "The quirky drama \"Picket Fences\" was set in this town in Wisconsin, not in Italy",
+      "answer": "Rome"
+    },
+    {
+      "id": "90s-1-176",
+      "difficulty": 1,
+      "question": "This term for total nudity is the title of a 1997 film about male strippers",
+      "answer": "The Full Monty"
+    },
+    {
+      "id": "90s-1-177",
+      "difficulty": 1,
+      "question": "Matt Damon stars as a genius janitor from South Boston in this 1997 movie",
+      "answer": "Good Will Hunting"
+    },
+    {
+      "id": "90s-1-178",
+      "difficulty": 1,
+      "question": "The collaboration between this man & W.K.L. Dickson led to the production of the kinetoscope in 1894",
+      "answer": "Thomas Edison"
+    },
+    {
+      "id": "90s-1-179",
+      "difficulty": 1,
+      "question": "It was discovered that these, which share their name with insect parts, improved radio reception",
+      "answer": "Antennas"
+    },
+    {
+      "id": "90s-1-180",
+      "difficulty": 1,
+      "question": "Pepsi canceled a deal with her after complaints over the \"Like A Prayer\" video",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-1-181",
+      "difficulty": 1,
+      "question": "\\\"Everyday Is A Winding Road\" for this singer who used to back Michael Jackson",
+      "answer": "Sheryl Crow"
+    },
+    {
+      "id": "90s-1-182",
+      "difficulty": 1,
+      "question": "Notable ones included McCullough's of Truman, Berg's of Lindbergh & Jack Miles' of God",
+      "answer": "biographies"
+    },
+    {
+      "id": "90s-1-183",
+      "difficulty": 1,
+      "question": "This news personality's \"America\" told of his 12 favorite places found \"On the Road\\\"",
+      "answer": "Charles Kuralt"
+    },
+    {
+      "id": "90s-1-184",
+      "difficulty": 1,
+      "question": "Seymour Hersh's 1997 JFK expose was titled \"The Dark Side of\" this",
+      "answer": "Camelot"
+    },
+    {
+      "id": "90s-1-185",
+      "difficulty": 1,
+      "question": "In Kathryn Harrison's memoir \"The Kiss\", it's her relationship to the man who gives her the kiss",
+      "answer": "daughter"
+    },
+    {
+      "id": "90s-1-186",
+      "difficulty": 1,
+      "question": "This late night show lost 2 of its former stars, Phil Hartman & Chris Farley, within months of each other",
+      "answer": "Saturday Night Live"
+    },
+    {
+      "id": "90s-1-187",
+      "difficulty": 1,
+      "question": "Robert Pilatus, half of this lip-synching recording duo, died in April 1998",
+      "answer": "Milli Vanilli"
+    },
+    {
+      "id": "90s-1-188",
+      "difficulty": 1,
+      "question": "The Gulf War was triggered by the occupation of this country",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-1-189",
+      "difficulty": 1,
+      "question": "In May 1995 Dow Corning declared bankruptcy, saying suits over these were making it go bust",
+      "answer": "Breast implants"
+    },
+    {
+      "id": "90s-1-190",
+      "difficulty": 1,
+      "question": "Introduced in 1990, it's the bestselling SUV of the decade",
+      "answer": "Ford Explorer"
+    },
+    {
+      "id": "90s-1-191",
+      "difficulty": 1,
+      "question": "In September 1995 the Washington Post published the manifesto of the terrorist nicknamed this",
+      "answer": "\\\"The Unabomber\\\""
+    },
+    {
+      "id": "90s-1-192",
+      "difficulty": 1,
+      "question": "\\\"Hit So Hard\" by this Courtney Love group was heard on the season 2 finale of \"Dawson's Creek\\\"",
+      "answer": "Hole"
+    },
+    {
+      "id": "90s-1-193",
+      "difficulty": 1,
+      "question": "Side projects by members of this band have included Hovercraft, featuring Eddie Vedder",
+      "answer": "Pearl Jam"
+    },
+    {
+      "id": "90s-1-194",
+      "difficulty": 1,
+      "question": "The name of this \"Kiss Me\" band means that man cannot give God any wealth that isn't God's already",
+      "answer": "Sixpence None The Richer"
+    },
+    {
+      "id": "90s-1-195",
+      "difficulty": 1,
+      "question": "This punky band brought some color to the charts in 1995 with \"When I Come Around\\\"",
+      "answer": "Green Day"
+    },
+    {
+      "id": "90s-1-196",
+      "difficulty": 1,
+      "question": "In 1690 \"Publick Occurrences\" became the first one of these published in the colonies; it lasted one issue",
+      "answer": "Newspaper"
+    },
+    {
+      "id": "90s-1-197",
+      "difficulty": 1,
+      "question": "In 1694 Anne Arundel Town became the capital of Maryland & soon changed its name to this",
+      "answer": "Annapolis"
+    },
+    {
+      "id": "90s-1-198",
+      "difficulty": 1,
+      "question": "In 1694 this Virginia college received a coat of arms from the College of Arms in London",
+      "answer": "William and Mary"
+    },
+    {
+      "id": "90s-1-199",
+      "difficulty": 1,
+      "question": "On July 6, 1699 this pirate was captured in Boston",
+      "answer": "Captain Kidd"
+    },
+    {
+      "id": "90s-1-200",
+      "difficulty": 1,
+      "question": "Proper etiquette says we \"post\" this girl's name, one of the most popular of the '90s",
+      "answer": "Emily"
+    },
+    {
+      "id": "90s-1-201",
+      "difficulty": 1,
+      "question": "Ms. Parker of \"Sex and the City\" sports both of these top names for girls",
+      "answer": "Sarah & Jessica"
+    },
+    {
+      "id": "90s-1-202",
+      "difficulty": 1,
+      "question": "One letter different from an Eric Clapton Top 40 hit, it's in the Top 20 among girls' names",
+      "answer": "Kayla"
+    },
+    {
+      "id": "90s-1-203",
+      "difficulty": 1,
+      "question": "Brian has morphed into this feminine name, one of the 10 most popular",
+      "answer": "Brianna"
+    },
+    {
+      "id": "90s-1-204",
+      "difficulty": 1,
+      "question": "In the summer of '93, parts of Illinois, Iowa & 7 other states became disaster areas due to this disaster",
+      "answer": "Flooding"
+    },
+    {
+      "id": "90s-1-205",
+      "difficulty": 1,
+      "question": "Patricia Brentrup fought for custody of her 6 children, including this \"Home Alone\" star",
+      "answer": "Macaulay Culkin"
+    },
+    {
+      "id": "90s-1-206",
+      "difficulty": 1,
+      "question": "In 1992 U.S. forces left these Pacific islands occupied in the Spanish-American War",
+      "answer": "Philippines"
+    },
+    {
+      "id": "90s-1-207",
+      "difficulty": 1,
+      "question": "She was the lead prosecutor in the O.J. Simpson criminal trial",
+      "answer": "Marcia Clark"
+    },
+    {
+      "id": "90s-1-208",
+      "difficulty": 1,
+      "question": "This 1996 dance hit was actually an English remix by the Bayside Boys using the Spanish chorus by Los Del Rio",
+      "answer": "\\\"The Macarena\\\""
+    },
+    {
+      "id": "90s-1-209",
+      "difficulty": 1,
+      "question": "TLC \"don't want no\" these; one of these \"is a guy that can't get no love from me\\\"",
+      "answer": "\\\"Scrubs\\\""
+    },
+    {
+      "id": "90s-1-210",
+      "difficulty": 1,
+      "question": "In September 1995 this artist's \"You Are Not Alone\" became the first single in history to enter the Hot 100 chart at No. 1",
+      "answer": "Michael Jackson"
+    },
+    {
+      "id": "90s-1-211",
+      "difficulty": 1,
+      "question": "Toni Braxton asked her lover to do this to \"my heart, say you'll love me again\\\"",
+      "answer": "un-break"
+    },
+    {
+      "id": "90s-1-212",
+      "difficulty": 1,
+      "question": "While trying to create these precious stones in a lab, Edward Acheson came up with carborundum",
+      "answer": "diamonds"
+    },
+    {
+      "id": "90s-1-213",
+      "difficulty": 1,
+      "question": "In 1890 William Halsted became the first surgeon to wear these during an operation",
+      "answer": "gloves"
+    },
+    {
+      "id": "90s-1-214",
+      "difficulty": 1,
+      "question": "He was just trying to make things glow in the dark when he discovered X-rays in 1895",
+      "answer": "Wilhelm Roentgen"
+    },
+    {
+      "id": "90s-1-215",
+      "difficulty": 1,
+      "question": "In 1895 Aleksandr Popov & this Italian separately came up with the antenna to improve radio reception",
+      "answer": "Guglielmo Marconi"
+    },
+    {
+      "id": "90s-1-216",
+      "difficulty": 1,
+      "question": "On April 1, 1998 a Little Rock judge threw out this woman's lawsuit against President Clinton",
+      "answer": "Paula Jones"
+    },
+    {
+      "id": "90s-1-217",
+      "difficulty": 1,
+      "question": "An American teenager given a controversial caning in May 1994 was allowed to leave this country in June",
+      "answer": "Singapore"
+    },
+    {
+      "id": "90s-1-218",
+      "difficulty": 1,
+      "question": "In 1990 4 performance artists sued this government body for denying them grants",
+      "answer": "the NEA (National Endowment for the Arts)"
+    },
+    {
+      "id": "90s-1-219",
+      "difficulty": 1,
+      "question": "In July 1999 Disney settled its suit with this former executive for hundreds of millions of dollars",
+      "answer": "Jeffrey Katzenberg"
+    },
+    {
+      "id": "90s-1-220",
+      "difficulty": 1,
+      "question": "In 1497 John Cabot explored the coast of this continent, possibly including Cape Breton",
+      "answer": "North America"
+    },
+    {
+      "id": "90s-1-221",
+      "difficulty": 1,
+      "question": "The 1496 book \"Treatyse Of Fysshynge With An Angle\" describes these stiil-used artificial \"insect\" lures",
+      "answer": "Flies"
+    },
+    {
+      "id": "90s-1-222",
+      "difficulty": 1,
+      "question": "A hit in 1997 with new lyrics, it was originally on Elton John's 1973 album \"Goodbye Yellow Brick Road\\\"",
+      "answer": "\\\"Candle in the Wind\\\""
+    },
+    {
+      "id": "90s-1-223",
+      "difficulty": 1,
+      "question": "She's the only performer to have 3 songs debut at No. 1: \"Fantasy\" & \"One Sweet Day\" in 1995 & \"Honey\" in 1997",
+      "answer": "Mariah Carey"
+    },
+    {
+      "id": "90s-1-224",
+      "difficulty": 1,
+      "question": "In 1992 she became the only former Miss America to have a No. 1 hit, \"Save the Best for Last\\\"",
+      "answer": "Vanessa Williams"
+    },
+    {
+      "id": "90s-1-225",
+      "difficulty": 1,
+      "question": "As a producer, he had several No. 1 hits in 1997, including his own \"Can't Nobody Hold Me Down\\\"",
+      "answer": "Puff Daddy (Sean Combs)"
+    },
+    {
+      "id": "90s-1-226",
+      "difficulty": 1,
+      "question": "John Malkovich was Cyrus \"The Virus\" Grissom, the leader of a group of criminals who hijack a plane in this 1997 thriller",
+      "answer": "Con Air"
+    },
+    {
+      "id": "90s-1-227",
+      "difficulty": 1,
+      "question": "Rob Lowe played the leader of a conservative religious group in this 1997 sci-fi film starring Jodie Foster",
+      "answer": "Contact"
+    },
+    {
+      "id": "90s-1-228",
+      "difficulty": 1,
+      "question": "Clint Eastwood's dialogue in this 1995 romance meant it was \"time to harvest the corn\", according to People magazine",
+      "answer": "The Bridges of Madison County"
+    },
+    {
+      "id": "90s-1-229",
+      "difficulty": 1,
+      "question": "In 1998 this actor-rapper had his first No. 1 pop hit with \"Gettin' Jiggy Wit It\\\"",
+      "answer": "Will Smith"
+    },
+    {
+      "id": "90s-1-230",
+      "difficulty": 1,
+      "question": "Her video for \"Constant Craving\" was named MTV's Best Female Video of the Year in 1993",
+      "answer": "k.d. lang"
+    },
+    {
+      "id": "90s-1-231",
+      "difficulty": 1,
+      "question": "The first No. 1 hit of the '90s, \"Another Day In Paradise\" by this singer was originally titled \"Homeless\\\"",
+      "answer": "Phil Collins"
+    },
+    {
+      "id": "90s-1-232",
+      "difficulty": 1,
+      "question": "This old Elvis tune resurrected by UB40 in 1993 begins, \"Wise men say, only fools rush in\\\"",
+      "answer": "\\\"Can't Help Falling In Love\\\""
+    },
+    {
+      "id": "90s-1-233",
+      "difficulty": 1,
+      "question": "In 1999 Julia Roberts & this pretty man reunited for \"Runaway Bride\\\"",
+      "answer": "Richard Gere"
+    },
+    {
+      "id": "90s-1-234",
+      "difficulty": 1,
+      "question": "Astronaut Jim Lovell had a bit role in this film in which Tom Hanks played Jim Lovell",
+      "answer": "Apollo 13"
+    },
+    {
+      "id": "90s-1-235",
+      "difficulty": 1,
+      "question": "Julia Roberts tries to steal Cameron Diaz' fiance Dermot Mulroney in this 1997 blockbuster",
+      "answer": "My Best Friend's Wedding"
+    },
+    {
+      "id": "90s-1-236",
+      "difficulty": 1,
+      "question": "Michelle Pfeiffer, Jennifer Jason Leigh & this actress are squabbling sisters in 1997's \"A Thousand Acres\\\"",
+      "answer": "Jessica Lange"
+    },
+    {
+      "id": "90s-1-237",
+      "difficulty": 1,
+      "question": "The pals in this sitcom hang out & down a few brews at Cleveland's Warsaw Tavern",
+      "answer": "The Drew Carey Show"
+    },
+    {
+      "id": "90s-1-238",
+      "difficulty": 1,
+      "question": "Guest telephone callers to KACL in this sitcom have included Mel Brooks, Randy Travis & Jane Pauley",
+      "answer": "Frasier"
+    },
+    {
+      "id": "90s-1-239",
+      "difficulty": 1,
+      "question": "Viewers finally got to see Wilson's face when the cast took their bows on this sitcom's last episode",
+      "answer": "Home Improvement"
+    },
+    {
+      "id": "90s-1-240",
+      "difficulty": 1,
+      "question": "This NBC series was named for the autobiographical comic strip written by its perky heroine",
+      "answer": "Caroline in the City"
+    },
+    {
+      "id": "90s-1-241",
+      "difficulty": 1,
+      "question": "On this series, baby Maggie's first words, \"Dah-dee\", were spoken by Elizabeth Taylor",
+      "answer": "The Simpsons"
+    },
+    {
+      "id": "90s-1-242",
+      "difficulty": 1,
+      "question": "Roz Doyle is his producer & call-screener at Seattle's KACL Radio",
+      "answer": "Frasier Crane"
+    },
+    {
+      "id": "90s-1-243",
+      "difficulty": 1,
+      "question": "In 1997 Carol Burnett won an Emmy for playing Teresa Stemple, Jamie Buchman's mother on this series",
+      "answer": "Mad About You"
+    },
+    {
+      "id": "90s-1-244",
+      "difficulty": 1,
+      "question": "MIchelangelo is the middle name of Lewis Kiniski, Ryan Stiles' character on this sitcom",
+      "answer": "The Drew Carey Show"
+    },
+    {
+      "id": "90s-1-245",
+      "difficulty": 1,
+      "question": "He won his first Oscar for directing \"Unforgiven\\\"",
+      "answer": "Clint Eastwood"
+    },
+    {
+      "id": "90s-1-246",
+      "difficulty": 1,
+      "question": "She won for not saying much as Ada McGrath in \"The Piano\\\"",
+      "answer": "Holly Hunter"
+    },
+    {
+      "id": "90s-1-247",
+      "difficulty": 1,
+      "question": "Susan Sarandon won for \"Dead Man Walking\" & he won for \"Leaving Las Vegas\", which could have had the same title",
+      "answer": "Nicolas Cage"
+    },
+    {
+      "id": "90s-1-248",
+      "difficulty": 1,
+      "question": "Some didn't applaud the honorary Oscar to this \"Streetcar\" director & HUAC witness",
+      "answer": "(Elia) Kazan"
+    },
+    {
+      "id": "90s-1-249",
+      "difficulty": 1,
+      "question": "Who could forget Demi Moore as Hester Prynne in this 1995 film?",
+      "answer": "The Scarlet Letter"
+    },
+    {
+      "id": "90s-1-250",
+      "difficulty": 1,
+      "question": "Al Pacino couldn't see but he sure could tango in this 1992 film",
+      "answer": "Scent of a Woman"
+    },
+    {
+      "id": "90s-1-251",
+      "difficulty": 1,
+      "question": "In a 1999 Britney Spears hit, it follows, \"When I'm not with you I lose my mind, give me a sign, hit me baby...\\\"",
+      "answer": "One more time"
+    },
+    {
+      "id": "90s-1-252",
+      "difficulty": 1,
+      "question": "In 1991 Michael Bolton scored with this single, a No. 1 hit for Percy Sledge 25 years earlier",
+      "answer": "\\\"When A Man Loves A Woman\\\""
+    },
+    {
+      "id": "90s-1-253",
+      "difficulty": 1,
+      "question": "John Williams received a 1991 Oscar nomination for \"When You're Alone\" from this Spielberg version of \"Peter Pan\\\"",
+      "answer": "Hook"
+    },
+    {
+      "id": "90s-1-254",
+      "difficulty": 1,
+      "question": "In 1997 songwriter Bill Mack & singer LeAnn Rimes won Grammys for this \"colorful\" song",
+      "answer": "\\\"Blue\\\""
+    },
+    {
+      "id": "90s-1-255",
+      "difficulty": 1,
+      "question": "In January 1991 Operation Desert Shield was renamed this",
+      "answer": "Operation Desert Storm"
+    },
+    {
+      "id": "90s-1-256",
+      "difficulty": 1,
+      "question": "He told Oprah in 1993 that he had a rare skin disease & was in love with Brooke Shields",
+      "answer": "Michael Jackson"
+    },
+    {
+      "id": "90s-1-257",
+      "difficulty": 1,
+      "question": "Liz met Larry, who became husband number 7 (or is it 8?) in 1991, in this complex",
+      "answer": "Betty Ford Center"
+    },
+    {
+      "id": "90s-1-258",
+      "difficulty": 1,
+      "question": "By November 1998, 63 million Americans had this service, many using Startacs to access it",
+      "answer": "cellular telephone service"
+    },
+    {
+      "id": "90s-1-259",
+      "difficulty": 1,
+      "question": "In 1891 a Japanese inventor powered a model plane with one of these office supplies & it flew a reported 33 feet",
+      "answer": "rubber band"
+    },
+    {
+      "id": "90s-1-260",
+      "difficulty": 1,
+      "question": "Thousands of women wanted to dance with this actor after seeing him tango in \"Scent of a Woman\" (Hoo-ah!)",
+      "answer": "Al Pacino"
+    },
+    {
+      "id": "90s-1-261",
+      "difficulty": 1,
+      "question": "Not Logan or Boysen, but this berry played Dorothy Dandridge in an award-winning 1999 TV biopic",
+      "answer": "Halle Berry"
+    },
+    {
+      "id": "90s-1-262",
+      "difficulty": 1,
+      "question": "While fighting Indians in the 1790s, he briefly served with his future exploring partner William Clark",
+      "answer": "(Meriwether) Lewis"
+    },
+    {
+      "id": "90s-1-263",
+      "difficulty": 1,
+      "question": "A top selling 1990s computer game was this one developed by the Miller brothers, set on a puzzling island",
+      "answer": "Myst"
+    },
+    {
+      "id": "90s-1-264",
+      "difficulty": 1,
+      "question": "This Nirvana singer boosted the career of the Raincoats when he declared himself a fan",
+      "answer": "Kurt Cobain"
+    },
+    {
+      "id": "90s-1-265",
+      "difficulty": 1,
+      "question": "3 different teams from this state were No. 1 in the final AP college football poll during the decade",
+      "answer": "Florida"
+    },
+    {
+      "id": "90s-1-266",
+      "difficulty": 1,
+      "question": "1994: \"Life is like a box of chocolates: you never know what you're gonna get\\\"",
+      "answer": "Forrest Gump"
+    },
+    {
+      "id": "90s-1-267",
+      "difficulty": 1,
+      "question": "1998: \"I have a new play\". \"What's it called?\" \"Romeo and Ethel the Pirate's Daughter\\\"",
+      "answer": "Shakespeare in Love"
+    },
+    {
+      "id": "90s-1-268",
+      "difficulty": 1,
+      "question": "Pierce Brosnan played this superspy for the first time in \"GoldenEye\\\"",
+      "answer": "James Bond"
+    },
+    {
+      "id": "90s-1-269",
+      "difficulty": 1,
+      "question": "Jacques Chirac of the Rally for the Republic Party won a 7-year term as this country's president",
+      "answer": "France"
+    },
+    {
+      "id": "90s-1-270",
+      "difficulty": 1,
+      "question": "Joe Brown, Greg Mathis & Mills Lane joined the ranks of these on TV",
+      "answer": "TV judges"
+    },
+    {
+      "id": "90s-1-271",
+      "difficulty": 1,
+      "question": "In 1994 a flaw found in this company's new Pentium processor cost it $475 million in a recall",
+      "answer": "Intel"
+    },
+    {
+      "id": "90s-1-272",
+      "difficulty": 1,
+      "question": "His psychoanalytic method of free association & his daughter Anna first saw the light in 1895",
+      "answer": "Sigmund Freud"
+    },
+    {
+      "id": "90s-1-273",
+      "difficulty": 1,
+      "question": "Japan had an emperor, Russia, a czar & Italy was ruled by one of these",
+      "answer": "king"
+    },
+    {
+      "id": "90s-1-274",
+      "difficulty": 1,
+      "question": "\\\"Jurassic Park\", \"Disclosure\" & \"Rising Sun\" were all based on books by this author",
+      "answer": "Michael Crichton"
+    },
+    {
+      "id": "90s-1-275",
+      "difficulty": 1,
+      "question": "Back from their \"Excellent Adventure\", in 1991 this title pair left on a \"Bogus Journey\\\"",
+      "answer": "Bill & Ted"
+    },
+    {
+      "id": "90s-1-276",
+      "difficulty": 1,
+      "question": "In \"Ed Wood\", this movie Dracula describes Boris Karloff with a string of expletives",
+      "answer": "Bela Lugosi"
+    },
+    {
+      "id": "90s-1-277",
+      "difficulty": 1,
+      "question": "In 1997 China appointed Tung Chee-Hwa Chief Executive Officer of this newly acquired region",
+      "answer": "Hong Kong"
+    },
+    {
+      "id": "90s-1-278",
+      "difficulty": 1,
+      "question": "Twins Brandon & Brenda had just moved to L.A. when this series debuted in 1990",
+      "answer": "Beverly Hills 90210"
+    },
+    {
+      "id": "90s-1-279",
+      "difficulty": 1,
+      "question": "On Jan. 31, 1999 this team repeated as Super Bowl champs with John Elway throwing for 336 yards",
+      "answer": "the Denver Broncos"
+    },
+    {
+      "id": "90s-1-280",
+      "difficulty": 1,
+      "question": "On January 4, 1995 he was sworn in as the first Republican speaker of the house in more than 40 years",
+      "answer": "Newt Gingrich"
+    },
+    {
+      "id": "90s-1-281",
+      "difficulty": 1,
+      "question": "Spinal Tap cut 35 songs from its act at a 1992 tribute to this Queen singer; he would've \"wanted it this way\\\"",
+      "answer": "(Freddie) Mercury"
+    },
+    {
+      "id": "90s-1-282",
+      "difficulty": 1,
+      "question": "In 1996 this band embarked on the \"Joker's Choice\" tour",
+      "answer": "The Steve Miller Band"
+    },
+    {
+      "id": "90s-1-283",
+      "difficulty": 1,
+      "question": "This rapper had the aptly titled hit \"Big Poppa\\\"",
+      "answer": "Biggie Smalls"
+    },
+    {
+      "id": "90s-1-284",
+      "difficulty": 1,
+      "question": "\\\"Don't go chasing\" these, TLC asked, \"please stick to the rivers and lakes that you're used to\\\"",
+      "answer": "waterfalls"
+    },
+    {
+      "id": "90s-1-285",
+      "difficulty": 1,
+      "question": "Bob Dole loses the presidential election",
+      "answer": "\\'96"
+    },
+    {
+      "id": "90s-1-286",
+      "difficulty": 1,
+      "question": "Avast, me hearties! In 1995 Malcolm Glazer paid $192 million for this Florida football team",
+      "answer": "the (Tampa Bay) Buccaneers"
+    },
+    {
+      "id": "90s-1-287",
+      "difficulty": 1,
+      "question": "In 1999 she was the commencement speaker at CCNY (perhaps lining up some votes for 2000)",
+      "answer": "Hillary Clinton"
+    },
+    {
+      "id": "90s-1-288",
+      "difficulty": 1,
+      "question": "The \"Baywatch\" version of this doll raced to the rescue on his own Wave Runner (but Barbie got her own dolphin)",
+      "answer": "Ken"
+    },
+    {
+      "id": "90s-1-289",
+      "difficulty": 1,
+      "question": "Son succeeded father as leader of this Asian country that said it would withdraw from the nuclear nonprolif. treaty",
+      "answer": "North Korea"
+    },
+    {
+      "id": "90s-1-290",
+      "difficulty": 1,
+      "question": "25 years after breaking up, this band had a No. 1 album late in 1995",
+      "answer": "The Beatles"
+    },
+    {
+      "id": "90s-1-291",
+      "difficulty": 1,
+      "question": "In 1998 the Dave Matthews Band sank this movie's soundtrack from the No. 1 spot it had held for 16 weeks",
+      "answer": "Titanic"
+    },
+    {
+      "id": "90s-1-292",
+      "difficulty": 1,
+      "question": "In 1998 Andre Braugher won an Emmy for his work on this Baltimore-set police drama",
+      "answer": "Homicide: Life on the Street"
+    },
+    {
+      "id": "90s-1-293",
+      "difficulty": 1,
+      "question": "She won a 1991 Grammy, her first, for best long-form music video for \"Blonde Ambition World Tour Live\\\"",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-1-294",
+      "difficulty": 1,
+      "question": "When the U.K.'s 99-year lease on this crown colony ended, China retook control on July 1, 1997",
+      "answer": "Hong Kong"
+    },
+    {
+      "id": "90s-1-295",
+      "difficulty": 1,
+      "question": "The title of this film is what a guard shouts as he leads Sean Penn to be executed",
+      "answer": "Dead Man Walking"
+    },
+    {
+      "id": "90s-1-296",
+      "difficulty": 1,
+      "question": "Because 2 more states had joined the Union, the number of stars on the U.S. flag was changed to this in 1795",
+      "answer": "15"
+    },
+    {
+      "id": "90s-1-297",
+      "difficulty": 1,
+      "question": "This naval hero of the American Revolution spent the last 2 years of his life in Paris, dying there in 1792",
+      "answer": "John Paul Jones"
+    },
+    {
+      "id": "90s-1-298",
+      "difficulty": 1,
+      "question": "Take a bow if you know that \"Take A Bow\" was a big hit for her",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-1-299",
+      "difficulty": 1,
+      "question": "In a 1995 hit he asked, \"Have you ever really loved a woman?\\\"",
+      "answer": "Bryan Adams"
+    },
+    {
+      "id": "90s-1-300",
+      "difficulty": 1,
+      "question": "In an 1898 film by G.A. Smith, this character enters & leaves a room via the chimney",
+      "answer": "Santa Claus"
+    },
+    {
+      "id": "90s-1-301",
+      "difficulty": 1,
+      "question": "1997: \"Men In Black\\\"",
+      "answer": "Will Smith"
+    },
+    {
+      "id": "90s-1-302",
+      "difficulty": 1,
+      "question": "It's what the tail does if things are backwards",
+      "answer": "Wag the Dog"
+    },
+    {
+      "id": "90s-1-303",
+      "difficulty": 1,
+      "question": "In 1990 \"Four Past Midnight\" hit the bestseller lists for this horrormeister",
+      "answer": "Stephen King"
+    },
+    {
+      "id": "90s-1-304",
+      "difficulty": 1,
+      "question": "This ex-president scored big in 1990 with his autobiography \"An American Life\\\"",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "id": "90s-1-305",
+      "difficulty": 1,
+      "question": "Poor Jack Dawson leaves Southampton in 1912 to go to America for a new start; has trouble along the way",
+      "answer": "Titanic"
+    },
+    {
+      "id": "90s-1-306",
+      "difficulty": 1,
+      "question": "1996: \"Because You Loved Me\\\"",
+      "answer": "Celine Dion"
+    },
+    {
+      "id": "90s-1-307",
+      "difficulty": 1,
+      "question": "In 1991 this Texas capital became the USA's first community with a green building program",
+      "answer": "Austin"
+    },
+    {
+      "id": "90s-1-308",
+      "difficulty": 1,
+      "question": "(Katie Couric delivers the clue.) One of the greatest outpourings of emotion I've ever witnessed was on September 6, 1997 when I co-anchored coverage of this event from London",
+      "answer": "Princess Diana's funeral ceremonies"
+    },
+    {
+      "id": "90s-1-309",
+      "difficulty": 1,
+      "question": "In 1993 General Beg of this countrv said yes, we have nukes & we'll use them on India if we have to",
+      "answer": "Pakistan"
+    },
+    {
+      "id": "90s-1-310",
+      "difficulty": 1,
+      "question": "(Legal commentator Jack Ford gives the clue) The 1995 murder trial that ended in his acquittal was commonly called The Trial of the Century; the 1997 civil trial that found him liable got almost as much attention",
+      "answer": "O.J. Simpson"
+    },
+    {
+      "id": "90s-1-311",
+      "difficulty": 1,
+      "question": "Will Smith rapped, \"Looked at my kingdom, I was finally there, to sit on my throne as the prince of\" this",
+      "answer": "Bel-Air"
+    },
+    {
+      "id": "90s-1-312",
+      "difficulty": 1,
+      "question": "If you could handle seeing Dennis Franz' tush in a shower, then this cop show that debuted in '93 was for you",
+      "answer": "NYPD Blue"
+    },
+    {
+      "id": "90s-1-313",
+      "difficulty": 1,
+      "question": "In 1598 or 1599 the Burbage brothers dismantled this London theatre & reassembled it in Bankside",
+      "answer": "the Globe Theatre"
+    },
+    {
+      "id": "90s-1-314",
+      "difficulty": 1,
+      "question": "In a jingle, this line follows \"in fourteen hundred and ninety-two\\\"",
+      "answer": "\\\"Columbus sailed the ocean blue\\\""
+    },
+    {
+      "id": "90s-1-315",
+      "difficulty": 1,
+      "question": "In this author's \"Debt of Honor\", Jack Ryan comes out of retirement to serve as the new National Security Advisor",
+      "answer": "Tom Clancy"
+    },
+    {
+      "id": "90s-1-316",
+      "difficulty": 1,
+      "question": "In 1892 this Chicago company began offering free chewing gum with each can of baking powder sold",
+      "answer": "Wrigley's"
+    },
+    {
+      "id": "90s-1-317",
+      "difficulty": 1,
+      "question": "On April 19, 1897 this city's marathon was run for the first time; John McDermott won in 2 hrs., 55 min., 10 sec.",
+      "answer": "Boston"
+    },
+    {
+      "id": "90s-1-318",
+      "difficulty": 1,
+      "question": "\\\"Mama says stupid is as stupid does\\\"",
+      "answer": "Forrest Gump"
+    },
+    {
+      "id": "90s-1-319",
+      "difficulty": 1,
+      "question": "\\\"I'm sorry that I didn't build you a stronger ship, young Rose\\\"",
+      "answer": "Titanic"
+    },
+    {
+      "id": "90s-1-320",
+      "difficulty": 1,
+      "question": "& I'm here... to remind you... her \"Jagged Little Pill\" was No. 1 in 1995 & again in '96",
+      "answer": "Alanis Morissette"
+    },
+    {
+      "id": "90s-1-321",
+      "difficulty": 1,
+      "question": "On Aug. 2, 1990 this nation invaded Kuwait & within 48 hours, had complete control; didn't last",
+      "answer": "Iraq"
+    },
+    {
+      "id": "90s-1-322",
+      "difficulty": 1,
+      "question": "Let me tell you something, McMahon! In 1999 he joined \"the body\" politic & became governor of Minnesota",
+      "answer": "Jesse Ventura"
+    },
+    {
+      "id": "90s-1-323",
+      "difficulty": 1,
+      "question": "I've lost track of how many times I've found myself in my car singing \"MMMBop\" by this trio",
+      "answer": "Hanson"
+    },
+    {
+      "id": "90s-1-324",
+      "difficulty": 1,
+      "question": "The 91st one says, \"He that dwelleth in the secret place of the most high shall abide under the shadow of the Almighty\\\"",
+      "answer": "a Psalm"
+    },
+    {
+      "id": "90s-1-325",
+      "difficulty": 1,
+      "question": "93 is the atomic number of this element, the first transuranium one",
+      "answer": "neptunium"
+    },
+    {
+      "id": "90s-1-326",
+      "difficulty": 1,
+      "question": "\\\"Wild Wild West\" was a chart-topper performed by this star of the 1999 movie",
+      "answer": "Will Smith"
+    },
+    {
+      "id": "90s-1-327",
+      "difficulty": 1,
+      "question": "In 1990 his \"Bourne Ultimatum\" was a bestseller",
+      "answer": "(Robert) Ludlum"
+    },
+    {
+      "id": "90s-1-328",
+      "difficulty": 1,
+      "question": "Novel in which Robert Kincaid says to Francesca, \"This kind of certainty comes only once\\\"",
+      "answer": "The Bridges of Madison County"
+    },
+    {
+      "id": "90s-1-329",
+      "difficulty": 1,
+      "question": "It was before I had a cell phone, so when I said, \"hit me on the hip\" I meant contact me via this device",
+      "answer": "a pager"
+    },
+    {
+      "id": "90s-1-330",
+      "difficulty": 1,
+      "question": "The \"pump\" from this company was a shoe you pumped up with air for a snugger fit",
+      "answer": "Reebok"
+    },
+    {
+      "id": "90s-1-331",
+      "difficulty": 1,
+      "question": "A young physician makes a new life for herself in the Old West",
+      "answer": "Dr. Quinn, Medicine Woman"
+    },
+    {
+      "id": "90s-1-332",
+      "difficulty": 1,
+      "question": "\\\"Guilty at Last\", said the Times when this don was convicted of the murder of Paul Castellano",
+      "answer": "John Gotti"
+    },
+    {
+      "id": "90s-1-333",
+      "difficulty": 1,
+      "question": "(The New York Times reporter Linda Greenhouse gives the clue.) In a 1991 case I covered, the Supreme Court overturned a New York law aimed at preventing criminals from profiting by selling their storiesâ€”a law informally named for this 1970s killer",
+      "answer": "the Son of Sam"
+    },
+    {
+      "id": "90s-1-334",
+      "difficulty": 1,
+      "question": "\\\"And the lights are blinkin', I'm thinkin' it's all over when I go out drinkin'... insane in\" this",
+      "answer": "the membrane"
+    },
+    {
+      "id": "90s-1-335",
+      "difficulty": 1,
+      "question": "In 1992 I hope you'll understand he hauled his \"Achy Breaky Heart\" to No. 4 on the Top 40",
+      "answer": "(Billy Ray) Cyrus"
+    },
+    {
+      "id": "90s-1-336",
+      "difficulty": 1,
+      "question": "Oasis sang, \"because maybe, you're gonna be the one that saves me, & after all, you're my\" this",
+      "answer": "wonderwall"
+    },
+    {
+      "id": "90s-1-337",
+      "difficulty": 1,
+      "question": "A nuclear weapon falls into the hands of terrorists in this author's \"The Sum of All Fears\\\"",
+      "answer": "Tom Clancy"
+    },
+    {
+      "id": "90s-1-338",
+      "difficulty": 1,
+      "question": "Episodes of this sitcom included \"The Yada Yada\" & \"The Serenity Now\\\"",
+      "answer": "Seinfeld"
+    },
+    {
+      "id": "90s-1-339",
+      "difficulty": 1,
+      "question": "The cast of this sitcom included Mila Kunis, Ashton Kutcher & in supporting roles, Brooke Shields & Tommy Chong, man",
+      "answer": "That '70s Show"
+    },
+    {
+      "id": "90s-1-340",
+      "difficulty": 1,
+      "question": "Her 1992 hit \"Erotica\" sampled \"Jungle Boogie\" by Kool & the Gang",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-1-341",
+      "difficulty": 1,
+      "question": "First published in 1992, it's John Gray's groundbreaking guide to understanding the opposite sex",
+      "answer": "Men Are from Mars, Women Are from Venus"
+    },
+    {
+      "id": "90s-1-342",
+      "difficulty": 1,
+      "question": "In a 1996 bestseller Terry McMillan told \"How Stella Got\" this \"Back\\\"",
+      "answer": "her groove"
+    },
+    {
+      "id": "90s-1-343",
+      "difficulty": 1,
+      "question": "A radio psychiatrist moves back home & lives with his father",
+      "answer": "Frasier"
+    },
+    {
+      "id": "90s-1-344",
+      "difficulty": 1,
+      "question": "A shoe salesman & his family try to survive each other in suburbia",
+      "answer": "Married... with Children"
+    },
+    {
+      "id": "90s-1-345",
+      "difficulty": 1,
+      "question": "After 15 years of marriage, this British royal couple called it quits",
+      "answer": "Charles & Diana"
+    },
+    {
+      "id": "90s-1-346",
+      "difficulty": 1,
+      "question": "Warning that it \"can happen to anybody\", he retired from basketball after announcing he was HIV positive",
+      "answer": "Magic Johnson"
+    },
+    {
+      "id": "90s-1-347",
+      "difficulty": 1,
+      "question": "Operation Desert Shield was the buildup to the 1991 military offensive against Iraq that was called this operation",
+      "answer": "Desert Storm"
+    },
+    {
+      "id": "90s-1-348",
+      "difficulty": 1,
+      "question": "The bidding began in 1995 when Pierre Omidyar launched this auction website",
+      "answer": "eBay"
+    },
+    {
+      "id": "90s-1-349",
+      "difficulty": 1,
+      "question": "The tag line of this film was \"A murdered wife. A one-armed man. An obsessed detective. The chase begins\\\"",
+      "answer": "The Fugitive"
+    },
+    {
+      "id": "90s-1-350",
+      "difficulty": 1,
+      "question": "In 2014 ninnies Lloyd & Harry were back in the sequel to this 1994 movie",
+      "answer": "Dumb and Dumber"
+    },
+    {
+      "id": "90s-1-351",
+      "difficulty": 1,
+      "question": "With Zoo TV & PopMart, they had 2 of the highest-grossing concert tours of the '90s",
+      "answer": "U2"
+    },
+    {
+      "id": "90s-1-352",
+      "difficulty": 1,
+      "question": "She was Billy Joel's \"Uptown Girl\" until their marriage ended in 1994",
+      "answer": "Christie Brinkley"
+    },
+    {
+      "id": "90s-1-353",
+      "difficulty": 1,
+      "question": "Farmers got help with forecasts as the weather bureau was moved from the military to this Cabinet department",
+      "answer": "Agriculture"
+    },
+    {
+      "id": "90s-1-354",
+      "difficulty": 1,
+      "question": "In a 1999 hit Ricky Martin was \"Livin\"' this",
+      "answer": "La Vida Loca"
+    },
+    {
+      "id": "90s-1-355",
+      "difficulty": 1,
+      "question": "After years as a backup singer, she hit it big in 1994 with \"All I Wanna Do\\\"",
+      "answer": "Sheryl Crow"
+    },
+    {
+      "id": "90s-1-356",
+      "difficulty": 1,
+      "question": "You saw some wild moves & costumes if you caught her \"Bangerz\" tour",
+      "answer": "Miley Cyrus"
+    },
+    {
+      "id": "90s-1-357",
+      "difficulty": 1,
+      "question": "\\\"I do wish we could chat longer, but... I'm having an old friend for dinner\\\"",
+      "answer": "The Silence of the Lambs"
+    },
+    {
+      "id": "90s-1-358",
+      "difficulty": 1,
+      "question": "\\\"How do you write women so well?\"â€” \"I think of a man, and I take away reason and accountability\\\"",
+      "answer": "As Good as It Gets"
+    },
+    {
+      "id": "90s-1-359",
+      "difficulty": 1,
+      "question": "\\\"No, I don't want no scrub, a scrub is a guy that can't get no love from me\\\"",
+      "answer": "TLC"
+    },
+    {
+      "id": "90s-1-360",
+      "difficulty": 1,
+      "question": "This rap group had \"Ill Communication\"; take a \"Sure Shot\\\"",
+      "answer": "the Beastie Boys"
+    },
+    {
+      "id": "90s-1-361",
+      "difficulty": 1,
+      "question": "Kelsey Grammer received 8 nominations in the 1990s for playing this role on 2 series, winning 3 times",
+      "answer": "Frasier Crane"
+    },
+    {
+      "id": "90s-1-362",
+      "difficulty": 1,
+      "question": "An estimated 50 million people watched his final \"Tonight Show\" appearance on May 22, 1992",
+      "answer": "Johnny Carson"
+    },
+    {
+      "id": "90s-1-363",
+      "difficulty": 1,
+      "question": "Rolling Stone called this biggest Nirvana hit \"the song that blew up the world\\\"",
+      "answer": "\\\"Smells Like Teen Spirit\\\""
+    },
+    {
+      "id": "90s-1-364",
+      "difficulty": 1,
+      "question": "Terrorists with a nuclear weapon must be stopped by this hero of Tom Clancy's \"The Sum of All Fears\\\"",
+      "answer": "Jack Ryan"
+    },
+    {
+      "id": "90s-1-365",
+      "difficulty": 1,
+      "question": "This future saint published several books, including 1994's \"Crossing the Threshold of Hope\\\"",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "id": "90s-1-366",
+      "difficulty": 1,
+      "question": "The title of this biggest hit by House of Pain is too on point not to use",
+      "answer": "\\\"Jump Around\\\""
+    },
+    {
+      "id": "90s-1-367",
+      "difficulty": 1,
+      "question": "In 1990, 7 years after it was supposed to be launched, this telescope finally made it into space",
+      "answer": "Hubble"
+    },
+    {
+      "id": "90s-1-368",
+      "difficulty": 1,
+      "question": "Running between Folkestone & Calais, it opened to traffic in 1994",
+      "answer": "the Chunnel"
+    },
+    {
+      "id": "90s-1-369",
+      "difficulty": 1,
+      "question": "2 days after celebrating her 92nd birthday, she welcomed a new great-grandson, Prince Louis Arthur Charles",
+      "answer": "Queen Elizabeth"
+    },
+    {
+      "id": "90s-1-370",
+      "difficulty": 1,
+      "question": "\\\"Her skin's the color of mocha\" in this Ricky Martin hit from 1999",
+      "answer": "\\\"Livin' La Vida Loca\\\""
+    },
+    {
+      "id": "90s-1-371",
+      "difficulty": 1,
+      "question": "Pentagon employee Linda Tripp secretly recorded phone calls with this friend who discussed an affair with an older man",
+      "answer": "Monica Lewinsky"
+    },
+    {
+      "id": "90s-1-372",
+      "difficulty": 1,
+      "question": "This magazine was launched in 1995 with a cover showing Cindy Crawford dressed as our first president",
+      "answer": "George"
+    },
+    {
+      "id": "90s-1-373",
+      "difficulty": 1,
+      "question": "Wham! He had a No. 1 hit as he was \"Praying For Time\" in 1990",
+      "answer": "George Michael"
+    },
+    {
+      "id": "90s-1-374",
+      "difficulty": 1,
+      "question": "In 1996 the fairy tale was over as Buckingham Palace announced an agreement in the divorce of this couple",
+      "answer": "Prince Charles & Princes Diana"
+    },
+    {
+      "id": "90s-1-375",
+      "difficulty": 1,
+      "question": "This Georgian published \"To Renew America\" & also became Speaker of the House",
+      "answer": "Newt Gingrich"
+    },
+    {
+      "id": "90s-1-376",
+      "difficulty": 1,
+      "question": "Right Said Fred: \"I'm a model, you know what I mean, & I do my little turn on the catwalk\\\"",
+      "answer": "\\\"I'm Too Sexy\\\""
+    },
+    {
+      "id": "90s-1-377",
+      "difficulty": 1,
+      "question": "In 1993 this author came along with his first Alex Cross novel, \"Along Came a Spider\\\"",
+      "answer": "James Patterson"
+    },
+    {
+      "id": "90s-1-378",
+      "difficulty": 1,
+      "question": "In 1997 Steve Jobs thanked Bill Gates for saving Apple from bankruptcy after this company invested $150 million",
+      "answer": "Microsoft"
+    },
+    {
+      "id": "90s-1-379",
+      "difficulty": 1,
+      "question": "Dolly the sheep became the 1st-ever this of an adult mammal in '96; Dolly the sheep became the 1st-ever this of an adult mammal in '96",
+      "answer": "a clone"
+    },
+    {
+      "id": "90s-1-380",
+      "difficulty": 1,
+      "question": "Directed by Spielberg: \"Whoever saves one life, saves the world entire\\\"",
+      "answer": "Schindler's List"
+    },
+    {
+      "id": "90s-1-381",
+      "difficulty": 1,
+      "question": "This group's first No. 1 hit was inspired by a note Andrew Ridgeley left his mum asking her to \"Wake him up up\\\"",
+      "answer": "Wham!"
+    },
+    {
+      "id": "90s-1-382",
+      "difficulty": 1,
+      "question": "In 1994, 4 years after his release from prison, he became president of South Africa",
+      "answer": "Mandela"
+    },
+    {
+      "id": "90s-1-383",
+      "difficulty": 1,
+      "question": "In 1993 this shock jock got down to the nitty gritty with his first book, \"Private Parts\\\"",
+      "answer": "Howard Stern"
+    },
+    {
+      "id": "90s-1-384",
+      "difficulty": 1,
+      "question": "\\\"If you build it, he will come\\\"",
+      "answer": "Field of Dreams"
+    },
+    {
+      "id": "90s-1-385",
+      "difficulty": 1,
+      "question": "\\\"What would you do if you were stuck in one place and every day was exactly the same?\\\"",
+      "answer": "Groundhog Day"
+    },
+    {
+      "id": "90s-1-386",
+      "difficulty": 1,
+      "question": "According to Rolling Stone, the best album of the decade: \"Nevermind\\\"",
+      "answer": "Nirvana"
+    },
+    {
+      "id": "90s-1-387",
+      "difficulty": 1,
+      "question": "\\\"Mama Said Knock You Out\\\"",
+      "answer": "LL Cool J"
+    },
+    {
+      "id": "90s-1-388",
+      "difficulty": 1,
+      "question": "In \"U Can't Touch This\", he rapped his thanks to the Lord \"for blessing me with a mind to rhyme & 2 hyped feet\\\"",
+      "answer": "MC Hammer"
+    },
+    {
+      "id": "90s-1-389",
+      "difficulty": 1,
+      "question": "Making their Top 40 debut in 1991, this vocal group told us, \"Motownphilly's back again, doin' a little East Coast swing\\\"",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-1-390",
+      "difficulty": 1,
+      "question": "Dorothy is a device that studies tornadoes in this film starring Helen Hunt & Bill Paxton",
+      "answer": "Twister"
+    },
+    {
+      "id": "90s-1-391",
+      "difficulty": 1,
+      "question": "For this 1994 film, Sandra Bullock actually learned to drive a bus & passed the licensing test",
+      "answer": "Speed"
+    },
+    {
+      "id": "90s-1-392",
+      "difficulty": 1,
+      "question": "Reaching the half century mark, this singer-songwriter published a memoir, \"A Pirate Looks at Fifty\\\"",
+      "answer": "Jimmy Buffett"
+    },
+    {
+      "id": "90s-1-393",
+      "difficulty": 1,
+      "question": "Begun nearly 20 years earlier, Nelson Mandela's autobiography was finally published in 1994 under the title \"Long Walk to\" this",
+      "answer": "Freedom"
+    },
+    {
+      "id": "90s-1-394",
+      "difficulty": 1,
+      "question": "It's the subtitle of \"Terminator 2\\\"",
+      "answer": "Judgment Day"
+    },
+    {
+      "id": "90s-1-395",
+      "difficulty": 1,
+      "question": "A scene from \"Hamlet\" partly inspired Bruce Joel Rubin to write this Patrick Swayze-Demi Moore tearjerker",
+      "answer": "Ghost"
+    },
+    {
+      "id": "90s-1-396",
+      "difficulty": 1,
+      "question": "That's really great! It's \"all that and\" this snack offering",
+      "answer": "a bag of chips"
+    },
+    {
+      "id": "90s-1-397",
+      "difficulty": 1,
+      "question": "In 1891 the ancient order of Hibernians marched up Fifth Avenue for the first time in their parade celebrating this holiday",
+      "answer": "St. Patrick's Day"
+    },
+    {
+      "id": "90s-1-398",
+      "difficulty": 1,
+      "question": "Moving up from Mexico, this pest invaded U.S. cotton fields, devastating crops throughout the south",
+      "answer": "the boll weevil"
+    },
+    {
+      "id": "90s-1-399",
+      "difficulty": 1,
+      "question": "The O is actually a sign in \"Sign 'O' the Times\", a classic 1987 album by this man of royal talent",
+      "answer": "Prince"
+    },
+    {
+      "id": "90s-1-400",
+      "difficulty": 1,
+      "question": "Yes, yes, yes, \"No, No, No Part 2\" was a No. 1 R&B hit for this \"youthful\" Houston girl group",
+      "answer": "Destiny's Child"
+    },
+    {
+      "id": "90s-1-401",
+      "difficulty": 1,
+      "question": "Many a '90s mom thought all these alliterative stuffed animals would increase in value & pay for her kid's college education",
+      "answer": "Beanie Babies"
+    },
+    {
+      "id": "90s-1-402",
+      "difficulty": 1,
+      "question": "Tracey Emin caused a stir with a 1998 artwork consisting of this piece of furniture of hers, unmade, with empty vodka bottles",
+      "answer": "her bed"
+    },
+    {
+      "id": "90s-1-403",
+      "difficulty": 1,
+      "question": "In 1992, I hope you'll understand he hauled his \"Achy Breaky Heart\" to No. 4 on the Top 40",
+      "answer": "Billy Ray Cyrus"
+    },
+    {
+      "id": "90s-1-404",
+      "difficulty": 1,
+      "question": "After years as a backup singer, she hit it big in 1994 with \"All I Wanna Do\\\"",
+      "answer": "Sheryl Crow"
+    },
+    {
+      "id": "90s-1-405",
+      "difficulty": 1,
+      "question": "Bob Dole loses the presidential election",
+      "answer": "1996"
+    },
+    {
+      "id": "90s-1-406",
+      "difficulty": 1,
+      "question": "\\\"Shakedown\" is the first word of this Smashing Pumpkins song named for a year",
+      "answer": "1979"
+    },
+    {
+      "id": "90s-1-407",
+      "difficulty": 1,
+      "question": "(Diane Warren presents the clue.) This song that Toni Braxton wasn't too keen to record became her signature hit & won her a Grammy",
+      "answer": "\\\"Un-Break My Heart\\\""
+    },
+    {
+      "id": "90s-1-408",
+      "difficulty": 1,
+      "question": "Also known as sildenafil citrate, this little blue pill that debuted in 1998 also helps flowers stand up straight",
+      "answer": "Viagra"
+    },
+    {
+      "id": "90s-1-409",
+      "difficulty": 1,
+      "question": "Descended from the German V-2, these missiles used by Iraq during the Gulf War had greater range & lighter weight",
+      "answer": "Scuds"
+    },
+    {
+      "id": "90s-1-410",
+      "difficulty": 1,
+      "question": "Billy Bob Thornton does his best James Carville in this 1998 film that fictionalized the first Clinton campaign",
+      "answer": "Primary Colors"
+    },
+    {
+      "id": "90s-1-411",
+      "difficulty": 1,
+      "question": "A 1991 Senate resolution decried this country's \"illegal occupation of & brutal aggression against Kuwait\\\"",
+      "answer": "Iraq"
+    },
+    {
+      "id": "90s-1-412",
+      "difficulty": 1,
+      "question": "The July 1997 \"Cool Britannia\" party, with rockers & designers as guests, was hosted by this new prime minister",
+      "answer": "Tony Blair"
+    },
+    {
+      "id": "90s-1-413",
+      "difficulty": 1,
+      "question": "America's schoolchildren first recited it for Columbus Day in 1892",
+      "answer": "the Pledge of Allegiance"
+    },
+    {
+      "id": "90s-1-414",
+      "difficulty": 1,
+      "question": "Agent J & Agent K",
+      "answer": "Men in Black"
+    },
+    {
+      "id": "90s-1-415",
+      "difficulty": 1,
+      "question": "Dan Taylor, Jenny Curran & \"Bubba\" Blue",
+      "answer": "Forrest Gump"
+    },
+    {
+      "id": "90s-1-416",
+      "difficulty": 1,
+      "question": "In 1990, this trio had back-to-back No. 1s with their first two singles, \"Hold On\" & \"Release Me\\\"",
+      "answer": "Wilson Phillips"
+    },
+    {
+      "id": "90s-2-1",
+      "difficulty": 2,
+      "question": "Revolt by \"Society of Harmonious Fists\" against foreigners in China",
+      "answer": "the Boxer Rebellion"
+    },
+    {
+      "id": "90s-2-2",
+      "difficulty": 2,
+      "question": "The garden in Ricky Nelson's \"Garden Party\", it's set to be demolished in 1991",
+      "answer": "Madison Square Garden"
+    },
+    {
+      "id": "90s-2-3",
+      "difficulty": 2,
+      "question": "In 1895, this still-published magazine for hunters & fishermen began publication",
+      "answer": "Field & Stream"
+    },
+    {
+      "id": "90s-2-4",
+      "difficulty": 2,
+      "question": "Published in English in 1896, H. Sienkiewicz's best seller \"Quo Vadis\" was originally written in this language",
+      "answer": "Polish"
+    },
+    {
+      "id": "90s-2-5",
+      "difficulty": 2,
+      "question": "The music hall that opened on NYC's 57th Street in 1891 was renamed this in 1898",
+      "answer": "Carnegie Hall"
+    },
+    {
+      "id": "90s-2-6",
+      "difficulty": 2,
+      "question": "In 1895, Pres. Cleveland asked U.S. citizens not to give aid to this island's rebels fighting against Spain",
+      "answer": "Cuba"
+    },
+    {
+      "id": "90s-2-7",
+      "difficulty": 2,
+      "question": "This Aussie rock band titled its seventh album \"X\", as in \"X Marks the Spot\\\"",
+      "answer": "INXS"
+    },
+    {
+      "id": "90s-2-8",
+      "difficulty": 2,
+      "question": "Title Kansas City couple played by Paul Newman and Joanne Woodward in a 1990 film",
+      "answer": "\\\"Mr. And Mrs. Bridge\\\""
+    },
+    {
+      "id": "90s-2-9",
+      "difficulty": 2,
+      "question": "The 1990s have Princess Di; the press back in the 1890s had \"Queen Lil\", the deposed queen of this",
+      "answer": "Hawaii"
+    },
+    {
+      "id": "90s-2-10",
+      "difficulty": 2,
+      "question": "In 1899, he completed his painting \"Two Tahitian Women\\\"",
+      "answer": "Gauguin"
+    },
+    {
+      "id": "90s-2-11",
+      "difficulty": 2,
+      "question": "In 1894, this French army captain was convicted of passing secrets to German agents and later acquitted",
+      "answer": "Dreyfus"
+    },
+    {
+      "id": "90s-2-12",
+      "difficulty": 2,
+      "question": "In this highly acclaimed film, Oscar nominee Anjelica Huston played a professional con artist",
+      "answer": "The Grifters"
+    },
+    {
+      "id": "90s-2-13",
+      "difficulty": 2,
+      "question": "Kenneth Branagh & his wife Emma Thompson played reincarnated lovers in this 1991 film",
+      "answer": "Dead Again"
+    },
+    {
+      "id": "90s-2-14",
+      "difficulty": 2,
+      "question": "In an effort to curb monopolies, Congress passed this act in 1890",
+      "answer": "the Sherman Anti-Trust Act"
+    },
+    {
+      "id": "90s-2-15",
+      "difficulty": 2,
+      "question": "In 1992 a Vatican court annulled her first marriage, to French playboy Philippe Junot",
+      "answer": "Caroline of Monaco"
+    },
+    {
+      "id": "90s-2-16",
+      "difficulty": 2,
+      "question": "On Oct. 25, 1896 the New York Times carried this motto for the first time",
+      "answer": "\\\"all the news that's fit to print\\\""
+    },
+    {
+      "id": "90s-2-17",
+      "difficulty": 2,
+      "question": "After serving 2 years of a 10-year sentence, this junk bond king was released from prison",
+      "answer": "Michael Milken"
+    },
+    {
+      "id": "90s-2-18",
+      "difficulty": 2,
+      "question": "After her election as governor in 1990, she said, \"In Texas, politics is a contact sport\\\"",
+      "answer": "Ann Richards"
+    },
+    {
+      "id": "90s-2-19",
+      "difficulty": 2,
+      "question": "This 44-gun frigate was \"new\" when launched on Oct. 21, 1797",
+      "answer": "the U.S.S. Constitution (\"Old Ironsides\")"
+    },
+    {
+      "id": "90s-2-20",
+      "difficulty": 2,
+      "question": "In 1793 NYC's daily newspaper The American Minerva was founded by this lexicographer",
+      "answer": "Noah Webster"
+    },
+    {
+      "id": "90s-2-21",
+      "difficulty": 2,
+      "question": "Former Duke Univ. President Terry Sanford lost his Senate reelection bid from this state in 1992",
+      "answer": "North Carolina"
+    },
+    {
+      "id": "90s-2-22",
+      "difficulty": 2,
+      "question": "On Nov 1, 1993 Alexander Trotman replaced Harold A. Poling as CEO of this auto company",
+      "answer": "Ford"
+    },
+    {
+      "id": "90s-2-23",
+      "difficulty": 2,
+      "question": "This poet died March 26, 1892 in Camden, New Jersey",
+      "answer": "Walt Whitman"
+    },
+    {
+      "id": "90s-2-24",
+      "difficulty": 2,
+      "question": "In 1891 a Dutch paleontologist found remains of early man on this Indonesian island",
+      "answer": "Java"
+    },
+    {
+      "id": "90s-2-25",
+      "difficulty": 2,
+      "question": "In 1895 England almost went to war over Venezuela's border with this British possession",
+      "answer": "British Guiana"
+    },
+    {
+      "id": "90s-2-26",
+      "difficulty": 2,
+      "question": "The Kiel Canal opened in 1895, connecting this sea to the Baltic Sea",
+      "answer": "The North Sea"
+    },
+    {
+      "id": "90s-2-27",
+      "difficulty": 2,
+      "question": "This 1990 Barry Levinson film told of the life & times of a Jewish immigrant family in Baltimore",
+      "answer": "Avalon"
+    },
+    {
+      "id": "90s-2-28",
+      "difficulty": 2,
+      "question": "This \"Beverly Hills, 90210\" heartthrob plays champion Bull Rider Lane Frost in the 1994 film \"8 Seconds\\\"",
+      "answer": "Luke Perry"
+    },
+    {
+      "id": "90s-2-29",
+      "difficulty": 2,
+      "question": "When Robert Gray discovered this river in the Oregon region in 1792, he named it after his ship",
+      "answer": "the Columbia"
+    },
+    {
+      "id": "90s-2-30",
+      "difficulty": 2,
+      "question": "In November 1994 Paul J. Hill was convicted of murdering a doctor at an abortion clinic in this Florida city",
+      "answer": "Pensacola"
+    },
+    {
+      "id": "90s-2-31",
+      "difficulty": 2,
+      "question": "In 1990's \"Ghost\", this actor played a ghost who communicated with his girlfriend via a medium",
+      "answer": "Patrick Swayze"
+    },
+    {
+      "id": "90s-2-32",
+      "difficulty": 2,
+      "question": "Odessa was founded on the coast of this sea in 1794",
+      "answer": "the Black Sea"
+    },
+    {
+      "id": "90s-2-33",
+      "difficulty": 2,
+      "question": "This 1993 musical starred Bernadette Peters in the title role played on film by Marsha Mason",
+      "answer": "The Goodbye Girl"
+    },
+    {
+      "id": "90s-2-34",
+      "difficulty": 2,
+      "question": "Hedy Lamarr, Victor Mature & Cecil B. De Mille are characters in this musical about a fading movie queen",
+      "answer": "Sunset Boulevard"
+    },
+    {
+      "id": "90s-2-35",
+      "difficulty": 2,
+      "question": "This 1994 Oliver Stone film featured Woody Harrelson & Juliette Lewis as murderers on the run",
+      "answer": "Natural Born Killers"
+    },
+    {
+      "id": "90s-2-36",
+      "difficulty": 2,
+      "question": "In 1599 this Danish astronomer was appointed Imperial Mathematician of the Holy Roman Empire",
+      "answer": "(Tycho) Brahe"
+    },
+    {
+      "id": "90s-2-37",
+      "difficulty": 2,
+      "question": "In 1591 Morocco conquered this historic trading outpost in modern-day Mali",
+      "answer": "Timbuktu"
+    },
+    {
+      "id": "90s-2-38",
+      "difficulty": 2,
+      "question": "In 1992 she starred in \"Singles\" & \"Single White Female\\\"",
+      "answer": "Bridget Fonda"
+    },
+    {
+      "id": "90s-2-39",
+      "difficulty": 2,
+      "question": "President of Czechoslovakia from 1989-1992, he was elected president of the Czech Republic in 1993",
+      "answer": "Vaclav Havel"
+    },
+    {
+      "id": "90s-2-40",
+      "difficulty": 2,
+      "question": "In December 1995 2 of this country's former presidents, Chun Doo Hwan & Roh Tae Woo, were indicted",
+      "answer": "South Korea"
+    },
+    {
+      "id": "90s-2-41",
+      "difficulty": 2,
+      "question": "In 1992 Hughes Aircraft Co., a division of this automaker, agreed to buy part of General Dynamics",
+      "answer": "General Motors"
+    },
+    {
+      "id": "90s-2-42",
+      "difficulty": 2,
+      "question": "He dedicated his bestseller \"The Rainmaker\" \"To American Trial Lawyers\\\"",
+      "answer": "John Grisham"
+    },
+    {
+      "id": "90s-2-43",
+      "difficulty": 2,
+      "question": "Newsweek's Joe Klein turned out to be the \"Anonymous\" author of this 1996 \"Novel of Politics\\\"",
+      "answer": "\\\"Primary Colors\\\""
+    },
+    {
+      "id": "90s-2-44",
+      "difficulty": 2,
+      "question": "In Tim McGraw's country hit, it's the line that follows \"I like it, I love it\\\"",
+      "answer": "\\\"I want some more of it\\\""
+    },
+    {
+      "id": "90s-2-45",
+      "difficulty": 2,
+      "question": "These sexy yet \"infantile\" dresses have been worn over bicycle shorts",
+      "answer": "babydolls"
+    },
+    {
+      "id": "90s-2-46",
+      "difficulty": 2,
+      "question": "In 1996 King Bhumibol Adulyadej of this country celebrated his 50th year on the throne",
+      "answer": "Thailand"
+    },
+    {
+      "id": "90s-2-47",
+      "difficulty": 2,
+      "question": "In 1697 Spain ceded just one-third of this Caribbean island to France",
+      "answer": "Hispaniola"
+    },
+    {
+      "id": "90s-2-48",
+      "difficulty": 2,
+      "question": "\\\"Cendrillon\", the French name for this fairy tale, was part of 1697's \"Tales of Mother Goose\" by Charles Perrault",
+      "answer": "\\\"Cinderella\\\""
+    },
+    {
+      "id": "90s-2-49",
+      "difficulty": 2,
+      "question": "A completely different title to this often sung 1893 classic is \"Good Morning To All\\\"",
+      "answer": "\\\"Happy Birthday To You\\\""
+    },
+    {
+      "id": "90s-2-50",
+      "difficulty": 2,
+      "question": "In this 1991 satire, Sally Field played the star of a daytime serial, \"The Sun Also Sets\\\"",
+      "answer": "Soapdish"
+    },
+    {
+      "id": "90s-2-51",
+      "difficulty": 2,
+      "question": "In 1995 Dustin Hoffman as a doctor, not a hacker, fought an \"outbreak\" of a deadly one of these",
+      "answer": "a virus"
+    },
+    {
+      "id": "90s-2-52",
+      "difficulty": 2,
+      "question": "In Twyla Tharp's ballet \"Jump Start\", dancers jump around to music by this member of the Marsalis family",
+      "answer": "Wynton Marsalis"
+    },
+    {
+      "id": "90s-2-53",
+      "difficulty": 2,
+      "question": "In just 2 months in 1993 the NYCB presented 73 works by this late Russian-American choreographer",
+      "answer": "George Balanchine"
+    },
+    {
+      "id": "90s-2-54",
+      "difficulty": 2,
+      "question": "This \"Beloved\" author set her latest novel \"Paradise\" in the fictional all-black town of Ruby, Oklahoma",
+      "answer": "Toni Morrison"
+    },
+    {
+      "id": "90s-2-55",
+      "difficulty": 2,
+      "question": "\\\"Twin Peaks\" was the first TV venture for this avant-garde filmmaker",
+      "answer": "David Lynch"
+    },
+    {
+      "id": "90s-2-56",
+      "difficulty": 2,
+      "question": "Ethan Hawke & Robert De Niro starred in this film based on a Dickens novel",
+      "answer": "Great Expectations"
+    },
+    {
+      "id": "90s-2-57",
+      "difficulty": 2,
+      "question": "Whitcomb Judson's \"clasp locker\" of 1893 was this fastener's forerunner",
+      "answer": "Zipper"
+    },
+    {
+      "id": "90s-2-58",
+      "difficulty": 2,
+      "question": "By 1897 this German had perfected his alternative to the Otto gasoline engine",
+      "answer": "Rudolf Diesel"
+    },
+    {
+      "id": "90s-2-59",
+      "difficulty": 2,
+      "question": "Her album \"Pieces Of You\" has been on Billboard's top pop catalog album charts for over 100 weeks",
+      "answer": "Jewel"
+    },
+    {
+      "id": "90s-2-60",
+      "difficulty": 2,
+      "question": "The chorus of this Beck song mentions \"two turntables and a microphone\\\"",
+      "answer": "\\\"Where It's At\\\""
+    },
+    {
+      "id": "90s-2-61",
+      "difficulty": 2,
+      "question": "A Moscow mausoleum, or the title of David Remnick's book on \"The Last Days of the Soviet Empire\\\"",
+      "answer": "Lenin's Tomb"
+    },
+    {
+      "id": "90s-2-62",
+      "difficulty": 2,
+      "question": "On film she was Hannah's mother & Tarzan's Jane",
+      "answer": "Maureen O'Sullivan"
+    },
+    {
+      "id": "90s-2-63",
+      "difficulty": 2,
+      "question": "Mae Quesnel, famous as the voice of Betty Boop & this other cartoon woman, died in January 1998",
+      "answer": "Olive Oyl"
+    },
+    {
+      "id": "90s-2-64",
+      "difficulty": 2,
+      "question": "ESPN's X Games debuted in 1995 under this slightly longer title",
+      "answer": "Extreme Games"
+    },
+    {
+      "id": "90s-2-65",
+      "difficulty": 2,
+      "question": "Let's clear things up: that \"Whoo-Hoo\" song by this band became an anthem of the National Hockey League",
+      "answer": "Blur"
+    },
+    {
+      "id": "90s-2-66",
+      "difficulty": 2,
+      "question": "With the French & Indian War, some New Hampshire towns considered a re-annexation to this colony in March 1690",
+      "answer": "Massachusetts"
+    },
+    {
+      "id": "90s-2-67",
+      "difficulty": 2,
+      "question": "Wat? This 10th president's last name was a top boy's name? I don't believe it",
+      "answer": "Tyler"
+    },
+    {
+      "id": "90s-2-68",
+      "difficulty": 2,
+      "question": "This filmmaker is heard reading from a book based on one of his PBS series: (\"A resourceful young Otsego player named Abner Doubleday sat down & on the spot drew up the rules for a brand new game & called it baseball.\")",
+      "answer": "Ken Burns"
+    },
+    {
+      "id": "90s-2-69",
+      "difficulty": 2,
+      "question": "The refrain of his hit \"Lullaby\" is \"Everything's gonna be all right, rock-a-bye...\\\"",
+      "answer": "Shawn Mullins"
+    },
+    {
+      "id": "90s-2-70",
+      "difficulty": 2,
+      "question": "In 1892 Jupiter's moon Amalthea became the last satellite discovered without using this process",
+      "answer": "photography"
+    },
+    {
+      "id": "90s-2-71",
+      "difficulty": 2,
+      "question": "Before he died in 1996, this Chicago cardinal gave us the bestseller \"The Gift Of Peace\\\"",
+      "answer": "Joseph Cardinal Bernadin"
+    },
+    {
+      "id": "90s-2-72",
+      "difficulty": 2,
+      "question": "In 1492 Spain took Grenada, the last kingdom of these people in Spain",
+      "answer": "Moors"
+    },
+    {
+      "id": "90s-2-73",
+      "difficulty": 2,
+      "question": "His fleet left Lisbon in 1497 & sailed around the Cape of Good Hope to India in under a year",
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": "90s-2-74",
+      "difficulty": 2,
+      "question": "In 1999 Will Smith scored with a No. 1 hit with this film title track featuring Dru Hill & Kool Moe Dee",
+      "answer": "\\\"Wild Wild West\\\""
+    },
+    {
+      "id": "90s-2-75",
+      "difficulty": 2,
+      "question": "Whitney Houston played the spouse of a New York pastor in this 1996 film",
+      "answer": "The Preacher's Wife"
+    },
+    {
+      "id": "90s-2-76",
+      "difficulty": 2,
+      "question": "In 1993 he sang, \"I'd do anything for love, but I won't do that\\\"",
+      "answer": "Meat Loaf"
+    },
+    {
+      "id": "90s-2-77",
+      "difficulty": 2,
+      "question": "Give a \"holler\" if you know that this 1996 horror flick won an MTV Award for best movie",
+      "answer": "Scream"
+    },
+    {
+      "id": "90s-2-78",
+      "difficulty": 2,
+      "question": "In a 1999 film John Travolta & Madeleine Stowe tried to solve the murder of this title character",
+      "answer": "The General's Daughter"
+    },
+    {
+      "id": "90s-2-79",
+      "difficulty": 2,
+      "question": "Aliens invade the White House during Jack Nicholson's presidency in this 1996 comedy",
+      "answer": "Mars Attacks!"
+    },
+    {
+      "id": "90s-2-80",
+      "difficulty": 2,
+      "question": "Tim Allen brings his 13-year-old son from the Amazon to New York in this 1997 comedy",
+      "answer": "Jungle 2 Jungle"
+    },
+    {
+      "id": "90s-2-81",
+      "difficulty": 2,
+      "question": "On \"Seinfeld\", it's the catalog company for which Elaine worked as a copywriter",
+      "answer": "J. Peterman"
+    },
+    {
+      "id": "90s-2-82",
+      "difficulty": 2,
+      "question": "This sitcom was based on the Pulitzer Prize-winning columns by humorist Dave Barry",
+      "answer": "Dave's World"
+    },
+    {
+      "id": "90s-2-83",
+      "difficulty": 2,
+      "question": "His 12 nominations for movies of the decade produced 1 win, Best Original Score for \"Schindler's List\\\"",
+      "answer": "John Williams"
+    },
+    {
+      "id": "90s-2-84",
+      "difficulty": 2,
+      "question": "\\\"They stole his mind, now he wants it back\" was a tagline for this Arnold Schwarzenegger film",
+      "answer": "Total Recall"
+    },
+    {
+      "id": "90s-2-85",
+      "difficulty": 2,
+      "question": "John Travolta was the perfect candidate for this 1998 movie based on a book by \"Anonymous\\\"",
+      "answer": "Primary Colors"
+    },
+    {
+      "id": "90s-2-86",
+      "difficulty": 2,
+      "question": "In 1990 his sons Gunnar & Matthew topped the charts with \"(Can't Live Without Your) Love and Affection\\\"",
+      "answer": "Rick Nelson"
+    },
+    {
+      "id": "90s-2-87",
+      "difficulty": 2,
+      "question": "He carried Kerri Strug up to the medal stand at the '96 Olympics",
+      "answer": "Bela Karolyi"
+    },
+    {
+      "id": "90s-2-88",
+      "difficulty": 2,
+      "question": "Alberto Santos-Dumont's first flight of his No.1 airship in 1898 ended with it being caught in one of these",
+      "answer": "tree"
+    },
+    {
+      "id": "90s-2-89",
+      "difficulty": 2,
+      "question": "This 1999 Keanu Reeves tech-stravaganza swept the Oscars' technical categories, winning 4",
+      "answer": "The Matrix"
+    },
+    {
+      "id": "90s-2-90",
+      "difficulty": 2,
+      "question": "In 1992 director Spike Lee brought the life of this civil rights leader to the big screen",
+      "answer": "Malcolm X"
+    },
+    {
+      "id": "90s-2-91",
+      "difficulty": 2,
+      "question": "You should remember this island's war of independence was fought 1895 to 1898",
+      "answer": "Cuba"
+    },
+    {
+      "id": "90s-2-92",
+      "difficulty": 2,
+      "question": "During the 1590s English explorers were searching for this City of Gold in what's now Guyana",
+      "answer": "El Dorado"
+    },
+    {
+      "id": "90s-2-93",
+      "difficulty": 2,
+      "question": "Shania Twain title that follows \"Okay, so you're a rocket scientist\" & \"Okay, so you're Brad Pitt\\\"",
+      "answer": "\\\"That Don't Impress Me Much\\\""
+    },
+    {
+      "id": "90s-2-94",
+      "difficulty": 2,
+      "question": "In 1995 the Rockies won 11-9 in the first official game at this mile-high ballfield",
+      "answer": "Coors Field"
+    },
+    {
+      "id": "90s-2-95",
+      "difficulty": 2,
+      "question": "1999: \"Goodnight you princes of Maine, you kings of New England\\\"",
+      "answer": "The Cider House Rules"
+    },
+    {
+      "id": "90s-2-96",
+      "difficulty": 2,
+      "question": "1992: \"If she were a president she'd be Baberaham Lincoln\\\"",
+      "answer": "Wayne's World"
+    },
+    {
+      "id": "90s-2-97",
+      "difficulty": 2,
+      "question": "In 1997 the Marlins won the Major League, Mexico the Little League & LSU the college version of this event",
+      "answer": "the World Series"
+    },
+    {
+      "id": "90s-2-98",
+      "difficulty": 2,
+      "question": "On 2 votes, the House of Representatives did this to President Clinton on Dec. 19, 1998",
+      "answer": "impeached him"
+    },
+    {
+      "id": "90s-2-99",
+      "difficulty": 2,
+      "question": "His 1997 meeting with Sinn Fein leader Gerry Adams was the first for a British P.M. & an IRA leader in 76 years",
+      "answer": "Tony Blair"
+    },
+    {
+      "id": "90s-2-100",
+      "difficulty": 2,
+      "question": "Hello! In May 1999 scientists found this famous sheep might be susceptible to premature aging",
+      "answer": "Dolly"
+    },
+    {
+      "id": "90s-2-101",
+      "difficulty": 2,
+      "question": "This school-oriented organization was founded in 1897 by Alice Birney & Phoebe Hearst",
+      "answer": "PTA (Parent-Teacher Association)"
+    },
+    {
+      "id": "90s-2-102",
+      "difficulty": 2,
+      "question": "Of \"Frankenstein\", \"The Invisible Man\" or \"Dracula\", the one not created in 1897",
+      "answer": "Frankenstein (created in 1818)"
+    },
+    {
+      "id": "90s-2-103",
+      "difficulty": 2,
+      "question": "Julia Roberts played a law student who uncovered a conspiracy & put herself in danger in this 1993 movie",
+      "answer": "The Pelican Brief"
+    },
+    {
+      "id": "90s-2-104",
+      "difficulty": 2,
+      "question": "Some referred to this 1994 movie as \"Die Hard on a Bus\\\"",
+      "answer": "Speed"
+    },
+    {
+      "id": "90s-2-105",
+      "difficulty": 2,
+      "question": "In August 1999 this Russian President fired his fourth Prime Minister in 18 months",
+      "answer": "Boris Yeltsin"
+    },
+    {
+      "id": "90s-2-106",
+      "difficulty": 2,
+      "question": "(Sarah of the Clue Crew reports from Alaska.) A moose wandered the streets in the credits of this 1990s TV show, set in Alaska",
+      "answer": "Northern Exposure"
+    },
+    {
+      "id": "90s-2-107",
+      "difficulty": 2,
+      "question": "On Nov. 5, 1996, this GOP candidate joked, \"Tomorrow will be the first time in my life I don't have anything to do\\\"",
+      "answer": "Bob Dole"
+    },
+    {
+      "id": "90s-2-108",
+      "difficulty": 2,
+      "question": "In April 1992 riots broke out in L.A. after a jury failed to convict the policemen involved in the beating of this man",
+      "answer": "Rodney King"
+    },
+    {
+      "id": "90s-2-109",
+      "difficulty": 2,
+      "question": "Sally was the original name of the protagonist of her 1997 hit \"Sunny Came Home\\\"",
+      "answer": "Shawn Colvin"
+    },
+    {
+      "id": "90s-2-110",
+      "difficulty": 2,
+      "question": "In 1996 Celine Dion recorded this 1976 Eric Carmen hit in both English & Spanish versions",
+      "answer": "\\\"All By Myself\\\""
+    },
+    {
+      "id": "90s-2-111",
+      "difficulty": 2,
+      "question": "In 1995 this brother & sister hit No. 5 with the song \"Scream\\\"",
+      "answer": "Michael & Janet Jackson"
+    },
+    {
+      "id": "90s-2-112",
+      "difficulty": 2,
+      "question": "A successful songwriter & producer, she had \"criminal\" success with her debut album \"Supa Dupa Fly\\\"",
+      "answer": "Missy \"Misdemeanor\" Elliott"
+    },
+    {
+      "id": "90s-2-113",
+      "difficulty": 2,
+      "question": "An earthquake levels buildings & overpasses in L.A. on January 17",
+      "answer": "1994"
+    },
+    {
+      "id": "90s-2-114",
+      "difficulty": 2,
+      "question": "This blonde proved that \"Les\" is more when she joined the \"60 Minutes\" team in 1991",
+      "answer": "(Leslie) Stahl"
+    },
+    {
+      "id": "90s-2-115",
+      "difficulty": 2,
+      "question": "In 1991 he made his first official public appearance, with his parents, on St. David's Day at Llandaff Cathedral",
+      "answer": "Prince William"
+    },
+    {
+      "id": "90s-2-116",
+      "difficulty": 2,
+      "question": "Not Turmeric or Fennel, but this singer was the first Spice Girl to leave the group",
+      "answer": "Ginger"
+    },
+    {
+      "id": "90s-2-117",
+      "difficulty": 2,
+      "question": "After Saddam Hussein invaded this country, the U.S. attacked Iraq",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-2-118",
+      "difficulty": 2,
+      "question": "This band's 1993 \"In Utero\" album vowed, \"Frances Farmer will have her revenge on Seattle\\\"",
+      "answer": "Nirvana"
+    },
+    {
+      "id": "90s-2-119",
+      "difficulty": 2,
+      "question": "One track off their 1994 album \"Monster\" was \"What's the Frequency, Kenneth?\\\"",
+      "answer": "R.E.M."
+    },
+    {
+      "id": "90s-2-120",
+      "difficulty": 2,
+      "question": "Porter was the last name of this title character played by Keri Russell",
+      "answer": "Felicity"
+    },
+    {
+      "id": "90s-2-121",
+      "difficulty": 2,
+      "question": "This princess of Monaco was rumored to be the \"mystery girl\" in Michael Jackson's 1992 hit \"In the Closet\\\"",
+      "answer": "Princess Stephanie"
+    },
+    {
+      "id": "90s-2-122",
+      "difficulty": 2,
+      "question": "On Aug. 10, 1993 she was sworn in as the 107th Supreme Court Justice",
+      "answer": "Ginsburg"
+    },
+    {
+      "id": "90s-2-123",
+      "difficulty": 2,
+      "question": "Bubba tells this Tom Hanks character about fried shrimp, shrimp gumbo & boiled shrimp, among others",
+      "answer": "Forrest Gump"
+    },
+    {
+      "id": "90s-2-124",
+      "difficulty": 2,
+      "question": "The first major gold discovery in the U.S. happened in 1799 near this southern city named for George III's queen",
+      "answer": "Charlotte, North Carolina"
+    },
+    {
+      "id": "90s-2-125",
+      "difficulty": 2,
+      "question": "In 1795 this fiery orator turned down an offer to Secy. of State; he later declined the job of Chief Justice, too",
+      "answer": "Patrick Henry"
+    },
+    {
+      "id": "90s-2-126",
+      "difficulty": 2,
+      "question": "Their \"I Don't Want To Miss A Thing\" was featured in the movie \"Armageddon\\\"",
+      "answer": "Aerosmith"
+    },
+    {
+      "id": "90s-2-127",
+      "difficulty": 2,
+      "question": "In the '90s they peppered the charts with songs like \"Wannabe\" and \"Say You'll Be There\\\"",
+      "answer": "The Spice Girls"
+    },
+    {
+      "id": "90s-2-128",
+      "difficulty": 2,
+      "question": "In \"Wonderful Dancing Girls\", 2 ballet dancers dance on this, years before Fred Astaire in \"Royal Wedding\\\"",
+      "answer": "the ceiling"
+    },
+    {
+      "id": "90s-2-129",
+      "difficulty": 2,
+      "question": "1993: \"I'd Do Anything For Love (But I Won't Do That)\\\"",
+      "answer": "Meat Loaf"
+    },
+    {
+      "id": "90s-2-130",
+      "difficulty": 2,
+      "question": "Who can forget Mena Suvari on a bed of petals in this film? (The title is a type of rose)",
+      "answer": "American Beauty"
+    },
+    {
+      "id": "90s-2-131",
+      "difficulty": 2,
+      "question": "It's an open & shut case: his \"Runaway Jury\" was the bestselling hardback fiction work of 1996",
+      "answer": "John Grisham"
+    },
+    {
+      "id": "90s-2-132",
+      "difficulty": 2,
+      "question": "In 1998 his novel \"Rainbow Six\" became another in his long line of military bestsellers",
+      "answer": "Tom Clancy"
+    },
+    {
+      "id": "90s-2-133",
+      "difficulty": 2,
+      "question": "Multi-talented man scores for the Crimson Tide & bests Chinese at ping pong, among other feats",
+      "answer": "Forrest Gump"
+    },
+    {
+      "id": "90s-2-134",
+      "difficulty": 2,
+      "question": "1999: \"Genie In A Bottle\\\"",
+      "answer": "Christina Aguilera"
+    },
+    {
+      "id": "90s-2-135",
+      "difficulty": 2,
+      "question": "In 1997 Zaire was renamed the Democratic Republic of this",
+      "answer": "the Congo"
+    },
+    {
+      "id": "90s-2-136",
+      "difficulty": 2,
+      "question": "California was the first state to ban this for reproductive purposes; other states copied it",
+      "answer": "cloning"
+    },
+    {
+      "id": "90s-2-137",
+      "difficulty": 2,
+      "question": "In 1992 the Catholic church issued the first new universal this in 4 centuries, dropping the Q. & A. format",
+      "answer": "a catechism"
+    },
+    {
+      "id": "90s-2-138",
+      "difficulty": 2,
+      "question": "George Holliday videotaped the LAPD's notorious encounter with this man in 1991",
+      "answer": "Rodney King"
+    },
+    {
+      "id": "90s-2-139",
+      "difficulty": 2,
+      "question": "On a sitcom he played cable TV host Tim Taylor",
+      "answer": "Tim Allen"
+    },
+    {
+      "id": "90s-2-140",
+      "difficulty": 2,
+      "question": "In 1990 Don Knotts re-teamed with his old pal Andy Griffith, playing Les Calhoun on this legal drama",
+      "answer": "Matlock"
+    },
+    {
+      "id": "90s-2-141",
+      "difficulty": 2,
+      "question": "On August 6, 1890 William Kemmler became the first criminal forced to sit in one of theseâ€”& he only did it once",
+      "answer": "an electric chair"
+    },
+    {
+      "id": "90s-2-142",
+      "difficulty": 2,
+      "question": "This large Indian city on the Hooghly River was founded in 1690 by Job Charnak of the East India Company",
+      "answer": "Calcutta"
+    },
+    {
+      "id": "90s-2-143",
+      "difficulty": 2,
+      "question": "If you haven't read this first novel in Cormac McCarthy's \"Border Trilogy\", say \"neigh\\\"",
+      "answer": "All the Pretty Horses"
+    },
+    {
+      "id": "90s-2-144",
+      "difficulty": 2,
+      "question": "In 1895 this black educator delivered the Atlanta Compromise speech about improving the lot of African Americans",
+      "answer": "(Booker T.) Washington"
+    },
+    {
+      "id": "90s-2-145",
+      "difficulty": 2,
+      "question": "John Philip Sousa sat down on Christmas 1896 & wrote this march, including the lyric \"Hurrah for the flag of the free\\\"",
+      "answer": "\\\"Stars And Stripes Forever\\\""
+    },
+    {
+      "id": "90s-2-146",
+      "difficulty": 2,
+      "question": "\\\"We're not worthy! We're not worthy!\\\"",
+      "answer": "Wayne's World"
+    },
+    {
+      "id": "90s-2-147",
+      "difficulty": 2,
+      "question": "\\\"Shut up, just shut up. You had me at 'hello'\\\"",
+      "answer": "Jerry Maguire"
+    },
+    {
+      "id": "90s-2-148",
+      "difficulty": 2,
+      "question": "The soundtrack from this movie felt the love tonight (& for 10 weeks)",
+      "answer": "The Lion King"
+    },
+    {
+      "id": "90s-2-149",
+      "difficulty": 2,
+      "question": "The British government returned this \"Stone of Destiny\" to Edinburgh in 1996",
+      "answer": "the Stone of Scone"
+    },
+    {
+      "id": "90s-2-150",
+      "difficulty": 2,
+      "question": "In 1997 he became the U.N.'s first secretary-general from sub-Saharan Africa; in 2012 he tried to make peace in Syria",
+      "answer": "Kofi Annan"
+    },
+    {
+      "id": "90s-2-151",
+      "difficulty": 2,
+      "question": "This Gary, Indiana-born woman had 18 Top 40 hits in the '90s, including \"Escapade\\\"",
+      "answer": "Janet Jackson"
+    },
+    {
+      "id": "90s-2-152",
+      "difficulty": 2,
+      "question": "This 1995 Seal hit appeared on the \"Batman Forever\" soundtrack & won 3 Grammy Awards",
+      "answer": "\\\"Kiss From A Rose\\\""
+    },
+    {
+      "id": "90s-2-153",
+      "difficulty": 2,
+      "question": "Geeks rejoiced when the 95 version of this replaced version 3.1",
+      "answer": "Windows"
+    },
+    {
+      "id": "90s-2-154",
+      "difficulty": 2,
+      "question": "On Space Shuttle mission STS-97, Marc Garneau, this nation's first astronaut in space, operated a giant robotic arm",
+      "answer": "Canada"
+    },
+    {
+      "id": "90s-2-155",
+      "difficulty": 2,
+      "question": "Right Said Fred hit No. 1 with this 3-word title",
+      "answer": "\\\"I'm Too Sexy\\\""
+    },
+    {
+      "id": "90s-2-156",
+      "difficulty": 2,
+      "question": "This debut novel by Charles Frazier was a take on Homer's \"Odyssey\" set during the Civil War",
+      "answer": "Cold Mountain"
+    },
+    {
+      "id": "90s-2-157",
+      "difficulty": 2,
+      "question": "In 1999 this novelist found the time to pick up a Pulitzer Prize for \"The Hours\\\"",
+      "answer": "Michael Cunningham"
+    },
+    {
+      "id": "90s-2-158",
+      "difficulty": 2,
+      "question": "Suzanne Somers squeezed out a small fortune advertising this exercise product in the 1990s; I've still got mine",
+      "answer": "the Thighmaster"
+    },
+    {
+      "id": "90s-2-159",
+      "difficulty": 2,
+      "question": "This global phenomenon featuring a guy in a red & white striped shirt & cap sold 47 million books worldwide",
+      "answer": "Where's Waldo?"
+    },
+    {
+      "id": "90s-2-160",
+      "difficulty": 2,
+      "question": "A young woman's murder in a small Pacific northwest town leads to a mystery",
+      "answer": "Twin Peaks"
+    },
+    {
+      "id": "90s-2-161",
+      "difficulty": 2,
+      "question": "The 1996 crash of this airline's Flight 800 \"broke the calm of a sultry summer evening... along the Long Island shore\\\"",
+      "answer": "TWA"
+    },
+    {
+      "id": "90s-2-162",
+      "difficulty": 2,
+      "question": "(The New York Times reporter James Risen gives the clue.) In 1998 I reported on the deadly al-Qaeda bombings of U.S. embassies in these 2 neighboring African countries, a prelude to the worse attacks to follow",
+      "answer": "Kenya & Tanzania"
+    },
+    {
+      "id": "90s-2-163",
+      "difficulty": 2,
+      "question": "Completes the title of a Notorious B.I.G. hit, \"Mo Money...\\\"",
+      "answer": "\\\"...Mo Problems\\\""
+    },
+    {
+      "id": "90s-2-164",
+      "difficulty": 2,
+      "question": "Sadly, on Jan. 8, 1994, this group played its last-ever U.S. show in its hometown of Seattle",
+      "answer": "Nirvana"
+    },
+    {
+      "id": "90s-2-165",
+      "difficulty": 2,
+      "question": "In 1994 this R&B group's \"I'll Make Love To You\" remained at the top of the charts for 14 straight weeks",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-2-166",
+      "difficulty": 2,
+      "question": "You could say this John Grisham novel featuring Tulane law student Darby Shaw was for the birds",
+      "answer": "The Pelican Brief"
+    },
+    {
+      "id": "90s-2-167",
+      "difficulty": 2,
+      "question": "\\'90s shows based on movies included \"Robocop: The Series\", \"Clueless\" & this pair's \"Excellent Adventures\\\"",
+      "answer": "Bill & Ted"
+    },
+    {
+      "id": "90s-2-168",
+      "difficulty": 2,
+      "question": "Annette O'Toole was Don Johnson's estranged wife on this San Francisco-set police drama",
+      "answer": "Nash Bridges"
+    },
+    {
+      "id": "90s-2-169",
+      "difficulty": 2,
+      "question": "In the 1990s this group spent an amazing 51 weeks at No. 1, beginning with \"End of the Road\", on top for 13 weeks",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-2-170",
+      "difficulty": 2,
+      "question": "Newsweek columnist Joe Klein turned out to be the anonymous author of this political novel",
+      "answer": "Primary Colors"
+    },
+    {
+      "id": "90s-2-171",
+      "difficulty": 2,
+      "question": "She dished on \"The Royals\" & on Nancy Reagan in 2 bestselling unauthorized biographies",
+      "answer": "Kitty Kelley"
+    },
+    {
+      "id": "90s-2-172",
+      "difficulty": 2,
+      "question": "Edina & Patsy, 2 middle-aged British women, self-medicate with booze & drugs",
+      "answer": "Absolutely Fabulous"
+    },
+    {
+      "id": "90s-2-173",
+      "difficulty": 2,
+      "question": "The domestic affairs of the host of a TV show about domestic repairs",
+      "answer": "Home Improvement"
+    },
+    {
+      "id": "90s-2-174",
+      "difficulty": 2,
+      "question": "This daughter of a Czech diplomat made the news on becoming our first female Secretary of State",
+      "answer": "Madeleine Albright"
+    },
+    {
+      "id": "90s-2-175",
+      "difficulty": 2,
+      "question": "In 1999 he wrestled his way into the Minnesota governor's office",
+      "answer": "Jesse Ventura"
+    },
+    {
+      "id": "90s-2-176",
+      "difficulty": 2,
+      "question": "Protests & riots ensued when this group, the WTO, met in Seattle in November 1999",
+      "answer": "the World Trade Organization"
+    },
+    {
+      "id": "90s-2-177",
+      "difficulty": 2,
+      "question": "Dolly, the first clone of an adult mammal, was a Finn Dorset one of these animals",
+      "answer": "a sheep"
+    },
+    {
+      "id": "90s-2-178",
+      "difficulty": 2,
+      "question": "(I'm NASCAR driver A.J. Allmendinger.) Tom Cruise plays Cole Trickle, a yankee who breaks into big-time stock car racing in this 1990 film",
+      "answer": "Days of Thunder"
+    },
+    {
+      "id": "90s-2-179",
+      "difficulty": 2,
+      "question": "In 1996 Woody Harrelson portrayed this publisher & champion of free speech",
+      "answer": "Larry Flynt"
+    },
+    {
+      "id": "90s-2-180",
+      "difficulty": 2,
+      "question": "In 1994 Tess Trueheart served him with divorce papers",
+      "answer": "Dick Tracy"
+    },
+    {
+      "id": "90s-2-181",
+      "difficulty": 2,
+      "question": "In September 1996 Jacquelyn Mitchard's \"The Deep End of the Ocean\" became its first selection",
+      "answer": "Oprah's Book Club"
+    },
+    {
+      "id": "90s-2-182",
+      "difficulty": 2,
+      "question": "This president from New York underwent secret jaw surgeries in 1893 that weren't revealed until 1917",
+      "answer": "Cleveland"
+    },
+    {
+      "id": "90s-2-183",
+      "difficulty": 2,
+      "question": "Her 1991 Super Bowl rendition of \"The Star Spangled Banner\" became a Top 20 hit",
+      "answer": "Whitney Houston"
+    },
+    {
+      "id": "90s-2-184",
+      "difficulty": 2,
+      "question": "This country superstar's \"Friends In Low Places\" was named CMA Single of the Year for 1991",
+      "answer": "Garth Brooks"
+    },
+    {
+      "id": "90s-2-185",
+      "difficulty": 2,
+      "question": "In 2016 at age 25 she got her fourth Academy Award nomination, this time for \"Joy\\\"",
+      "answer": "Jennifer Lawrence"
+    },
+    {
+      "id": "90s-2-186",
+      "difficulty": 2,
+      "question": "To Kevin McCallister: \"You'd feel pretty sad if you woke up tomorrow morning and you didn't have a family\\\"",
+      "answer": "Home Alone"
+    },
+    {
+      "id": "90s-2-187",
+      "difficulty": 2,
+      "question": "\\\"Good morning! Oh, and in case I don't see you, good afternoon, good evening, and good night!\\\"",
+      "answer": "The Truman Show"
+    },
+    {
+      "id": "90s-2-188",
+      "difficulty": 2,
+      "question": "\\\"I'll make love to you, like you want me to, and I'll hold you tight, baby all through the night, I'll make love to you\\\"",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-2-189",
+      "difficulty": 2,
+      "question": "\\\"Hell Freezes Over\" to culminate this band's unlikely reunion in an MTV special",
+      "answer": "The Eagles"
+    },
+    {
+      "id": "90s-2-190",
+      "difficulty": 2,
+      "question": "This HBO crime series received 4 writing nominations in 1999; David Chase & James Manos won the award",
+      "answer": "The Sopranos"
+    },
+    {
+      "id": "90s-2-191",
+      "difficulty": 2,
+      "question": "One meme about this actor who was \"Walker, Texas Ranger\": \"Death once had a near-\" him \"experience\\\"",
+      "answer": "Chuck Norris"
+    },
+    {
+      "id": "90s-2-192",
+      "difficulty": 2,
+      "question": "In an R.E.M. hit, \"That's me in the corner, that's me in the spotlight\" doing this",
+      "answer": "losing my religion"
+    },
+    {
+      "id": "90s-2-193",
+      "difficulty": 2,
+      "question": "The beautifully dangerous Lucky Santangelo takes on Hollywood in this author's novel \"Lady Boss\\\"",
+      "answer": "Jackie Collins"
+    },
+    {
+      "id": "90s-2-194",
+      "difficulty": 2,
+      "question": "Let EMF describe your incredible routine in a single word with this up-tempo 1991 hit; \"The things...you say...you're\" this",
+      "answer": "\\\"Unbelievable\\\""
+    },
+    {
+      "id": "90s-2-195",
+      "difficulty": 2,
+      "question": "You say potato, this veep says spell it with an \"E\" at the end to an 12-year-old speller in 1992",
+      "answer": "Dan Quayle"
+    },
+    {
+      "id": "90s-2-196",
+      "difficulty": 2,
+      "question": "After eluding the FBI for 18 years, Ted Kaczynski, better known by this nickname, was arrested in Montana",
+      "answer": "the Unabomber"
+    },
+    {
+      "id": "90s-2-197",
+      "difficulty": 2,
+      "question": "In her 90s, she played Aunt March in a 2017 TV adaptation of \"Little Women\\\"",
+      "answer": "Angela Lansbury"
+    },
+    {
+      "id": "90s-2-198",
+      "difficulty": 2,
+      "question": "With the death of Lauren Bacall in 2014, the list of stars mentioned in this 1990 Madonna song are all deceased",
+      "answer": "\\\"Vogue\\\""
+    },
+    {
+      "id": "90s-2-199",
+      "difficulty": 2,
+      "question": "On July 15, 1997 this designer was killed outside his Miami Beach mansion, an event remembered in a 2018 TV event",
+      "answer": "Gianni Versace"
+    },
+    {
+      "id": "90s-2-200",
+      "difficulty": 2,
+      "question": "Bringing gifts & astronauts, in 1995 the Space Shuttle Atlantis docked with this Russian space station",
+      "answer": "Mir"
+    },
+    {
+      "id": "90s-2-201",
+      "difficulty": 2,
+      "question": "She was \"Coming Out Of The Dark\" sans Miami Sound Machine in 1991",
+      "answer": "Gloria Estefan"
+    },
+    {
+      "id": "90s-2-202",
+      "difficulty": 2,
+      "question": "Edmond Rostand set this 1897 play about the pursuit of the lovely Roxane in 17th century Paris",
+      "answer": "Cyrano de Bergerac"
+    },
+    {
+      "id": "90s-2-203",
+      "difficulty": 2,
+      "question": "Nearly 6 months after the attack on Nancy Kerrigan, this skater was stripped of her national title & banned from the sport for life",
+      "answer": "Tonya Harding"
+    },
+    {
+      "id": "90s-2-204",
+      "difficulty": 2,
+      "question": "In 1998 this leader fired his entire cabinet, though many would resume their posts",
+      "answer": "Boris Yeltsin"
+    },
+    {
+      "id": "90s-2-205",
+      "difficulty": 2,
+      "question": "No Doubt: \"Take this pink ribbon off my eyes\\\"",
+      "answer": "\\\"Just A Girl\\\""
+    },
+    {
+      "id": "90s-2-206",
+      "difficulty": 2,
+      "question": "John Feinstein gave a behind-the-scenes look at playing this sport professionally in \"A Good Walk Spoiled\\\"",
+      "answer": "golf"
+    },
+    {
+      "id": "90s-2-207",
+      "difficulty": 2,
+      "question": "In February 1991 Operation Desert Storm saw war rage across Iraq & this small, oil-rich emirate",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-2-208",
+      "difficulty": 2,
+      "question": "This trade pact went into effect in January 1994 & by 2008, nearly all tariffs between its 3 participating nations were gone",
+      "answer": "NAFTA"
+    },
+    {
+      "id": "90s-2-209",
+      "difficulty": 2,
+      "question": "\\\"Lt. John Dunbar is about to discover the frontier... within himself\\\"",
+      "answer": "Dances with Wolves"
+    },
+    {
+      "id": "90s-2-210",
+      "difficulty": 2,
+      "question": "A hit by this British group says, \"I smell like I sound, I'm lost & I'm found, & I'm hungry like the wolf\\\"",
+      "answer": "Duran Duran"
+    },
+    {
+      "id": "90s-2-211",
+      "difficulty": 2,
+      "question": "We salute you if you remember that he victoriously led U.S. Forces in the Persian Gulf War",
+      "answer": "(Norman) Schwarzkopf"
+    },
+    {
+      "id": "90s-2-212",
+      "difficulty": 2,
+      "question": "Adlai Stevenson & big fins on cars appear in David Halberstam's '90s book about this earlier decade",
+      "answer": "the '50s"
+    },
+    {
+      "id": "90s-2-213",
+      "difficulty": 2,
+      "question": "\\\"Greed, for lack of a better word, is good\\\"",
+      "answer": "Wall Street"
+    },
+    {
+      "id": "90s-2-214",
+      "difficulty": 2,
+      "question": "\\\"You wanna play rough? Okay, say hello to my little friend\\\"",
+      "answer": "Scarface"
+    },
+    {
+      "id": "90s-2-215",
+      "difficulty": 2,
+      "question": "1992's Grammy-winning Album of the Year: this Brit's \"Unplugged\\\"",
+      "answer": "Clapton"
+    },
+    {
+      "id": "90s-2-216",
+      "difficulty": 2,
+      "question": "\\\"Mellon Collie and the Infinite Sadness\\\"",
+      "answer": "Smashing Pumpkins"
+    },
+    {
+      "id": "90s-2-217",
+      "difficulty": 2,
+      "question": "Ladies love this cool guy who was both \"Doin It\" & \"Loungin\" in 1996",
+      "answer": "LL Cool J"
+    },
+    {
+      "id": "90s-2-218",
+      "difficulty": 2,
+      "question": "In 1992 this vocal group who are always in style sang, \"No, you're never gonna get it\" about \"My Lovin\"\\'",
+      "answer": "En Vogue"
+    },
+    {
+      "id": "90s-2-219",
+      "difficulty": 2,
+      "question": "Character actor J.T. Walsh told a story that made Billy Bob Thornton's Karl very ill at ease in this 1996 film",
+      "answer": "Sling Blade"
+    },
+    {
+      "id": "90s-2-220",
+      "difficulty": 2,
+      "question": "The 1990s saw 2 mob movies co-written by Nicholas Pileggi & directed by Martin Scorsese: \"Goodfellas\" & this Vegas-set one",
+      "answer": "Casino"
+    },
+    {
+      "id": "90s-2-221",
+      "difficulty": 2,
+      "question": "Randy Shilts' critically acclaimed bestseller \"And the Band Played On\" exposed how this was allowed to spread during the 1980s",
+      "answer": "AIDS"
+    },
+    {
+      "id": "90s-2-222",
+      "difficulty": 2,
+      "question": "Sadly, this funny lady passed away in 1989 shortly before her memoir \"It's Always Something\" came out",
+      "answer": "Gilda Radner"
+    },
+    {
+      "id": "90s-2-223",
+      "difficulty": 2,
+      "question": "Ice Cube & Chris Tucker starred in this 1995 comedy that Cube co-wrote with DJ Pooh",
+      "answer": "Friday"
+    },
+    {
+      "id": "90s-2-224",
+      "difficulty": 2,
+      "question": "A boy's best friend is a massive robot in this 1999 animated film based on a Ted Hughes fable",
+      "answer": "The Iron Giant"
+    },
+    {
+      "id": "90s-2-225",
+      "difficulty": 2,
+      "question": "You can spell this word for a type of business with 6 letters or a period & 3 letters",
+      "answer": "dotcom"
+    },
+    {
+      "id": "90s-2-226",
+      "difficulty": 2,
+      "question": "Dedicated to protecting the environment, the Sierra Club was founded in 1892 with this naturalist as its first president",
+      "answer": "Muir"
+    },
+    {
+      "id": "90s-2-227",
+      "difficulty": 2,
+      "question": "In 1897 this author was released from Reading Gaol & went into exile in France",
+      "answer": "Wilde"
+    },
+    {
+      "id": "90s-2-228",
+      "difficulty": 2,
+      "question": "\\\"My Prerogative\" by this singer is noted as a prime example of R&B's new jack swing era",
+      "answer": "Bobby Brown"
+    },
+    {
+      "id": "90s-2-229",
+      "difficulty": 2,
+      "question": "1994's \"Creep\" by this letter-perfect female trio sampled \"Hey Young World\" by Slick Rick",
+      "answer": "TLC"
+    },
+    {
+      "id": "90s-2-230",
+      "difficulty": 2,
+      "question": "Founder Steve Case was the tech tycoon of the moment when this Internet service provider went public in 1992",
+      "answer": "AOL"
+    },
+    {
+      "id": "90s-2-231",
+      "difficulty": 2,
+      "question": "Sadly, on January 8, 1994, this group played its last ever U.S. show, in its hometown of Seattle",
+      "answer": "Nirvana"
+    },
+    {
+      "id": "90s-2-232",
+      "difficulty": 2,
+      "question": "This country superstar's \"Friends In Low Places\" was named CMA Single of the Year in 1991",
+      "answer": "Garth Brooks"
+    },
+    {
+      "id": "90s-2-233",
+      "difficulty": 2,
+      "question": "Michael Jordan is named MVP of the NBA Finals",
+      "answer": "1993 ('91, '92, '96, '97 or '98)"
+    },
+    {
+      "id": "90s-2-234",
+      "difficulty": 2,
+      "question": "This Brit pop group made listeners feel bubbly with the song \"Champagne Supernova\\\"",
+      "answer": "Oasis"
+    },
+    {
+      "id": "90s-2-235",
+      "difficulty": 2,
+      "question": "Clips from the show \"Happy Days\" were used in this band's video for the song \"Buddy Holly\\\"",
+      "answer": "Weezer"
+    },
+    {
+      "id": "90s-2-236",
+      "difficulty": 2,
+      "question": "It didn't end well in 1997 for this cult that believed a flying saucer was following comet Hale-Bopp",
+      "answer": "Heaven's Gate"
+    },
+    {
+      "id": "90s-2-237",
+      "difficulty": 2,
+      "question": "A Special Counsel looked into Pres. Clinton's dealings with this real estate co. founded by the Clintons & the McDougals",
+      "answer": "Whitewater"
+    },
+    {
+      "id": "90s-2-238",
+      "difficulty": 2,
+      "question": "Fred Gwynne's final film appearance came as a frustrated judge in this 1992 comedy",
+      "answer": "My Cousin Vinny"
+    },
+    {
+      "id": "90s-2-239",
+      "difficulty": 2,
+      "question": "It was checkmate for Garry Kasparov, who lost to Deep Blue, made by this company; Garry, I can totally relate",
+      "answer": "IBM"
+    },
+    {
+      "id": "90s-2-240",
+      "difficulty": 2,
+      "question": "Atlanta hosted the 1996 Summer Olympics & built the facility called this Olympic Park as part of the festivities",
+      "answer": "Centennial Olympic Park"
+    },
+    {
+      "id": "90s-2-241",
+      "difficulty": 2,
+      "question": "At the Columbian Exposition in Chicago, Wrigley's introduced Juicy Fruit gum & the Rueckheim brothers, this ballpark snack",
+      "answer": "Cracker Jack"
+    },
+    {
+      "id": "90s-2-242",
+      "difficulty": 2,
+      "question": "In 1895 President Cleveland asked citizens to refrain from giving aid to this island's rebels fighting against Spain",
+      "answer": "Cuba"
+    },
+    {
+      "id": "90s-2-243",
+      "difficulty": 2,
+      "question": "Competing booksellers Joe Fox & Kathleen Kelly",
+      "answer": "You've Got Mail"
+    },
+    {
+      "id": "90s-2-244",
+      "difficulty": 2,
+      "question": "Robin Williams as Peter Banning & Julia Roberts as Tinkerbell",
+      "answer": "Hook"
+    },
+    {
+      "id": "90s-2-245",
+      "difficulty": 2,
+      "question": "SinÃ©ad O'Connor's \"Nothing Compares 2 U\" was written by him",
+      "answer": "Prince"
+    },
+    {
+      "id": "90s-3-1",
+      "difficulty": 3,
+      "question": "Pianist/composer discovered while playing rag in 1899 at the Maple Leaf Club in Sedalia, Mo.",
+      "answer": "(Scott) Joplin"
+    },
+    {
+      "id": "90s-3-2",
+      "difficulty": 3,
+      "question": "In 1893, this 79-year-old composer's last opera, \"Falstaff\", premiered in Milan",
+      "answer": "(Giuseppe) Verdi"
+    },
+    {
+      "id": "90s-3-3",
+      "difficulty": 3,
+      "question": "This city was capital of the United States 1790-1800",
+      "answer": "Philadelphia"
+    },
+    {
+      "id": "90s-3-4",
+      "difficulty": 3,
+      "question": "In Sept. 1991 this writer emerged from hiding to accept an award for \"Haroun and the Sea of Stories\\\"",
+      "answer": "(Salman) Rushdie"
+    },
+    {
+      "id": "90s-3-5",
+      "difficulty": 3,
+      "question": "In 1892 the cornerstone for this NYC cathedral was laid on Dec. 27, its patron saint's feast day",
+      "answer": "St. John the Divine"
+    },
+    {
+      "id": "90s-3-6",
+      "difficulty": 3,
+      "question": "Harold Prince directed the musical \"The Petrified Prince\", based on a script by this Swedish director",
+      "answer": "(Ingmar) Bergman"
+    },
+    {
+      "id": "90s-3-7",
+      "difficulty": 3,
+      "question": "This 1598 edict allowed French Protestants to hold government office",
+      "answer": "the Edict of Nantes"
+    },
+    {
+      "id": "90s-3-8",
+      "difficulty": 3,
+      "question": "Betty J. Eadie touched many lives with this 1992 mega-bestseller about her near-death experience",
+      "answer": "\\\"Embraced By The Light\\\""
+    },
+    {
+      "id": "90s-3-9",
+      "difficulty": 3,
+      "question": "In 1690s England Thomas Shadwell & Nahum Tate held this post currently held by Ted Hughes",
+      "answer": "Poet Laureate"
+    },
+    {
+      "id": "90s-3-10",
+      "difficulty": 3,
+      "question": "This sitcom actress, needing a \"friend\", invents a new beau in 1997's \"Picture Perfect\\\"",
+      "answer": "Jennifer Aniston"
+    },
+    {
+      "id": "90s-3-11",
+      "difficulty": 3,
+      "question": "Edward Acheson failed when he tried to form these, but he did create carborundum",
+      "answer": "Diamonds"
+    },
+    {
+      "id": "90s-3-12",
+      "difficulty": 3,
+      "question": "In this band's \"Only Happy When It Rains\", Shirley Manson sings, \"It Feels So Good To Feel So Sad\\\"",
+      "answer": "Garbage"
+    },
+    {
+      "id": "90s-3-13",
+      "difficulty": 3,
+      "question": "They were the first black mayors of Detroit & Los Angeles",
+      "answer": "Coleman Young & Tom Bradley"
+    },
+    {
+      "id": "90s-3-14",
+      "difficulty": 3,
+      "question": "This \"Magnificent\" tyrant of Florence & patron of the arts died in April 1492",
+      "answer": "Lorenzo de Medici"
+    },
+    {
+      "id": "90s-3-15",
+      "difficulty": 3,
+      "question": "Writing credits for this film went to Jane Austen & Emma Thompson",
+      "answer": "Sense and Sensibility"
+    },
+    {
+      "id": "90s-3-16",
+      "difficulty": 3,
+      "question": "In this 1990 film Robin Williams played a doctor who was able to rouse a group of catatonic patients",
+      "answer": "Awakenings"
+    },
+    {
+      "id": "90s-3-17",
+      "difficulty": 3,
+      "question": "In 1899 Wilbur Wright asked this museum complex for any info on flying; they sent him some pamphlets",
+      "answer": "the Smithsonian"
+    },
+    {
+      "id": "90s-3-18",
+      "difficulty": 3,
+      "question": "(Sofia of the Clue Crew at Central Park.) This 1999 film about a boy-like mouse featured an exciting boat race set here at the Conservatory Water in Central Park",
+      "answer": "Stuart Little"
+    },
+    {
+      "id": "90s-3-19",
+      "difficulty": 3,
+      "question": "(Hi, I'm Eric Idle of Monty Python.) Jack Nicholson sang my song \"Always Look on the Bright Side of Life\" to a dog in this 1997 Oscar-winning film",
+      "answer": "As Good as It Gets"
+    },
+    {
+      "id": "90s-3-20",
+      "difficulty": 3,
+      "question": "In the 1490s he produced his first big statue; no, not David, it was of a drunken roman wine god",
+      "answer": "Michelangelo"
+    },
+    {
+      "id": "90s-3-21",
+      "difficulty": 3,
+      "question": "This heartthrob singer broke through with the 1991 hit \"Wicked Game\\\"",
+      "answer": "Chris Isaak"
+    },
+    {
+      "id": "90s-3-22",
+      "difficulty": 3,
+      "question": "1996: \"Shut up. Just shut up. You had me at 'Hello'\\\"",
+      "answer": "Jerry Maguire"
+    },
+    {
+      "id": "90s-3-23",
+      "difficulty": 3,
+      "question": "The Persian Gulf War of 1991 was fought mainly in Iraq & this oil-rich nation next door",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-3-24",
+      "difficulty": 3,
+      "question": "Born Louis Eugene Walcott, he led a million man march in Washington, D.C. in 1995",
+      "answer": "Louis Farrakhan"
+    },
+    {
+      "id": "90s-3-25",
+      "difficulty": 3,
+      "question": "In 1898, when this battleship blew up, Llewellyn Powers was governing the state of the same name",
+      "answer": "Maine"
+    },
+    {
+      "id": "90s-3-26",
+      "difficulty": 3,
+      "question": "Relationship of Lizzie Borden to the woman she was acquitted of killing",
+      "answer": "stepdaughter"
+    },
+    {
+      "id": "90s-3-27",
+      "difficulty": 3,
+      "question": "Many of the scenes in this Brad Pitt film were shot at the Stoney Indian Reserve near Calgary, Canada",
+      "answer": "Legends of the Fall"
+    },
+    {
+      "id": "90s-3-28",
+      "difficulty": 3,
+      "question": "\\\"Somebody said get a life... so they did\" was the tagline for this Susan Sarandon/Geena Davis film",
+      "answer": "Thelma & Louise"
+    },
+    {
+      "id": "90s-3-29",
+      "difficulty": 3,
+      "question": "This central character in \"Clueless\" shares her name with an entertainer",
+      "answer": "Cher"
+    },
+    {
+      "id": "90s-3-30",
+      "difficulty": 3,
+      "question": "In 1992 Ron Carey, an ex-UPS driver, was elected president of this organization in its first secret ballot",
+      "answer": "the Teamsters Union"
+    },
+    {
+      "id": "90s-3-31",
+      "difficulty": 3,
+      "question": "Called \"Hill Street Blues\" with singing, this show from Steven Bochco lasted 3 months in 1990",
+      "answer": "Cop Rock"
+    },
+    {
+      "id": "90s-3-32",
+      "difficulty": 3,
+      "question": "Queen Elizabeth II & Francois Mitterrand appeared together at the opening of this on May 6, 1994",
+      "answer": "the opening of the \"Chunnel\" (the Channel tunnel)"
+    },
+    {
+      "id": "90s-3-33",
+      "difficulty": 3,
+      "question": "It completes the title of Rod Stewart's 1993 \"live\" MTV album \"Unplugged...\\\"",
+      "answer": "and Seated"
+    },
+    {
+      "id": "90s-3-34",
+      "difficulty": 3,
+      "question": "It's no mysteryâ€”this Canadian woman made her Top 40 debut in 1997 with \"Building A Mystery\\\"",
+      "answer": "Sarah McLachlan"
+    },
+    {
+      "id": "90s-3-35",
+      "difficulty": 3,
+      "question": "Michael Jordan is named MVP of the NBA finals",
+      "answer": "(Any 1 of) 1991, '92, '93, '97, '96, '98"
+    },
+    {
+      "id": "90s-3-36",
+      "difficulty": 3,
+      "question": "In 1990, 100 years after this artist's suicide, medical researchers said that he may have suffered from Meniere's disease",
+      "answer": "van Gogh"
+    },
+    {
+      "id": "90s-3-37",
+      "difficulty": 3,
+      "question": "It's O.K. to ask Allison Janney if she's seen Howard Stern's theseâ€”she was in the 1997 film with that title",
+      "answer": "Private Parts"
+    },
+    {
+      "id": "90s-3-38",
+      "difficulty": 3,
+      "question": "After a bitter confirmation hearing, this man took over for retiring justice Thurgood Marshall",
+      "answer": "Clarence Thomas"
+    },
+    {
+      "id": "90s-3-39",
+      "difficulty": 3,
+      "question": "With tracks like \"Sabotage\" & \"B-Boys Makin' With The Freak Freak\", a 1994 album by this rap group went to No. 1",
+      "answer": "The Beastie Boys"
+    },
+    {
+      "id": "90s-3-40",
+      "difficulty": 3,
+      "question": "(I'm Miguel Ferrer.) On this '90s TV series I played an FBI agent who helped Kyle MacLachlan investigate the murder of Laura Palmer",
+      "answer": "Twin Peaks"
+    },
+    {
+      "id": "90s-3-41",
+      "difficulty": 3,
+      "question": "His \"Black Album\" was heavily bootlegged before its official release in 1994",
+      "answer": "Prince"
+    },
+    {
+      "id": "90s-3-42",
+      "difficulty": 3,
+      "question": "Partying like it was February of 1999, Hugo Chavez became President of this country",
+      "answer": "Venezuela"
+    },
+    {
+      "id": "90s-3-43",
+      "difficulty": 3,
+      "question": "(Hi, I'm Rob Morrow.) I played the real-life character Dick Goodwin, who exposes hanky-panky on the TV program \"Twenty-One\" in this film",
+      "answer": "Quiz Show"
+    },
+    {
+      "id": "90s-3-44",
+      "difficulty": 3,
+      "question": "This king's warriors said \"Aloha\" to a rival chief's men by driving them off a cliff in Oahu in 1795",
+      "answer": "Kamehameha"
+    },
+    {
+      "id": "90s-3-45",
+      "difficulty": 3,
+      "question": "In 1992 it was hardly the \"End Of The Road\" for this group, whose hit spent 13 weeks at No. 1",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-3-46",
+      "difficulty": 3,
+      "question": "A film of this president reviewing troops was shot in Pittsburgh on August 28, 1899; he was shot in 1901",
+      "answer": "McKinley"
+    },
+    {
+      "id": "90s-3-47",
+      "difficulty": 3,
+      "question": "1992: \"This Used To Be My Playground\\\"",
+      "answer": "Madonna"
+    },
+    {
+      "id": "90s-3-48",
+      "difficulty": 3,
+      "question": "Americans say \"the whole enchilada\"; Brits say this, a Best Picture Oscar nominee from 1997",
+      "answer": "The Full Monty"
+    },
+    {
+      "id": "90s-3-49",
+      "difficulty": 3,
+      "question": "This \"metallic\" woman had 3 bestsellers in the top 10 for 1997: \"The Ghost\", \"The Ranch\" & \"Special Delivery\\\"",
+      "answer": "Danielle Steel"
+    },
+    {
+      "id": "90s-3-50",
+      "difficulty": 3,
+      "question": "In WWII Italy burned Hungarian count tells of his North African tragic love",
+      "answer": "The English Patient"
+    },
+    {
+      "id": "90s-3-51",
+      "difficulty": 3,
+      "question": "1993: \"Dreamlover\" & \"Hero\\\"",
+      "answer": "Mariah Carey"
+    },
+    {
+      "id": "90s-3-52",
+      "difficulty": 3,
+      "question": "In 1996, for the first time since 1992, this city & 5 suburbs were united under the Bosnian government",
+      "answer": "Sarajevo"
+    },
+    {
+      "id": "90s-3-53",
+      "difficulty": 3,
+      "question": "In 1997 the Chinese govt. announced privatizations as part of the legacy of this leader who died that February",
+      "answer": "Deng Xiaoping"
+    },
+    {
+      "id": "90s-3-54",
+      "difficulty": 3,
+      "question": "Roma Downey was the heavenly title character & Della Reese her supervisor on this CBS drama",
+      "answer": "Touched by an Angel"
+    },
+    {
+      "id": "90s-3-55",
+      "difficulty": 3,
+      "question": "In 1793 this Irish college allowed Catholics to study for degrees for the first time",
+      "answer": "Trinity College"
+    },
+    {
+      "id": "90s-3-56",
+      "difficulty": 3,
+      "question": "The title character loses 72 pounds (but gains 74) during the year recorded in this Helen Fielding novel",
+      "answer": "Bridget Jones's Diary"
+    },
+    {
+      "id": "90s-3-57",
+      "difficulty": 3,
+      "question": "On June 2, 1899 Butch Cassidy & this gang, also a 1969 movie title, robbed their first train near Wilcox, Wyoming",
+      "answer": "the Wild Bunch"
+    },
+    {
+      "id": "90s-3-58",
+      "difficulty": 3,
+      "question": "\\\"Let us have pirates, clowns and a happy ending, or we shall send you back to Stratford to your wife\\\"",
+      "answer": "Shakespeare in Love"
+    },
+    {
+      "id": "90s-3-59",
+      "difficulty": 3,
+      "question": "This Seattle band was \"Unplugged in New York\"; cuts included \"Lake Of Fire\\\"",
+      "answer": "Nirvana"
+    },
+    {
+      "id": "90s-3-60",
+      "difficulty": 3,
+      "question": "A 51-day standoff between the feds & Branch Davidians took place in 1993 near this seat of McLennan County, Texas",
+      "answer": "Waco"
+    },
+    {
+      "id": "90s-3-61",
+      "difficulty": 3,
+      "question": "\\\"My conversation has run dry, that's what's going on, nothing's fine I'm\" this Natalie Imbruglia adjective",
+      "answer": "torn"
+    },
+    {
+      "id": "90s-3-62",
+      "difficulty": 3,
+      "question": "In 1998 Aerosmith had its first No. 1 single with this hit that begins, \"I could stay awake just to hear you breathing\\\"",
+      "answer": "\\\"I Don't Want To Miss A Thing\\\""
+    },
+    {
+      "id": "90s-3-63",
+      "difficulty": 3,
+      "question": "Manufactured between 1941 & 1996, the full-sized \"98\" was the flagship model of this General Motors division",
+      "answer": "Oldsmobile"
+    },
+    {
+      "id": "90s-3-64",
+      "difficulty": 3,
+      "question": "\\\"I'd Do Anything For Love (But I Won't Do That)\" by this singer was tops for 5 weeks in 1993",
+      "answer": "Meat Loaf"
+    },
+    {
+      "id": "90s-3-65",
+      "difficulty": 3,
+      "question": "Roddy Doyle's bestseller about a young Irish lad growing up in the '60s is called this boy \"Ha Ha Ha\\\"",
+      "answer": "Paddy Clarke"
+    },
+    {
+      "id": "90s-3-66",
+      "difficulty": 3,
+      "question": "Infomercials helped popularize this martial arts-based workout with a Korean-derived name",
+      "answer": "Tae Bo"
+    },
+    {
+      "id": "90s-3-67",
+      "difficulty": 3,
+      "question": "A free-spirited yoga instructor marries a conservative attorney on their first date",
+      "answer": "Dharma & Greg"
+    },
+    {
+      "id": "90s-3-68",
+      "difficulty": 3,
+      "question": "\\\"Accord Reached to End the War in Bosnia\" in a 1995 story datelined this Midwest U.S. city",
+      "answer": "Dayton"
+    },
+    {
+      "id": "90s-3-69",
+      "difficulty": 3,
+      "question": "Shock-G taught us the moves of this digital underground \"dance\\\"",
+      "answer": "\\\"The Humpty Dance\\\""
+    },
+    {
+      "id": "90s-3-70",
+      "difficulty": 3,
+      "question": "It was \"good\" listening to this New Orleans rock trio in 1995; no, it was more than good, it was...",
+      "answer": "Better Than Ezra"
+    },
+    {
+      "id": "90s-3-71",
+      "difficulty": 3,
+      "question": "In 1993 James Patterson came along with his first Alex Cross novel, \"Along Came\" this",
+      "answer": "a Spider"
+    },
+    {
+      "id": "90s-3-72",
+      "difficulty": 3,
+      "question": "Just between you & me, CBS had us \"Eye to Eye with\" this woman on a Thursday night newsmagazine from 1993 to 1995",
+      "answer": "Connie Chung"
+    },
+    {
+      "id": "90s-3-73",
+      "difficulty": 3,
+      "question": "This Eurythmics singer won a 1992 Grammy for Best Music Video Long Form for her album \"Diva\\\"",
+      "answer": "Annie Lennox"
+    },
+    {
+      "id": "90s-3-74",
+      "difficulty": 3,
+      "question": "\\\"Honor Among Thieves\" was a political thriller by this bestselling author & onetime member of the British Parliament",
+      "answer": "(Jeffrey) Archer"
+    },
+    {
+      "id": "90s-3-75",
+      "difficulty": 3,
+      "question": "A kid remembers growing up in the turbulent late '60s & early '70s",
+      "answer": "The Wonder Years"
+    },
+    {
+      "id": "90s-3-76",
+      "difficulty": 3,
+      "question": "Ironically, it was during a peace rally that this Israeli prime minister was shot & killed",
+      "answer": "Yitzhak Rabin"
+    },
+    {
+      "id": "90s-3-77",
+      "difficulty": 3,
+      "question": "About $25 billion in damage to Florida was the bill from this Atlantic hurricane, the first named one of 1992",
+      "answer": "Andrew"
+    },
+    {
+      "id": "90s-3-78",
+      "difficulty": 3,
+      "question": "They're the title objects that split Gwyneth Paltrow's life in two",
+      "answer": "Sliding Doors"
+    },
+    {
+      "id": "90s-3-79",
+      "difficulty": 3,
+      "question": "The \"original 9\" of these to hit store shelves included Patti the Platypus & Squealer the Pig",
+      "answer": "Beanie Babies"
+    },
+    {
+      "id": "90s-3-80",
+      "difficulty": 3,
+      "question": "Showcasing the West, the 1898 expo called Trans- this river drew 2.5 million visitors to Omaha",
+      "answer": "the Mississippi"
+    },
+    {
+      "id": "90s-3-81",
+      "difficulty": 3,
+      "question": "This Seattle band's 1991 debut album was titled \"Ten\" for the uniform number of NBA player Mookie Blaylock",
+      "answer": "Pearl Jam"
+    },
+    {
+      "id": "90s-3-82",
+      "difficulty": 3,
+      "question": "In July 2014 her sweet 16 celebrations included a Pitbull concert on the South Lawn of the White House",
+      "answer": "Malia Obama"
+    },
+    {
+      "id": "90s-3-83",
+      "difficulty": 3,
+      "question": "\\\"It's amazing, Molly. The love inside, you take it with you\\\"",
+      "answer": "Ghost"
+    },
+    {
+      "id": "90s-3-84",
+      "difficulty": 3,
+      "question": "First, a hintt, & nowâ€”\"Don't be shy girl, rescue me, I wanna sex you up, open up your heart & I'll set you free\\\"",
+      "answer": "Color Me Badd"
+    },
+    {
+      "id": "90s-3-85",
+      "difficulty": 3,
+      "question": "He returnedâ€”& then left?â€”with \"Bat Out Of Hell II: Back Into Hell\\\"",
+      "answer": "Meat Loaf"
+    },
+    {
+      "id": "90s-3-86",
+      "difficulty": 3,
+      "question": "Gillian Anderson received 4 straight nominations for playing this character, winning in 1997",
+      "answer": "(Dana) Scully"
+    },
+    {
+      "id": "90s-3-87",
+      "difficulty": 3,
+      "question": "This sitcom aired the office politics & interpersonal relationships at Station WNYX",
+      "answer": "NewsRadio"
+    },
+    {
+      "id": "90s-3-88",
+      "difficulty": 3,
+      "question": "In 1996 she was No. 1 on the hit parade with \"Because You Loved Me\\\"",
+      "answer": "Celine Dion"
+    },
+    {
+      "id": "90s-3-89",
+      "difficulty": 3,
+      "question": "Cover any falls with \"I get knocked down, but I get up again you're never gonna keep me down!\" by this rhyming-name band",
+      "answer": "Chumbawamba"
+    },
+    {
+      "id": "90s-3-90",
+      "difficulty": 3,
+      "question": "A.P. journalist Terry Anderson was freed in 1991 after 2,454 days as a hostage of Hezbollah in this country",
+      "answer": "Lebanon"
+    },
+    {
+      "id": "90s-3-91",
+      "difficulty": 3,
+      "question": "His \"Power of Positive Thinking\" & \"Positive Living\" helped this minister & author live to the age of 95",
+      "answer": "(Norman Vincent) Peale"
+    },
+    {
+      "id": "90s-3-92",
+      "difficulty": 3,
+      "question": "\\\"If It Makes You Happy\" & \"My Favorite Mistake\" were 2 of her '90s hits",
+      "answer": "Sheryl Crow"
+    },
+    {
+      "id": "90s-3-93",
+      "difficulty": 3,
+      "question": "In the late '90s, this toy from Bandai helped you attempt adulting by raising a digital pet",
+      "answer": "Tamagotchi"
+    },
+    {
+      "id": "90s-3-94",
+      "difficulty": 3,
+      "question": "In 1995 this female trio was chasing \"Waterfalls\\\"",
+      "answer": "TLC"
+    },
+    {
+      "id": "90s-3-95",
+      "difficulty": 3,
+      "question": "A collection of this controversial German philosopher's thoughts & essays was titled \"The Anti-Christ\\\"",
+      "answer": "Nietzsche"
+    },
+    {
+      "id": "90s-3-96",
+      "difficulty": 3,
+      "question": "U.S. Diplomat Richard Holbrooke is best remembered for brokering the Balkan Peace Accords named for this Ohio city",
+      "answer": "the Dayton Accords"
+    },
+    {
+      "id": "90s-3-97",
+      "difficulty": 3,
+      "question": "Mariah Carey: \"I feel good, I feel nice, I've never felt so satisfied\\\"",
+      "answer": "\\\"Emotions\\\""
+    },
+    {
+      "id": "90s-3-98",
+      "difficulty": 3,
+      "question": "Terry McMillan could breathe a sigh of relief after this 1992 novel made its way up the charts",
+      "answer": "Waiting to Exhale"
+    },
+    {
+      "id": "90s-3-99",
+      "difficulty": 3,
+      "question": "In 1990 this Soviet president won the Nobel Peace Prize but a year later, he said peace out & quit his job",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "id": "90s-3-100",
+      "difficulty": 3,
+      "question": "Set in the 16th century: \"A comedy about the greatest love story almost never told\\\"",
+      "answer": "Shakespeare in Love"
+    },
+    {
+      "id": "90s-3-101",
+      "difficulty": 3,
+      "question": "This pop star who passed away in 2020 had his first No. 1 hit in 1980 with \"Lady\", written by Lionel Richie",
+      "answer": "Kenny Rogers"
+    },
+    {
+      "id": "90s-3-102",
+      "difficulty": 3,
+      "question": "This Michigan M.D. defended himself at his fifth trial, in 1999; conviction for second-degree murder ensued",
+      "answer": "Dr. Kevorkian"
+    },
+    {
+      "id": "90s-3-103",
+      "difficulty": 3,
+      "question": "Deepak Chopra became a household name after publishing \"Ageless Body, Timeless\" this",
+      "answer": "Mind"
+    },
+    {
+      "id": "90s-3-104",
+      "difficulty": 3,
+      "question": "\\\"You may keep one of your children. The other one must go\\\"",
+      "answer": "Sophie's Choice"
+    },
+    {
+      "id": "90s-3-105",
+      "difficulty": 3,
+      "question": "\\\"Vitalogy\", featuring \"Better Man\\\"",
+      "answer": "Pearl Jam"
+    },
+    {
+      "id": "90s-3-106",
+      "difficulty": 3,
+      "question": "\\\"I'm kinda buzzed & it's all because\" of this Montell Jordan No. 1 R&B hit; we also learned \"South Central does it like nobody does\\\"",
+      "answer": "\\\"This Is How We Do It\\\""
+    },
+    {
+      "id": "90s-3-107",
+      "difficulty": 3,
+      "question": "Kat & Bianca Stratford attend Padua High School in this 1999 film loosely based on \"The Taming of the Shrew\\\"",
+      "answer": "10 Things I Hate About You"
+    },
+    {
+      "id": "90s-3-108",
+      "difficulty": 3,
+      "question": "In 1992 John Gray published this out-of-this-world guide to understanding the opposite sex",
+      "answer": "Men Are from Mars, Women Are from Venus"
+    },
+    {
+      "id": "90s-3-109",
+      "difficulty": 3,
+      "question": "A poster for this film claimed, \"In October of 1994 three student filmmakers disappeared in the woods...\\\"",
+      "answer": "The Blair Witch Project"
+    },
+    {
+      "id": "90s-3-110",
+      "difficulty": 3,
+      "question": "In 1992 Vanity Fair asked if Kurt & Courtney were the John & Yoko of this",
+      "answer": "grunge"
+    },
+    {
+      "id": "90s-3-111",
+      "difficulty": 3,
+      "question": "Returning after a 1,500-year break, these opened April 6, 1896",
+      "answer": "the (Modern) Olympic Games"
+    },
+    {
+      "id": "90s-3-112",
+      "difficulty": 3,
+      "question": "eonline.com said the '80s video for \"Hello\" was \"super, super creepy\", as this singer was \"basically stalking\" a blind woman",
+      "answer": "Lionel Richie"
+    },
+    {
+      "id": "90s-3-113",
+      "difficulty": 3,
+      "question": "Games for this alphanumeric console included '90s classics like \"GoldenEye\" & \"Banjo-Kazooie\\\"",
+      "answer": "the N64"
+    },
+    {
+      "id": "90s-3-114",
+      "difficulty": 3,
+      "question": "He won a 3-way race for party leadership & became prime minister of Great Britain in 1990",
+      "answer": "John Major"
+    },
+    {
+      "id": "90s-3-115",
+      "difficulty": 3,
+      "question": "Oasis sang, \"Because maybe, you're gonna be the one that saves me, & after all, you're my\" this",
+      "answer": "wonderwall"
+    },
+    {
+      "id": "90s-3-116",
+      "difficulty": 3,
+      "question": "This Seattle band's 1991 debut album was titled \"Ten\" for the uniform number of NBA player Mookie Blaylock",
+      "answer": "Pearl Jam"
+    },
+    {
+      "id": "90s-3-117",
+      "difficulty": 3,
+      "question": "Iraq invades Kuwait",
+      "answer": "1990"
+    },
+    {
+      "id": "90s-3-118",
+      "difficulty": 3,
+      "question": "This Red Hot Chili Peppers tune implores, \"Take me to the place I love, take me all the way\\\"",
+      "answer": "\\\"Under The Bridge\\\""
+    },
+    {
+      "id": "90s-3-119",
+      "difficulty": 3,
+      "question": "This republic joined Serbia to fight against the secession of Slovenia & Croatia",
+      "answer": "Montenegro"
+    },
+    {
+      "id": "90s-3-120",
+      "difficulty": 3,
+      "question": "Raul Julia & Anjelica Huston got a hand playing a loving couple in this 1991 flick",
+      "answer": "The Addams Family"
+    },
+    {
+      "id": "90s-3-121",
+      "difficulty": 3,
+      "question": "This Texas city was in the news in 1993 for a raid on a nearby compound; in 2023 Donald Trump held his first campaign rally there",
+      "answer": "Waco"
+    },
+    {
+      "id": "90s-3-122",
+      "difficulty": 3,
+      "question": "In 1895 Eugene Debs went to prison for his part in the Pullman Strike, though this man was his attorney",
+      "answer": "Darrow"
+    },
+    {
+      "id": "90s-3-123",
+      "difficulty": 3,
+      "question": "Matthew Broderick as Steven Kovacs & Jim Carrey as a technician",
+      "answer": "The Cable Guy"
+    },
+    {
+      "id": "90s-3-124",
+      "difficulty": 3,
+      "question": "This Savage Garden hit is sometimes called \"TMD\" for short",
+      "answer": "\\\"Truly Madly Deeply\\\""
+    },
+    {
+      "id": "90s-4-1",
+      "difficulty": 4,
+      "question": "In 1897 3 Swedes (partly funded by Alfred Nobel) tried to reach this point on Earth by balloon â€” they died",
+      "answer": "the North Pole"
+    },
+    {
+      "id": "90s-4-2",
+      "difficulty": 4,
+      "question": "The title of this 1999 film is a translation of the Bond family motto, \"Orbis non sufficit\\\"",
+      "answer": "The World is Not Enough"
+    },
+    {
+      "id": "90s-4-3",
+      "difficulty": 4,
+      "question": "Bob Barker beats the heck out of Adam Sandler in this golf comedy favorite from 1996",
+      "answer": "Happy Gilmore"
+    },
+    {
+      "id": "90s-4-4",
+      "difficulty": 4,
+      "question": "In an NFL playoff game, Frank Reich, replacing Jim Kelly, led this team from a 35-3 deficit to victory",
+      "answer": "the Buffalo Bills"
+    },
+    {
+      "id": "90s-4-5",
+      "difficulty": 4,
+      "question": "Created in 1891, Colorado's fir- & spruce-filled White River region was the first of the U.S. areas now called these",
+      "answer": "national forests"
+    },
+    {
+      "id": "90s-4-6",
+      "difficulty": 4,
+      "question": "In this flaky comedy, Anthony Hopkins played cereal king Dr. John Harvey Kellogg",
+      "answer": "The Road to Wellville"
+    },
+    {
+      "id": "90s-4-7",
+      "difficulty": 4,
+      "question": "The cop who gets Van Goghed in this film has a name, Marvin Nash",
+      "answer": "Reservoir Dogs"
+    },
+    {
+      "id": "90s-4-8",
+      "difficulty": 4,
+      "question": "This artist, who began with wrapping bottles & a tree, wrapped the old German Parliament building in 1995",
+      "answer": "Christo"
+    },
+    {
+      "id": "90s-4-9",
+      "difficulty": 4,
+      "question": "This sitcom was set primarily at an airfield on Nantucket",
+      "answer": "Wings"
+    },
+    {
+      "id": "90s-4-10",
+      "difficulty": 4,
+      "question": "Iraq invades Kuwait",
+      "answer": "1990"
+    },
+    {
+      "id": "90s-4-11",
+      "difficulty": 4,
+      "question": "Tim Curry & Daryl Hannah were \"altogether ooky\" as this morbid TV duo in a direct-to-video \"reunion\" film",
+      "answer": "Gomez & Morticia Addams"
+    },
+    {
+      "id": "90s-4-12",
+      "difficulty": 4,
+      "question": "In 1994 Boris Yeltsin had his Russian forces invade this breakaway republic",
+      "answer": "Chechnya"
+    },
+    {
+      "id": "90s-4-13",
+      "difficulty": 4,
+      "question": "This sitcom debuted on Fox in August, 1998, 22 years after its setting",
+      "answer": "That '70s Show"
+    },
+    {
+      "id": "90s-4-14",
+      "difficulty": 4,
+      "question": "He played the sax solo on Whitney Houston's \"All The Man That I Need\"; he's also had Top 40 hits on his own",
+      "answer": "Kenny G"
+    },
+    {
+      "id": "90s-4-15",
+      "difficulty": 4,
+      "question": "On Jan. 1, 1993 2 new European nations were formed from the split of this suddenly ex-country",
+      "answer": "Czechoslovakia"
+    },
+    {
+      "id": "90s-4-16",
+      "difficulty": 4,
+      "question": "We had to mention this movie in which Ashley Judd turns being framed for murder to her advantage",
+      "answer": "Double Jeopardy"
+    },
+    {
+      "id": "90s-4-17",
+      "difficulty": 4,
+      "question": "1899's \"Frank Melville's Trick\" one of these circus animals shows the title creature stepping over 2 ponies",
+      "answer": "an elephant"
+    },
+    {
+      "id": "90s-4-18",
+      "difficulty": 4,
+      "question": "1991: \"(Everything I Do) I Do It For You\"â€”he's a nice Canadian fella, don'tcha know",
+      "answer": "Bryan Adams"
+    },
+    {
+      "id": "90s-4-19",
+      "difficulty": 4,
+      "question": "This 1996 Geena Davis action title can be a euphemism for death (Hint: In the film, she puts her past life to bed)",
+      "answer": "The Long Kiss Goodnight"
+    },
+    {
+      "id": "90s-4-20",
+      "difficulty": 4,
+      "question": "Union officer goes native, seeks/kills buffalo",
+      "answer": "Dances with Wolves"
+    },
+    {
+      "id": "90s-4-21",
+      "difficulty": 4,
+      "question": "1990: \"I'm Your Baby Tonight\\\"",
+      "answer": "Whitney Houston"
+    },
+    {
+      "id": "90s-4-22",
+      "difficulty": 4,
+      "question": "Anne Rice cast a spell on readers with her saga of the Mayfair family begun in this \"timely\" 1990 novel",
+      "answer": "The Witching Hour"
+    },
+    {
+      "id": "90s-4-23",
+      "difficulty": 4,
+      "question": "Not afraid to re-dip in previous success, he topped the chart with \"Bat out of Hell II: Back Into Hell\\\"",
+      "answer": "Meat Loaf"
+    },
+    {
+      "id": "90s-4-24",
+      "difficulty": 4,
+      "question": "\\\"Ants Marching\" & \"Satellite\" were '90s signature tunes from this group",
+      "answer": "DMB (Dave Matthews Band)"
+    },
+    {
+      "id": "90s-4-25",
+      "difficulty": 4,
+      "question": "This Rob Thomas group's hit \"Push\" provoked the ire of women's advocacy groups for its lyrics",
+      "answer": "Matchbox 20"
+    },
+    {
+      "id": "90s-4-26",
+      "difficulty": 4,
+      "question": "The record co. wanted to lose the vocal effect as she sang, \"Do You Believe In Life After Love?\"; she said no & hit No. 1",
+      "answer": "Cher"
+    },
+    {
+      "id": "90s-4-27",
+      "difficulty": 4,
+      "question": "Staffers must stop the dimwitted mayor of NYC from making a fool of himself",
+      "answer": "Spin City"
+    },
+    {
+      "id": "90s-4-28",
+      "difficulty": 4,
+      "question": "\\\"Go Hammer, MC Hammer\", is in the tune with this 4-word title",
+      "answer": "\\\"U Can't Touch This\\\""
+    },
+    {
+      "id": "90s-4-29",
+      "difficulty": 4,
+      "question": "This bestseller by Barbara Kingsolver follows a missionary & his family in the Belgian Congo",
+      "answer": "The Poisonwood Bible"
+    },
+    {
+      "id": "90s-4-30",
+      "difficulty": 4,
+      "question": "Los Del Rio took this dance hit-slash-craze to No. 1 (for 14 weeks!); Heeeeey...! this",
+      "answer": "\\\"Macarena\\\""
+    },
+    {
+      "id": "90s-4-31",
+      "difficulty": 4,
+      "question": "In 1892, this firm's detectives were management muscle during a strike at Homestead Steel in Pennsylvania",
+      "answer": "the Pinkerton agency"
+    },
+    {
+      "id": "90s-4-32",
+      "difficulty": 4,
+      "question": "All the ladies love this rapper/actor whose '90s hits include \"Hey Lover\" & \"Mama Said Knock You Out\\\"",
+      "answer": "LL Cool J"
+    },
+    {
+      "id": "90s-4-33",
+      "difficulty": 4,
+      "question": "In 1998 these gals had back-to-back No. 1 hits with \"There's Your Troubles\" & \"Wide Open Spaces\\\"",
+      "answer": "the Dixie Chicks"
+    },
+    {
+      "id": "90s-4-34",
+      "difficulty": 4,
+      "question": "Country star Hunter Hayes was a teenager in Louisiana when he got interest from a music publisher & moved to this city",
+      "answer": "Nashville"
+    },
+    {
+      "id": "90s-4-35",
+      "difficulty": 4,
+      "question": "\\\"No, you're never gonna get it (sweet lovin'), never ever gonna get it (my lovin'), no, you're never gonna get it\\\"",
+      "answer": "En Vogue"
+    },
+    {
+      "id": "90s-4-36",
+      "difficulty": 4,
+      "question": "This hard rock group conjured up \"Use Your Illusion II\\\"",
+      "answer": "Guns N' Roses"
+    },
+    {
+      "id": "90s-4-37",
+      "difficulty": 4,
+      "question": "In 1999 winning wasn't alien to Kristen Johnston as an extraterrestrial visitor on this sitcom",
+      "answer": "Third Rock From the Sun"
+    },
+    {
+      "id": "90s-4-38",
+      "difficulty": 4,
+      "question": "The romance of Dr. Joel Fleischman & local pilot Maggie O'Connell was sometimes hot but often chilly on this show",
+      "answer": "Northern Exposure"
+    },
+    {
+      "id": "90s-4-39",
+      "difficulty": 4,
+      "question": "Including \"The River\" & \"Unanswered Prayers\", he had country hits in every year of the '90s",
+      "answer": "Garth Brooks"
+    },
+    {
+      "id": "90s-4-40",
+      "difficulty": 4,
+      "question": "The Goo Goo Dolls get to skating basics in a 1998 hit that says, \"I wanna wake up where you are...so why don't you\" do this",
+      "answer": "slide"
+    },
+    {
+      "id": "90s-4-41",
+      "difficulty": 4,
+      "question": "In 2018 the people of this country on a peninsula & on Borneo got a new/old leader, 92-year-old Mahathir Mohamad",
+      "answer": "Malaysia"
+    },
+    {
+      "id": "90s-4-42",
+      "difficulty": 4,
+      "question": "This Flavor Flav group criticized emergency response in \"911 Is A Joke\\\"",
+      "answer": "Public Enemy"
+    },
+    {
+      "id": "90s-4-43",
+      "difficulty": 4,
+      "question": "In 1998, she hit Number One with \"Doo Wop (That Thing)\" her first solo single",
+      "answer": "Lauryn Hill"
+    },
+    {
+      "id": "90s-4-44",
+      "difficulty": 4,
+      "question": "In \"Trilby\", a young singer falls under the trance of this man whose name became a synonym for a hypnotic controller",
+      "answer": "Svengali"
+    },
+    {
+      "id": "90s-4-45",
+      "difficulty": 4,
+      "question": "R.E.M.: \"Now, Andy, did you hear about this one? Tell me, are you locked in the punch?\\\"",
+      "answer": "\\\"Man On The Moon\\\""
+    },
+    {
+      "id": "90s-4-46",
+      "difficulty": 4,
+      "question": "The author of this 1996 \"Novel of Politics\" was listed as anonymous",
+      "answer": "Primary Colors"
+    },
+    {
+      "id": "90s-4-47",
+      "difficulty": 4,
+      "question": "\\\"To enter the mind of a killer she must challenge the mind of a madman\\\"",
+      "answer": "The Silence of the Lambs"
+    },
+    {
+      "id": "90s-4-48",
+      "difficulty": 4,
+      "question": "This Bon Jovi album yielded the No. 1 hits \"You Give Love A Bad Name\" & \"Livin' On A Prayer\\\"",
+      "answer": "Slippery When Wet"
+    },
+    {
+      "id": "90s-4-49",
+      "difficulty": 4,
+      "question": "The daughter of a Czech diplomat, she was U.S. ambassador to the U.N. before becoming U.S. Secretary of State",
+      "answer": "Madeleine Albright"
+    },
+    {
+      "id": "90s-4-50",
+      "difficulty": 4,
+      "question": "USA Today called this Richard Preston bestseller about the Ebola virus \"more terrifying than any sci-fi nightmare\\\"",
+      "answer": "The Hot Zone"
+    },
+    {
+      "id": "90s-4-51",
+      "difficulty": 4,
+      "question": "A gesture often accompanied this 4-word anatomical phrase meaning \"I'm not listening to you\\\"",
+      "answer": "talk to the hand"
+    },
+    {
+      "id": "90s-4-52",
+      "difficulty": 4,
+      "question": "In August 1990, with this small country under invasion, its emir Sheikh Jaber fled to Saudi Arabia",
+      "answer": "Kuwait"
+    },
+    {
+      "id": "90s-4-53",
+      "difficulty": 4,
+      "question": "In 1994, this R&B group's \"I'll Make Love To You\" remained at the top of the charts for 14 straight weeks",
+      "answer": "Boyz II Men"
+    },
+    {
+      "id": "90s-4-54",
+      "difficulty": 4,
+      "question": "In 1998 these gals had back to back No 1 hits with \"There's Your Trouble\" & \"Wide Open Spaces\\\"",
+      "answer": "the Dixie Chicks (The Chicks)"
+    },
+    {
+      "id": "90s-4-55",
+      "difficulty": 4,
+      "question": "An earthquake levels buildings & overpasses in L.A. on January 17",
+      "answer": "1994"
+    },
+    {
+      "id": "90s-4-56",
+      "difficulty": 4,
+      "question": "When time-traveling Bruce Willis is sent to the psychiatric ward in this 1995 movie, he meets Brad Pitt, who is really bananas",
+      "answer": "12 Monkeys"
+    },
+    {
+      "id": "90s-4-57",
+      "difficulty": 4,
+      "question": "\\\"The things you say, your purple prose just give you away, the things you say, you're\" this title from EMF",
+      "answer": "\\\"Unbelievable\\\""
+    },
+    {
+      "id": "90s-5-1",
+      "difficulty": 5,
+      "question": "This count was granted a patent in 1895 for his new method of rigid-airship construction",
+      "answer": "Ferdinand von Zeppelin"
+    },
+    {
+      "id": "90s-5-2",
+      "difficulty": 5,
+      "question": "(Hi, I'm Jodie Foster.) I co-produced this acclaimed 1994 film in which I played a backwoods woman with her own special language",
+      "answer": "Nell"
+    },
+    {
+      "id": "90s-5-3",
+      "difficulty": 5,
+      "question": "It's the 1992 Hollywood parody containing the line \"It's 'Out of Africa' meets 'Pretty Woman'\\\"",
+      "answer": "The Player"
+    },
+    {
+      "id": "90s-5-4",
+      "difficulty": 5,
+      "question": "This Seattle player was the only guard to be NBA defensive player of the year in the '90s",
+      "answer": "Gary Payton"
+    },
+    {
+      "id": "90s-5-5",
+      "difficulty": 5,
+      "question": "In 1893, 9 years after Massenet's \"Manon\", this Italian composer told a similar story in \"Manon Lescaut\\\"",
+      "answer": "Giacomo Puccini"
+    },
+    {
+      "id": "90s-5-6",
+      "difficulty": 5,
+      "question": "Peter Fonda won rave reviews & an Oscar nomination for his role in this 1997 movie",
+      "answer": "Ulee's Gold"
+    },
+    {
+      "id": "90s-5-7",
+      "difficulty": 5,
+      "question": "(Hi, I'm Vivica Fox) I played one of the sisters in this 1997 film about family, relationships & Sunday night dinner",
+      "answer": "Soul Food"
+    },
+    {
+      "id": "90s-5-8",
+      "difficulty": 5,
+      "question": "In \"Braveheart\", the English King who's trying to \"take our freedom\\\"",
+      "answer": "Edward I (Edward Longshanks)?"
+    },
+    {
+      "id": "90s-5-9",
+      "difficulty": 5,
+      "question": "Born Faith Plotkin, this Nostradamus of marketing burst on the scene in 1991",
+      "answer": "Faith Popcorn"
+    },
+    {
+      "id": "90s-5-10",
+      "difficulty": 5,
+      "question": "Nerdy neighbor Brian Krakow pined for Angela on this teen angst show starring Claire Danes",
+      "answer": "My So-Called Life"
+    },
+    {
+      "id": "90s-5-11",
+      "difficulty": 5,
+      "question": "The euro currency is officially introduced into financial markets",
+      "answer": "\\'99"
+    },
+    {
+      "id": "90s-5-12",
+      "difficulty": 5,
+      "question": "It's true, the 2 guys passed off as this group didn't really sing their hit \"Girl You Know It's True\\\"",
+      "answer": "Milli Vanilli"
+    },
+    {
+      "id": "90s-5-13",
+      "difficulty": 5,
+      "question": "The leader of this S. Amer. country's Shining Path movement was captured, & Pres. Fujimori called him a \"monster\\\"",
+      "answer": "Peru"
+    },
+    {
+      "id": "90s-5-14",
+      "difficulty": 5,
+      "question": "Every track from his album \"Play\", including \"South Side\", was licensed for use in a commercial or sound track",
+      "answer": "Moby"
+    },
+    {
+      "id": "90s-5-15",
+      "difficulty": 5,
+      "question": "On Oct. 26, 1994 a peace treaty was signed between Israel & this country led by King Hussein I",
+      "answer": "Jordan"
+    },
+    {
+      "id": "90s-5-16",
+      "difficulty": 5,
+      "question": "As second-rate singer Sadie in \"Georgia\", she does an excruciating version of a Van Morrison song",
+      "answer": "Jennifer Jason Leigh"
+    },
+    {
+      "id": "90s-5-17",
+      "difficulty": 5,
+      "question": "\\\"Casey At The Bat\" ends with Casey & his teammates piling onto & pummeling this person at the plate",
+      "answer": "the umpire"
+    },
+    {
+      "id": "90s-5-18",
+      "difficulty": 5,
+      "question": "1994: \"Stay (I Missed You)\"â€”remember, the woman with the glasses?",
+      "answer": "Lisa Loeb"
+    },
+    {
+      "id": "90s-5-19",
+      "difficulty": 5,
+      "question": "Of the 10 targets one bowls at, it's designated No. 5; it also can refer to a person of chief importance",
+      "answer": "Kingpin"
+    },
+    {
+      "id": "90s-5-20",
+      "difficulty": 5,
+      "question": "Gal seeks/kills Buffalo Bill",
+      "answer": "The Silence of the Lambs"
+    },
+    {
+      "id": "90s-5-21",
+      "difficulty": 5,
+      "question": "1991: \"Rush, Rush\" & \"The Promise Of A New Day\\\"",
+      "answer": "Paula Abdul"
+    },
+    {
+      "id": "90s-5-22",
+      "difficulty": 5,
+      "question": "In 1991 John Updike won a Pulitzer for this fourth & final novel about Harry Angstrom",
+      "answer": "Rabbit at Rest"
+    },
+    {
+      "id": "90s-5-23",
+      "difficulty": 5,
+      "question": "This band's \"Monster\" album included \"Crush With Eyeliner\\\"",
+      "answer": "R.E.M."
+    },
+    {
+      "id": "90s-5-24",
+      "difficulty": 5,
+      "question": "The \"Bee Girl\" was at the center of Blind Melon's video for this song",
+      "answer": "\\\"No Rain\\\""
+    },
+    {
+      "id": "90s-5-25",
+      "difficulty": 5,
+      "question": "She had her own hits like \"Sweet Surrender\" & helped found Lilith Fair to showcase other performers",
+      "answer": "Sarah McLachlan"
+    },
+    {
+      "id": "90s-5-26",
+      "difficulty": 5,
+      "question": "The first song to hit No. 1 in the '90s was \"How Am I Supposed To Live Without You\", emoted by this singer",
+      "answer": "Michael Bolton"
+    },
+    {
+      "id": "90s-5-27",
+      "difficulty": 5,
+      "question": "A self-absorbed TV personality urges his audience, \"No flipping!\\\"",
+      "answer": "The Larry Sanders Show"
+    },
+    {
+      "id": "90s-5-28",
+      "difficulty": 5,
+      "question": "From the Beastie Boys: \"I can't stand it, I know you planned it... listen, all y'all, it's a\" this",
+      "answer": "\\\"Sabotage\\\""
+    },
+    {
+      "id": "90s-5-29",
+      "difficulty": 5,
+      "question": "Set in Denmark, this Peter Hoeg thriller centers on a woman with a keen understanding of icy flakes & crystals",
+      "answer": "Smilla's Sense of Snow"
+    },
+    {
+      "id": "90s-5-30",
+      "difficulty": 5,
+      "question": "In 1998 this trio named for a toy reached the top of the charts with \"Iris\" for the \"City of Angels\" soundtrack",
+      "answer": "the Goo Goo Dolls"
+    },
+    {
+      "id": "90s-5-31",
+      "difficulty": 5,
+      "question": "In 1894, 12,000 NYC tailors struck to protest these exploiting establishments, a word just coming into use",
+      "answer": "sweatshops"
+    },
+    {
+      "id": "90s-5-32",
+      "difficulty": 5,
+      "question": "\\\"Kiss From A Rose\" earned 3 Grammys for this British singer",
+      "answer": "Seal"
+    },
+    {
+      "id": "90s-5-33",
+      "difficulty": 5,
+      "question": "\\\"Protect Ya Neck\" was the first single by this hip-hop group with a martial arts-themed name",
+      "answer": "the Wu-Tang Clan"
+    },
+    {
+      "id": "90s-5-34",
+      "difficulty": 5,
+      "question": "She played Sam on \"iCarly\" & on the spinoff \"Sam & Cat\\\"",
+      "answer": "Jennette McCurdy"
+    },
+    {
+      "id": "90s-5-35",
+      "difficulty": 5,
+      "question": "\\\"I'm kinda buzzed & it's all because (this is how we do it), South Central does it like nobody does (this is how we do it)\\\"",
+      "answer": "Montell Jordan"
+    },
+    {
+      "id": "90s-5-36",
+      "difficulty": 5,
+      "question": "That's them in the corner with \"Out of Time\\\"",
+      "answer": "R.E.M."
+    },
+    {
+      "id": "90s-5-37",
+      "difficulty": 5,
+      "question": "This series not only won for best drama in 1993, but its stars Tom Skerritt & Kathy Baker won Best Acting awards",
+      "answer": "Picket Fences"
+    },
+    {
+      "id": "90s-5-38",
+      "difficulty": 5,
+      "question": "Originally from Northern Ireland, this actress played Monica on \"Touched by an Angel\\\"",
+      "answer": "Roma Downey"
+    },
+    {
+      "id": "90s-5-39",
+      "difficulty": 5,
+      "question": "Sadly this group that gave us \"Linger\" lost its lead singer Dolores O'Riordan in 2018",
+      "answer": "The Cranberries"
+    },
+    {
+      "id": "90s-5-40",
+      "difficulty": 5,
+      "question": "In 1971, just shy of his 95th birthday, this Spanish cellist performed a special concert at the United Nations",
+      "answer": "(Pablo) Casals"
+    },
+    {
+      "id": "90s-5-41",
+      "difficulty": 5,
+      "question": "Heather DeLoach was the \"Bee Girl\" in the video for this band's \"No Rain\\\"",
+      "answer": "Blind Melon"
+    },
+    {
+      "id": "90s-5-42",
+      "difficulty": 5,
+      "question": "In 1997 this late rapper had \"Mo Money Mo Problems\\\"",
+      "answer": "the Notorious B.I.G."
+    },
+    {
+      "id": "90s-5-43",
+      "difficulty": 5,
+      "question": "Dubbed \"The Jewish Mark Twain\" for his poignant tales, this author published \"Tevye the Dairyman\" in 1894",
+      "answer": "Sholem Aleichem"
+    },
+    {
+      "id": "90s-5-44",
+      "difficulty": 5,
+      "question": "The Goo Goo Dolls: \"And I'd give up forever to touch you\\\"",
+      "answer": "\\\"Iris\\\""
+    },
+    {
+      "id": "90s-5-45",
+      "difficulty": 5,
+      "question": "\\\"Fear of Fifty\" was \"A Midlife Memoir\" by this \"Fear of Flying\" author",
+      "answer": "Erica Jong"
+    },
+    {
+      "id": "90s-5-46",
+      "difficulty": 5,
+      "question": "\\\"It's a hell of a thing, killing a man\\\"",
+      "answer": "Unforgiven"
+    },
+    {
+      "id": "90s-5-47",
+      "difficulty": 5,
+      "question": "In 1999 this Matchbox Twenty frontman joined Santana for the hit song \"Smooth\\\"",
+      "answer": "Rob Thomas"
+    },
+    {
+      "id": "90s-5-48",
+      "difficulty": 5,
+      "question": "Replacing Ed Koch in 1990, he became New York City's first African American mayor",
+      "answer": "(David) Dinkins"
+    },
+    {
+      "id": "90s-5-49",
+      "difficulty": 5,
+      "question": "He dedicated the Pulitzer Prize-winning \"Angela's Ashes\" \"To my brothers, alachy, Michael, Alphonsus\\\"",
+      "answer": "McCourt"
+    },
+    {
+      "id": "90s-5-50",
+      "difficulty": 5,
+      "question": "The '90s saw an uptick in talk about this, the process of businesses & other entities starting to operate on a worldwide scale",
+      "answer": "globalization"
+    },
+    {
+      "id": "90s-5-51",
+      "difficulty": 5,
+      "question": "Contestants of a certain age may recall this book series by K.A. Applegate with teens shapeshifting into beasts",
+      "answer": "Animorphs"
+    },
+    {
+      "id": "90s-5-52",
+      "difficulty": 5,
+      "question": "Bill Romanowski went from the 49ers to the Eagles & Broncos; this Ill. politician went from power in the U.S. House to prison",
+      "answer": "Dan Rostenkowski"
+    },
+    {
+      "id": "90s-5-53",
+      "difficulty": 5,
+      "question": "The first 1990s hit for this female vocal group was \"Wannabe\" in '97; their last was appropriately \"Goodbye\" in '98",
+      "answer": "the Spice Girls"
+    },
+    {
+      "id": "90s-5-54",
+      "difficulty": 5,
+      "question": "\\\"Protect Ya Neck\" was the first single by this hip-hop group with a martial arts-themed name",
+      "answer": "Wu-Tang Clan"
+    },
+    {
+      "id": "90s-5-55",
+      "difficulty": 5,
+      "question": "The euro currency is officially introduced into financial markets",
+      "answer": "1999"
+    },
+    {
+      "id": "90s-5-56",
+      "difficulty": 5,
+      "question": "Scriptwriter Quentin Tarantino first tried to get backing to make this 1993 Christian Slater film that Tony Scott ultimately made",
+      "answer": "True Romance"
+    },
+    {
+      "id": "90s-5-57",
+      "difficulty": 5,
+      "question": "Sharing its title with an earlier, more upbeat Huey Lewis hit, it was No. 1 for CÃ©line Dion in 1994",
+      "answer": "\\\"The Power Of Love\\\""
+    }
+  ]
+}

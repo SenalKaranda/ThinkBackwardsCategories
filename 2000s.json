@@ -1,0 +1,1136 @@
+{
+  "id": "2000s",
+  "name": "2000s Mixed Bag",
+  "description": "Everything Early 2000s.",
+  "version": 1,
+  "questions": [
+    {
+      "id": "2000s-1-1",
+      "difficulty": 1,
+      "question": "The new Olympic event covering a total of 51.5 kilometers.",
+      "answer": "the triathlon"
+    },
+    {
+      "id": "2000s-1-2",
+      "difficulty": 1,
+      "question": "This Harvard law grad who worked in Nixon's Consumer Affairs Dept. also served in the Reagan & Bush cabinets.",
+      "answer": "Elizabeth Dole"
+    },
+    {
+      "id": "2000s-1-3",
+      "difficulty": 1,
+      "question": "40 years after a famous incident, he was awarded a DFC, POW Medal & Natl. Defense Service Medal posthumously.",
+      "answer": "Francis Gary Powers"
+    },
+    {
+      "id": "2000s-1-4",
+      "difficulty": 1,
+      "question": "This film was partly inspired by Jean-Leon Gerome's painting 'Pollice Verso' or 'Thumbs Down'.",
+      "answer": "Gladiator"
+    },
+    {
+      "id": "2000s-1-5",
+      "difficulty": 1,
+      "question": "The first female track & field athlete to win medals in 5 different events at a single Olympics.",
+      "answer": "Marion Jones"
+    },
+    {
+      "id": "2000s-1-6",
+      "difficulty": 1,
+      "question": "A key scene of this sitcom's 2014 finale after 9 seasons was actually filmed in Season 2.",
+      "answer": "How I Met Your Mother"
+    },
+    {
+      "id": "2000s-1-7",
+      "difficulty": 1,
+      "question": "Blanco is the last name of the main character in 'Metástasis', a Colombia-set version of this show.",
+      "answer": "Breaking Bad"
+    },
+    {
+      "id": "2000s-1-8",
+      "difficulty": 1,
+      "question": "In 2008 Time Magazine described this new practice as \"one part social networking and one part capital accumulation\".",
+      "answer": "crowdfunding"
+    },
+    {
+      "id": "2000s-1-9",
+      "difficulty": 1,
+      "question": "One of the screenwriters of this 2001 film described it as \"'Clueless' meets 'The Paper Chase'\".",
+      "answer": "Legally Blonde"
+    },
+    {
+      "id": "2000s-1-10",
+      "difficulty": 1,
+      "question": "Phi Delta Theta and Sigma Nu are 2 of these that are trying to ban alcohol by 2000.",
+      "answer": "fraternities"
+    },
+    {
+      "id": "2000s-1-11",
+      "difficulty": 1,
+      "question": "Computers that recognize 00 as this date have to be fixed by the year 2000.",
+      "answer": "1900"
+    },
+    {
+      "id": "2000s-1-12",
+      "difficulty": 1,
+      "question": "British musicologist Jonathan Del Mar hopes to have fully restored this composer's 9 symphonies.",
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "2000s-1-13",
+      "difficulty": 1,
+      "question": "Ukraine has promised to close this nuclear plant by 2000.",
+      "answer": "Chernobyl"
+    },
+    {
+      "id": "2000s-1-14",
+      "difficulty": 1,
+      "question": "Amcal has a wall calendar featuring ads & slogans from this Atlanta-based soft drink company",
+      "answer": "Coca-Cola"
+    },
+    {
+      "id": "2000s-1-15",
+      "difficulty": 1,
+      "question": "The cover of Landmark's Norman Rockwell calendar shows one of the covers from this magazine.",
+      "answer": "The Saturday Evening Post"
+    },
+    {
+      "id": "2000s-1-16",
+      "difficulty": 1,
+      "question": "The \"Woodies\" featured in a calendar by Brown Trout are classic cars of this type",
+      "answer": "station wagons"
+    },
+    {
+      "id": "2000s-1-17",
+      "difficulty": 1,
+      "question": "The political party that brought its national convention to Los Angeles on August 14, 2000.",
+      "answer": "the Democratic Party"
+    },
+    {
+      "id": "2000s-1-18",
+      "difficulty": 1,
+      "question": "On March 5, 2000 over 20,000 will wind through the streets of L.A. during this grueling 26.2 mile endurance test.",
+      "answer": "Los Angeles Marathon"
+    },
+    {
+      "id": "2000s-1-19",
+      "difficulty": 1,
+      "question": "L.A.'s fabulous Shrine Auditorium will again host these awards on March 26, 2000.",
+      "answer": "the Academy Awards (Oscars)"
+    },
+    {
+      "id": "2000s-1-20",
+      "difficulty": 1,
+      "question": "(Hi, this is Dick Riordan, mayor of Los Angeles.) This L.A. landmark that celebrates its 77th anniversary in 2000 was originally built to promote a real estate development.",
+      "answer": "the Hollywood Sign"
+    },
+    {
+      "id": "2000s-1-21",
+      "difficulty": 1,
+      "question": "The Summer Olympics will be held in this city",
+      "answer": "Sydney, Australia"
+    },
+    {
+      "id": "2000s-1-22",
+      "difficulty": 1,
+      "question": "As part of official millennium plans, this 79-year-old religious figure will travel to Jerusalem in March 2000.",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "id": "2000s-1-23",
+      "difficulty": 1,
+      "question": "The 2000 Republican Convention will be held in this Eastern city",
+      "answer": "Philadelphia"
+    },
+    {
+      "id": "2000s-1-24",
+      "difficulty": 1,
+      "question": "Starting June 1, 2000 the largest ever of these global showcases will be held in Hanover, Germany.",
+      "answer": "World's Fair"
+    },
+    {
+      "id": "2000s-1-25",
+      "difficulty": 1,
+      "question": "Honda's new Insight is a hybrid, propelled by 2 engines: 1 gas & 1 of this type.",
+      "answer": "electric"
+    },
+    {
+      "id": "2000s-1-26",
+      "difficulty": 1,
+      "question": "This Swedish automaker's 40-Series has—Oh my!—curves instead of corners.",
+      "answer": "Volvo"
+    },
+    {
+      "id": "2000s-1-27",
+      "difficulty": 1,
+      "question": "Not to be Cruella, but Cadillac's completely restored this model for 2000, including L.E.D. taillights.",
+      "answer": "de Ville"
+    },
+    {
+      "id": "2000s-1-28",
+      "difficulty": 1,
+      "question": "This automaker cut its Cutlass and 86ed its Eighty-Eight from the line.",
+      "answer": "Oldsmobile"
+    },
+    {
+      "id": "2000s-1-29",
+      "difficulty": 1,
+      "question": "This actress & Ted Turner announced their separation after 8 years of marriage.",
+      "answer": "Jane Fonda"
+    },
+    {
+      "id": "2000s-1-30",
+      "difficulty": 1,
+      "question": "This \"geographic\" police outfit announced it had foiled a kidnap plot against Posh Spice.",
+      "answer": "Scotland Yard"
+    },
+    {
+      "id": "2000s-1-31",
+      "difficulty": 1,
+      "question": "The Best Chamber Music Performance was this German's sonatas with Lambert Orkis, not Schroeder, on piano.",
+      "answer": "Beethoven"
+    },
+    {
+      "id": "2000s-1-32",
+      "difficulty": 1,
+      "question": "The Best Long Form Music Video featured this \"fiery\" rock guitarist who died in 1970.",
+      "answer": "Jimi Hendrix"
+    },
+    {
+      "id": "2000s-1-33",
+      "difficulty": 1,
+      "question": "Sheryl Crow's winning 'Sweet Child O' Mine' was from the soundtrack of this Adam Sandler film.",
+      "answer": "Big Daddy"
+    },
+    {
+      "id": "2000s-1-34",
+      "difficulty": 1,
+      "question": "Genre in which the albums \"High & Lifted Up\" & \"Pray\" won.",
+      "answer": "Gospel"
+    },
+    {
+      "id": "2000s-1-35",
+      "difficulty": 1,
+      "question": "By winning the British Open, this 24-year-old became the youngest to win golf's career Grand Slam.",
+      "answer": "Tiger Woods"
+    },
+    {
+      "id": "2000s-1-36",
+      "difficulty": 1,
+      "question": "With pride Satan says they're the 2000 Stanley Cup champs.",
+      "answer": "New Jersey Devils"
+    },
+    {
+      "id": "2000s-1-37",
+      "difficulty": 1,
+      "question": "On July 23, he became only the second American to win the Tour de France in consecutive years",
+      "answer": "Lance Armstrong"
+    },
+    {
+      "id": "2000s-1-38",
+      "difficulty": 1,
+      "question": "She dispatched sister Serena at Wimbledon & went on to defeat Lindsay Davenport for the title.",
+      "answer": "Venus Williams"
+    },
+    {
+      "id": "2000s-1-39",
+      "difficulty": 1,
+      "question": "\\\"A Musical Celebration\" of this singer included \"All The Way\" & \"I've Got the World on a String\\\"",
+      "answer": "Frank Sinatra"
+    },
+    {
+      "id": "2000s-1-40",
+      "difficulty": 1,
+      "question": "4-word title of an Arthur Laurents revival; it sounds like a sequel to \"Land of the Free\\\"",
+      "answer": "\\\"Home of the Brave\\\""
+    },
+    {
+      "id": "2000s-1-41",
+      "difficulty": 1,
+      "question": "This Jell-O pudding pitchman said the darnedest things to kids at Xavier University's commencement",
+      "answer": "Bill Cosby"
+    },
+    {
+      "id": "2000s-1-42",
+      "difficulty": 1,
+      "question": "Graduates of Middlebury College in Vermont listened to this former president â€” of Poland",
+      "answer": "Lech Walesa"
+    },
+    {
+      "id": "2000s-1-43",
+      "difficulty": 1,
+      "question": "This author took \"The Firm\" stance of telling Arkansas State grads to \"leave the country\\\"",
+      "answer": "John Grisham"
+    },
+    {
+      "id": "2000s-1-44",
+      "difficulty": 1,
+      "question": "Take a memo: Stanford got a secretary to speak â€” this Secretary-General",
+      "answer": "Kofi Annan"
+    },
+    {
+      "id": "2000s-1-45",
+      "difficulty": 1,
+      "question": "This \"Dead Cert\" writer jockeyed to the forefront of the list, getting a CBE",
+      "answer": "Dick Francis"
+    },
+    {
+      "id": "2000s-1-46",
+      "difficulty": 1,
+      "question": "Sam Mendes was directed to pick up this CBE in June 2000, 3 months after winning an Oscar for directing this film",
+      "answer": "American Beauty"
+    },
+    {
+      "id": "2000s-1-47",
+      "difficulty": 1,
+      "question": "He graced the stage of the Westport County Playhouse in \"Ancestral Voices\" with his wife, Joanne Woodward",
+      "answer": "Paul Newman"
+    },
+    {
+      "id": "2000s-1-48",
+      "difficulty": 1,
+      "question": "In January 2000 Larry Gatlin began touring the U.S. in Frank Wildhorn's musical about this war",
+      "answer": "Civil War"
+    },
+    {
+      "id": "2000s-1-49",
+      "difficulty": 1,
+      "question": "Making her Broadway debut, Cheryl Ladd replaced Bernadette Peters in this sharp-shootin' musical",
+      "answer": "\\\"Annie Get Your Gun\\\""
+    },
+    {
+      "id": "2000s-1-50",
+      "difficulty": 1,
+      "question": "A joke had it that this Green Party nominee was furious at Al Gore for ruining his chance at the presidency",
+      "answer": "Ralph Nader"
+    },
+    {
+      "id": "2000s-1-51",
+      "difficulty": 1,
+      "question": "The costliest House race ever unseated the GOP's James Rogan, a prosecutor in this 1998 - '99 process",
+      "answer": "the impeachment hearings"
+    },
+    {
+      "id": "2000s-1-52",
+      "difficulty": 1,
+      "question": "He canonized fellow Pole Faustina Kowalska",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "id": "2000s-1-53",
+      "difficulty": 1,
+      "question": "He won the Republican nomination for U.S. senator from New York",
+      "answer": "Rick Lazio"
+    },
+    {
+      "id": "2000s-1-54",
+      "difficulty": 1,
+      "question": "This planet, once wrongly thought to have canals, may have water at its surface after all",
+      "answer": "Mars"
+    },
+    {
+      "id": "2000s-1-55",
+      "difficulty": 1,
+      "question": "The U.S. & Florida governments agreed on a $7.8 billion plan to restore water flow to this area",
+      "answer": "the Everglades"
+    },
+    {
+      "id": "2000s-1-56",
+      "difficulty": 1,
+      "question": "Tom Bergeron won a Daytime Emmy in this category",
+      "answer": "Best Game Show Host"
+    },
+    {
+      "id": "2000s-1-57",
+      "difficulty": 1,
+      "question": "The Latin Grammys' first Record of the Year went to \"Corazon Espinado\", by this man's band Mana",
+      "answer": "Carlos Santana"
+    },
+    {
+      "id": "2000s-1-58",
+      "difficulty": 1,
+      "question": "The AP reported this Iraqi leader's son won 99.99% of the vote in his National Assembly race",
+      "answer": "Saddam Hussein"
+    },
+    {
+      "id": "2000s-1-59",
+      "difficulty": 1,
+      "question": "In business, Cisco edged this rival led by the world's richest man to become the world's most valuable company",
+      "answer": "Microsoft"
+    },
+    {
+      "id": "2000s-1-60",
+      "difficulty": 1,
+      "question": "Turning to sports, the Braves denied rumors about trading this controversial lefty to a foreign team, the Expos",
+      "answer": "John Rocker"
+    },
+    {
+      "id": "2000s-1-61",
+      "difficulty": 1,
+      "question": "In entertainment, he was free to go to \"Wall Street\" or \"Spin City\" for that matter; his probation ended",
+      "answer": "Charlie Sheen"
+    },
+    {
+      "id": "2000s-1-62",
+      "difficulty": 1,
+      "question": "Members of this family won women's singles & doubles titles at Wimbledon",
+      "answer": "Williams"
+    },
+    {
+      "id": "2000s-1-63",
+      "difficulty": 1,
+      "question": "In June 2000 the top 3 finishers in this Scripps Howard-sponsored competition were home-schooled kids",
+      "answer": "the (National) Spelling Bee"
+    },
+    {
+      "id": "2000s-1-64",
+      "difficulty": 1,
+      "question": "Following Ecuador's lead, El Salvador also decided to make this currency legal tender",
+      "answer": "the (U.S.) dollar"
+    },
+    {
+      "id": "2000s-1-65",
+      "difficulty": 1,
+      "question": "This city opened Enron Field for its baseball team, broke ground on a new football stadium & OK'd a basketball arena",
+      "answer": "Houston"
+    },
+    {
+      "id": "2000s-1-66",
+      "difficulty": 1,
+      "question": "In 2000 this conference had 3 teams win 10 or more games: Washington, Oregon & Oregon state",
+      "answer": "the Pac-10"
+    },
+    {
+      "id": "2000s-1-67",
+      "difficulty": 1,
+      "question": "This school's Huskers set a college bowl record by scoring 66 points against Northwestern in the Alamo Bowl",
+      "answer": "the University of Nebraska"
+    },
+    {
+      "id": "2000s-1-68",
+      "difficulty": 1,
+      "question": "The USA's only major undefeated team, it won the national title by beating Florida State in the Orange Bowl",
+      "answer": "Oklahoma"
+    },
+    {
+      "id": "2000s-1-69",
+      "difficulty": 1,
+      "question": "Lou Holtz coached this school's Gamecocks to an 8-4 record after a winless season in 1999",
+      "answer": "South Carolina"
+    },
+    {
+      "id": "2000s-1-70",
+      "difficulty": 1,
+      "question": "After capturing less than 1% of the vote in 1996, he was again the Green Party's nominee for president",
+      "answer": "(Ralph) Nader"
+    },
+    {
+      "id": "2000s-1-71",
+      "difficulty": 1,
+      "question": "On August 9, 2000 this company recalled 6.5 million of its tires",
+      "answer": "Firestone"
+    },
+    {
+      "id": "2000s-1-72",
+      "difficulty": 1,
+      "question": "Illinois' governor put a moratorium on these in his state due to questions of justice",
+      "answer": "the death penalty (executions)"
+    },
+    {
+      "id": "2000s-1-73",
+      "difficulty": 1,
+      "question": "In 2009 this supporting actor Oscar winner's award was accepted by his mother, father & sister",
+      "answer": "Heath Ledger"
+    },
+    {
+      "id": "2000s-1-74",
+      "difficulty": 1,
+      "question": "The title of this best screenplay winner refers to the pregnant lead character, not a mythic queen of the heavens",
+      "answer": "Juno"
+    },
+    {
+      "id": "2000s-1-75",
+      "difficulty": 1,
+      "question": "November 25, 2002: This new cabinet department was created, so we can all feel safe now",
+      "answer": "the Department of Homeland Security"
+    },
+    {
+      "id": "2000s-1-76",
+      "difficulty": 1,
+      "question": "His State of the Union speech: \"Never before has our nation enjoyed... so much prosperity... and so few external threats\\\"",
+      "answer": "Bill Clinton"
+    },
+    {
+      "id": "2000s-1-77",
+      "difficulty": 1,
+      "question": "\\\"We reverse the judgment of the Supreme Court of\" this state \"ordering a recount to proceed\\\"",
+      "answer": "Florida"
+    },
+    {
+      "id": "2000s-1-78",
+      "difficulty": 1,
+      "question": "News Corporation paid $580 million in 2005 to get this social networking site that sold for $35 million in 2011",
+      "answer": "Myspace"
+    },
+    {
+      "id": "2000s-1-79",
+      "difficulty": 1,
+      "question": "This No. 1 hit mentions \"the taste of her cherry Chapstick\\\"",
+      "answer": "\\\"I Kissed a Girl\\\""
+    },
+    {
+      "id": "2000s-1-80",
+      "difficulty": 1,
+      "question": "Brandon Flowers is the frontman of this group that rose to prominence with \"Mr. Brightside\\\"",
+      "answer": "The Killers"
+    },
+    {
+      "id": "2000s-1-81",
+      "difficulty": 1,
+      "question": "Quite the voice before judging \"The Voice\", he had a No. 1 country hit in 2001 with \"Austin\\\"",
+      "answer": "Blake Shelton"
+    },
+    {
+      "id": "2000s-1-82",
+      "difficulty": 1,
+      "question": "Quite the voice before judging \"The Voice\", she had a No. 1 pop hit in 2000 with \"What A Girl Wants\\\"",
+      "answer": "Christina Aguilera"
+    },
+    {
+      "id": "2000s-1-83",
+      "difficulty": 1,
+      "question": "On May 31 the tribe spoke for the very first time on this CBS show",
+      "answer": "Survivor"
+    },
+    {
+      "id": "2000s-1-84",
+      "difficulty": 1,
+      "question": "In 2000 the Emmy for Best Variety, Music or Comedy Series went to \"Late Show\" with him, & we miss you, sir",
+      "answer": "David Letterman"
+    },
+    {
+      "id": "2000s-1-85",
+      "difficulty": 1,
+      "question": "This animated explorer & her friend Boots began having adventures",
+      "answer": "Dora the Explorer"
+    },
+    {
+      "id": "2000s-1-86",
+      "difficulty": 1,
+      "question": "Defeating Rick Lazio, Hillary Clinton was elected to the U.S. Senate to represent this state",
+      "answer": "New York"
+    },
+    {
+      "id": "2000s-1-87",
+      "difficulty": 1,
+      "question": "Following the death of Charles Schulz, the final original strip of this comic was published in February",
+      "answer": "Peanuts"
+    },
+    {
+      "id": "2000s-1-88",
+      "difficulty": 1,
+      "question": "In 2020 they sank their teeth into the Best Alternative Music Album Grammy for \"Father of the Bride\\\"",
+      "answer": "Vampire Weekend"
+    },
+    {
+      "id": "2000s-1-89",
+      "difficulty": 1,
+      "question": "The original name of this sitcom set decades ago in Wisconsin was \"Teenage Wasteland\" but it ended up with a more obvious title",
+      "answer": "That '70s Show"
+    },
+    {
+      "id": "2000s-1-90",
+      "difficulty": 1,
+      "question": "Matthew Perry & Courteney Cox were among the friends who attended her lavish wedding to Brad Pitt",
+      "answer": "Jennifer Aniston"
+    },
+    {
+      "id": "2000s-1-91",
+      "difficulty": 1,
+      "question": "The multiple Oscar-nominated films of 2000 included \"Gladiator\" & this one with co-stars including Helen Hunt & a ball",
+      "answer": "Cast Away"
+    },
+    {
+      "id": "2000s-1-92",
+      "difficulty": 1,
+      "question": "Kids nowadays don't know the pain of rewinding a VHS tape before returning it to this storeâ€”unless they live in Bend, Oregon",
+      "answer": "Blockbuster"
+    },
+    {
+      "id": "2000s-1-93",
+      "difficulty": 1,
+      "question": "Indonesia has lost 25% of old-growth this type of area since 1990 & in 2025 we are down to just 23 of the same-named \"Cafe\" worldwide",
+      "answer": "a rainforest"
+    },
+    {
+      "id": "2000s-1-94",
+      "difficulty": 1,
+      "question": "In \"The Divine Comedy\", this Roman poet serves as an informative guide through purgatory & hell",
+      "answer": "Virgil"
+    },
+    {
+      "id": "2000s-2-1",
+      "difficulty": 2,
+      "question": "A 500-foot-tall one of these fair attractions is planned to be built across the Thames from Parliament",
+      "answer": "a Ferris wheel"
+    },
+    {
+      "id": "2000s-2-2",
+      "difficulty": 2,
+      "question": "Universe celebrates the centenary of this author's birth with a \"Little Prince\" calendar",
+      "answer": "Antoine de Saint-ExupÃ©ry"
+    },
+    {
+      "id": "2000s-2-3",
+      "difficulty": 2,
+      "question": "In 2000 Angelenos will be enjoying the new Staples Center that's home to 2 NBA teams & this NHL team",
+      "answer": "the Los Angeles Kings"
+    },
+    {
+      "id": "2000s-2-4",
+      "difficulty": 2,
+      "question": "In 2000 the America's Cup will be held off the coast of this nation that currently holds the trophy",
+      "answer": "New Zealand"
+    },
+    {
+      "id": "2000s-2-5",
+      "difficulty": 2,
+      "question": "It split its most popular all-wheel-drive vehicles, the only type it sells, into 2 linesâ€”Legacy & Outback",
+      "answer": "Subaru"
+    },
+    {
+      "id": "2000s-2-6",
+      "difficulty": 2,
+      "question": "Burning Spear won for Best Album in this musical category with \"Calling Rastafari\\\"",
+      "answer": "Reggae"
+    },
+    {
+      "id": "2000s-2-7",
+      "difficulty": 2,
+      "question": "Los Palominos won for Best Performance in this Mexican-American style made famous by Selena",
+      "answer": "Tejano"
+    },
+    {
+      "id": "2000s-2-8",
+      "difficulty": 2,
+      "question": "The Best Musical Show Album, it featured Bernadette Peters & Tom Wopat",
+      "answer": "\\\"Annie Get Your Gun\\\""
+    },
+    {
+      "id": "2000s-2-9",
+      "difficulty": 2,
+      "question": "Baby, he proved he had \"Staying Power\" winning Best Male R&B Vocal Performance",
+      "answer": "Barry White"
+    },
+    {
+      "id": "2000s-2-10",
+      "difficulty": 2,
+      "question": "This manager who won World Series in both leagues entered baseball's Hall of Fame",
+      "answer": "George \"Sparky\" Anderson"
+    },
+    {
+      "id": "2000s-2-11",
+      "difficulty": 2,
+      "question": "Todd Price produced the U.S. premiere of \"Shadows in the Evening\" by this witty Brit who died in 1973",
+      "answer": "Noel Coward"
+    },
+    {
+      "id": "2000s-2-12",
+      "difficulty": 2,
+      "question": "Critics weren't all kind to a revival of \"Arms and the Man\" by this playwright & critic",
+      "answer": "George Bernard Shaw"
+    },
+    {
+      "id": "2000s-2-13",
+      "difficulty": 2,
+      "question": "In May 2000 Princeton got a queen, this Mideastern one, who's a Princeton alumna",
+      "answer": "Queen Noor of Jordan (Lisa Halaby)"
+    },
+    {
+      "id": "2000s-2-14",
+      "difficulty": 2,
+      "question": "Oh me oh my â€” this Scottish singer's OBE was given \"To\" her \"With Love\" by the Queen",
+      "answer": "Lulu"
+    },
+    {
+      "id": "2000s-2-15",
+      "difficulty": 2,
+      "question": "Hazel Ann Esson, the head housemaid at this Scottish castle, got a Royal Victorian Medal",
+      "answer": "Balmoral Castle"
+    },
+    {
+      "id": "2000s-2-16",
+      "difficulty": 2,
+      "question": "This '30s sexpot, the diva of the double entendre, is the subject of Claudia Shear's 2000 hit \"Dirty Blonde\\\"",
+      "answer": "Mae West"
+    },
+    {
+      "id": "2000s-2-17",
+      "difficulty": 2,
+      "question": "The late governor Mel Carnahan won a U.S. Senate seat in this state",
+      "answer": "Missouri"
+    },
+    {
+      "id": "2000s-2-18",
+      "difficulty": 2,
+      "question": "She gave birth to Dylan Michael Douglas",
+      "answer": "Catherine Zeta-Jones"
+    },
+    {
+      "id": "2000s-2-19",
+      "difficulty": 2,
+      "question": "He pled guilty to just 1 count of mishandling nuclear secrets",
+      "answer": "Wen Ho Lee"
+    },
+    {
+      "id": "2000s-2-20",
+      "difficulty": 2,
+      "question": "Oceanic bacteria may convert sunlight to energy with this process, like plants",
+      "answer": "photosynthesis"
+    },
+    {
+      "id": "2000s-2-21",
+      "difficulty": 2,
+      "question": "A 170-room palace found in the rain forest of this country is a trove of Mayan archaeology",
+      "answer": "Guatemala"
+    },
+    {
+      "id": "2000s-2-22",
+      "difficulty": 2,
+      "question": "The NAACP's Spingarn Medal for 2000 went to this talk show host",
+      "answer": "Oprah Winfrey"
+    },
+    {
+      "id": "2000s-2-23",
+      "difficulty": 2,
+      "question": "The Nobel Prize in Chemistry went to the discoverers of polymers that conduct this",
+      "answer": "electricity"
+    },
+    {
+      "id": "2000s-2-24",
+      "difficulty": 2,
+      "question": "In the funnies, this strip was a rerun; its creator might have been on vacation with his wife Jane Pauley",
+      "answer": "Doonesbury"
+    },
+    {
+      "id": "2000s-2-25",
+      "difficulty": 2,
+      "question": "Found under an old palace, the body of this last emperor of Ethiopia was moved to a tomb with a view",
+      "answer": "Haile Selassie"
+    },
+    {
+      "id": "2000s-2-26",
+      "difficulty": 2,
+      "question": "A sprained ankle forced this Virginia Tech QB (& Heisman hopeful) to miss 1 game & parts of 2 others during 2000",
+      "answer": "Michael Vick"
+    },
+    {
+      "id": "2000s-2-27",
+      "difficulty": 2,
+      "question": "This Fijian beat Tiger Woods by 6 strokes to win the 2000 Masters",
+      "answer": "Vijay Singh"
+    },
+    {
+      "id": "2000s-2-28",
+      "difficulty": 2,
+      "question": "A coach ride past cheering throngs was part of her 100th birthday celebration August 4, 2000",
+      "answer": "the Queen Mother"
+    },
+    {
+      "id": "2000s-2-29",
+      "difficulty": 2,
+      "question": "The Kuomintang lost the presidency of this country for the first time in 50 years",
+      "answer": "Taiwan"
+    },
+    {
+      "id": "2000s-2-30",
+      "difficulty": 2,
+      "question": "When Helen Mirren won in 2007 for playing \"The Queen\", he won best actor for \"The Last King of Scotland\\\"",
+      "answer": "Forest Whitaker"
+    },
+    {
+      "id": "2000s-2-31",
+      "difficulty": 2,
+      "question": "Cate Blanchett won an Oscar for playing this 4-time Oscar-winning actress in \"The Aviator\\\"",
+      "answer": "Katharine Hepburn"
+    },
+    {
+      "id": "2000s-2-32",
+      "difficulty": 2,
+      "question": "January 1, 2002: Adieu, franc! Bonjour, this!",
+      "answer": "the euro"
+    },
+    {
+      "id": "2000s-2-33",
+      "difficulty": 2,
+      "question": "In January, the spokesman for a presidential council on this computer issue: \"It's a lot quieter\\\"",
+      "answer": "Y2K"
+    },
+    {
+      "id": "2000s-2-34",
+      "difficulty": 2,
+      "question": "A congressman: \"Regardless of whether we grant normal trade status to\" this vast country, its \"market is opening\\\"",
+      "answer": "China"
+    },
+    {
+      "id": "2000s-2-35",
+      "difficulty": 2,
+      "question": "New word for a hairstyle that copies a \"Taxi Driver\" look but without shaving the sides",
+      "answer": "a fauxhawk"
+    },
+    {
+      "id": "2000s-2-36",
+      "difficulty": 2,
+      "question": "In 2012 Joanna Rohrback put out a book & a video called this, her exercise technique that emulates a horse's gait",
+      "answer": "Prancercise"
+    },
+    {
+      "id": "2000s-2-37",
+      "difficulty": 2,
+      "question": "The video for this 2005 song is bananas, featuring Harajuku Girls & the Fountain Valley High School marching band",
+      "answer": "\\\"Hollaback Girl\\\""
+    },
+    {
+      "id": "2000s-2-38",
+      "difficulty": 2,
+      "question": "In 2001 this guy, real name Matthew Shafer, had a \"relatively\" big hit with \"Follow Me\\\"",
+      "answer": "Uncle Kracker"
+    },
+    {
+      "id": "2000s-2-39",
+      "difficulty": 2,
+      "question": "In the early '80s it was sometimes called \"GRID\", gay-related immune deficiency",
+      "answer": "AIDS"
+    },
+    {
+      "id": "2000s-2-40",
+      "difficulty": 2,
+      "question": "Providing both hip & hop in 2005, this group that included Fergie had a requestâ€”\"Don't Lie\\\"",
+      "answer": "The Black Eyed Peas"
+    },
+    {
+      "id": "2000s-2-41",
+      "difficulty": 2,
+      "question": "\\\"Wake Me Up When September Ends\", requested this \"colorful\" trio in 2005",
+      "answer": "Green Day"
+    },
+    {
+      "id": "2000s-2-42",
+      "difficulty": 2,
+      "question": "Were you a Miranda? Maybe a Charlotte? Either way, this HBO comedy was in the midst of its 6-year run",
+      "answer": "Sex in the City"
+    },
+    {
+      "id": "2000s-2-43",
+      "difficulty": 2,
+      "question": "IPS driver Doug Heffernan, played by this comic, was \"The King of Queens\\\"",
+      "answer": "Kevin James"
+    },
+    {
+      "id": "2000s-2-44",
+      "difficulty": 2,
+      "question": "(I'm Neil deGrasse Tyson.) I was flattered to be named \"Sexiest Astrophysicist Alive\" by this magazine back in 2000, but I'm inclined to wonder, who was I up against?",
+      "answer": "People"
+    },
+    {
+      "id": "2000s-2-45",
+      "difficulty": 2,
+      "question": "Larry was angering his show biz friends right out of the gate on this HBO comedy",
+      "answer": "Curb Your Enthusiasm"
+    },
+    {
+      "id": "2000s-2-46",
+      "difficulty": 2,
+      "question": "A rise in this fatal bovine ailment sparked alarm in several European countries",
+      "answer": "mad cow disease"
+    },
+    {
+      "id": "2000s-2-47",
+      "difficulty": 2,
+      "question": "The 2000 Summer Olympics were held in this city with Governor-General Sir William Deane opening the games",
+      "answer": "Sydney"
+    },
+    {
+      "id": "2000s-2-48",
+      "difficulty": 2,
+      "question": "In 2001, he and his initial were everywhere with \"U Remind Me\" & \"U Got It Bad\\\"",
+      "answer": "Usher"
+    },
+    {
+      "id": "2000s-2-49",
+      "difficulty": 2,
+      "question": "Tim Daly was Dr. Richard Kimble in this reboot that premiered in 2000 but it had run off the air by the next year",
+      "answer": "The Fugitive"
+    },
+    {
+      "id": "2000s-2-50",
+      "difficulty": 2,
+      "question": "This hot new video game of the year had players controlling the day-to-day lives of virtual people",
+      "answer": "The Sims"
+    },
+    {
+      "id": "2000s-2-51",
+      "difficulty": 2,
+      "question": "Eminem released this \"LP\", his follow-up to \"The Slim Shady LP\", & often considered his best album",
+      "answer": "The Marshall Mathers LP"
+    },
+    {
+      "id": "2000s-2-52",
+      "difficulty": 2,
+      "question": "I spent all allowance at Payless on a BOGO half off deal, BOGO being short for this",
+      "answer": "buy one, get one"
+    },
+    {
+      "id": "2000s-2-53",
+      "difficulty": 2,
+      "question": "Maybe dad will finally say, \"I love you son\" after I buy him a talking meat thermometer from this picture-perfect store",
+      "answer": "Sharper Image"
+    },
+    {
+      "id": "2000s-2-54",
+      "difficulty": 2,
+      "question": "Goethe's \"Faust\" tracks a disillusioned scholar's despair at life leading to a dangerous wager with this devil",
+      "answer": "Mephistopheles"
+    },
+    {
+      "id": "2000s-3-1",
+      "difficulty": 3,
+      "question": "Besides Bush, McCain & Forbes, 1 of the 3 other participants in the Republican debate held Jan. 10, 2000",
+      "answer": "Gary Bauer, Orrin Hatch or Alan Keyes"
+    },
+    {
+      "id": "2000s-3-2",
+      "difficulty": 3,
+      "question": "Richard Burton won a Grammy in 1976; this man, no relation, won in 2000 for reading the words of Martin Luther King",
+      "answer": "LeVar Burton"
+    },
+    {
+      "id": "2000s-3-3",
+      "difficulty": 3,
+      "question": "3 Grammys went to Michael Tilson Thomas' album of this composer's \"Rite of Spring\", \"Firebird\" & \"Persephone\\\"",
+      "answer": "Igor Stravinsky"
+    },
+    {
+      "id": "2000s-3-4",
+      "difficulty": 3,
+      "question": "The same-named son of a famous football coach, he won a Senate seat in Virginia",
+      "answer": "George Allen"
+    },
+    {
+      "id": "2000s-3-5",
+      "difficulty": 3,
+      "question": "He won the Nobel Peace Prize",
+      "answer": "Kim Dae-jung"
+    },
+    {
+      "id": "2000s-3-6",
+      "difficulty": 3,
+      "question": "The fossil of Eosimias suggests a transitional figure between lower & higher members of this order of mammals",
+      "answer": "primates"
+    },
+    {
+      "id": "2000s-3-7",
+      "difficulty": 3,
+      "question": "A 2000 Pulitzer went to Stacy Schiff for \"Vera\", a bio of the wife of this \"Lolita\" author",
+      "answer": "Vladimir Nabokov"
+    },
+    {
+      "id": "2000s-3-8",
+      "difficulty": 3,
+      "question": "In June the leaders of North & South Korea met for talks in this capital of North Korea",
+      "answer": "Pyongyang"
+    },
+    {
+      "id": "2000s-3-9",
+      "difficulty": 3,
+      "question": "Willie Fulgear was at the Shrine Auditorium on March 26 in recognition of his finding 52 of these in a dumpster",
+      "answer": "Oscar statues"
+    },
+    {
+      "id": "2000s-3-10",
+      "difficulty": 3,
+      "question": "He followed up his 2003 Oscar for \"Mystic River\" with a best actor win for 2008",
+      "answer": "Sean Penn"
+    },
+    {
+      "id": "2000s-3-11",
+      "difficulty": 3,
+      "question": "March 23, 2001: It said dasvidaniya & plunged hundreds of miles into the Pacific",
+      "answer": "Mir"
+    },
+    {
+      "id": "2000s-3-12",
+      "difficulty": 3,
+      "question": "This country's president, in an address to the Knesset: \"I am asking forgiveness ...for myself and my generation\\\"",
+      "answer": "Germany"
+    },
+    {
+      "id": "2000s-3-13",
+      "difficulty": 3,
+      "question": "Bill Wasik came up with the idea for these; the first to succeed, in June 2003, gathered 200 folks at a Macy's rug department",
+      "answer": "a flash mob"
+    },
+    {
+      "id": "2000s-3-14",
+      "difficulty": 3,
+      "question": "In her first Top 40 hit, she asked, \"Why'd you have to go and make things so complicated?\\\"",
+      "answer": "(Avril) Lavigne"
+    },
+    {
+      "id": "2000s-3-15",
+      "difficulty": 3,
+      "question": "(Sarah of the Clue Crew shows a map on the monitor.) On the morning of June 25th, 1950, forces in the north stormed across the 38th parallel, beginning this 3-year-long conflict",
+      "answer": "the Korean War"
+    },
+    {
+      "id": "2000s-3-16",
+      "difficulty": 3,
+      "question": "\\\"Stand Up\" in 2005 was the 4th No. 1 studio album in a row by the band named for this S. Afr.-born man; they're big live too",
+      "answer": "The Dave Matthews Band"
+    },
+    {
+      "id": "2000s-3-17",
+      "difficulty": 3,
+      "question": "Before wearing a metal suit, he wore a business one when he played attorney Larry Paul on \"Ally McBeal\\\"",
+      "answer": "Robert Downey Jr."
+    },
+    {
+      "id": "2000s-3-18",
+      "difficulty": 3,
+      "question": "This primetime game show was the USA's most watched TV program",
+      "answer": "Who Wants to be a Millionaire?"
+    },
+    {
+      "id": "2000s-3-19",
+      "difficulty": 3,
+      "question": "We couldn't look away from the stunts on \"Jackass\" on this cable channel",
+      "answer": "MTV"
+    },
+    {
+      "id": "2000s-3-20",
+      "difficulty": 3,
+      "question": "After 136 years underwater, this Confederate submarine was raised intact to the surface in August",
+      "answer": "the Hunley"
+    },
+    {
+      "id": "2000s-3-21",
+      "difficulty": 3,
+      "question": "Peaking at No. 2, their \"Counting Stars\" spent 68 weeks on Billboard's Hot 100",
+      "answer": "OneRepublic"
+    },
+    {
+      "id": "2000s-3-22",
+      "difficulty": 3,
+      "question": "A lively debate about the role & expectations of young women was underway thanks to a portrayal by this actress",
+      "answer": "Calista Flockhart"
+    },
+    {
+      "id": "2000s-3-23",
+      "difficulty": 3,
+      "question": "In 2000 this future Oscar winner won an Emmy & a Golden Globe for her portrayal of Dorothy Dandridge",
+      "answer": "Halle Berry"
+    },
+    {
+      "id": "2000s-3-24",
+      "difficulty": 3,
+      "question": "Waldenbooks was a subsidiary of this bookstore that went the way of the dodo in 2011",
+      "answer": "Borders"
+    },
+    {
+      "id": "2000s-3-25",
+      "difficulty": 3,
+      "question": "A seaman travels into the African interior in search of an ivory trader in this work exposing colonialist evils",
+      "answer": "Heart of Darkness"
+    },
+    {
+      "id": "2000s-4-1",
+      "difficulty": 4,
+      "question": "In France a strike by drivers of these 2-word vehicles left many ATMs empty",
+      "answer": "armored cars"
+    },
+    {
+      "id": "2000s-4-2",
+      "difficulty": 4,
+      "question": "September 15, 2008: Say it ain't so, bro! This overleveraged investment bank went underwater",
+      "answer": "Lehman Brothers"
+    },
+    {
+      "id": "2000s-4-3",
+      "difficulty": 4,
+      "question": "This senator from Wisconsin is best remembered for his Communist \"witch hunts\" of the 1950s",
+      "answer": "(Joseph) McCarthy"
+    },
+    {
+      "id": "2000s-4-4",
+      "difficulty": 4,
+      "question": "Long before he took us to \"Manchester by the Sea\", he made his feature directing debut with \"You Can Count on Me\\\"",
+      "answer": "Kenneth Lonergan"
+    },
+    {
+      "id": "2000s-4-5",
+      "difficulty": 4,
+      "question": "This TLC home improvement show premiered in 2000 & was back in 2018 with host Paige Davis & carpenter Ty Pennington",
+      "answer": "Trading Spaces"
+    },
+    {
+      "id": "2000s-4-6",
+      "difficulty": 4,
+      "question": "Her \"Hot Pink\" & \"Planet Her\" were 2 of the top-selling albums in 2021",
+      "answer": "Doja Cat"
+    },
+    {
+      "id": "2000s-4-7",
+      "difficulty": 4,
+      "question": "Ryan Stiles, Colin Mochrie & Wayne Brady have flipped the non-script on this show",
+      "answer": "Whose Line Is It Anyway?"
+    },
+    {
+      "id": "2000s-4-8",
+      "difficulty": 4,
+      "question": "A man makes numerous failed attempts to gain access to a the title edifice to improve his situation in this Franz Kafka novel",
+      "answer": "The Castle"
+    },
+    {
+      "id": "2000s-5-1",
+      "difficulty": 5,
+      "question": "On September 6 the pope, like Father Merrin, performed this rite, on a 19-year-old girl",
+      "answer": "an exorcism"
+    },
+    {
+      "id": "2000s-5-2",
+      "difficulty": 5,
+      "question": "In 1972 terrorism by a group of Palestinians marred the Olympic Games in this German city",
+      "answer": "Munich"
+    },
+    {
+      "id": "2000s-5-3",
+      "difficulty": 5,
+      "question": "Her acclaimed album \"Mama's Gun\" featured the protest song \"A.D. 2000\\\"",
+      "answer": "Erykah Badu"
+    },
+    {
+      "id": "2000s-5-4",
+      "difficulty": 5,
+      "question": "This David E. Kelley series focused on the lives of teachers & students at a Beantown high school",
+      "answer": "Boston Public"
+    },
+    {
+      "id": "2000s-5-5",
+      "difficulty": 5,
+      "question": "Their 2007 collaboration album was a surprise success, & 14 years later, they returned to raise the roof",
+      "answer": "Plant & Krauss"
+    },
+    {
+      "id": "2000s-5-6",
+      "difficulty": 5,
+      "question": "This James Marsters character had a love/hate relationship with Buffy the Vampire Slayer",
+      "answer": "Spike"
+    },
+    {
+      "id": "2000s-5-7",
+      "difficulty": 5,
+      "question": "Giuseppe di Lampedusa's only novel was about an aging aristocrat with this title animal on his family crest",
+      "answer": "The Leopard"
+    }
+  ]
+}
